@@ -1,0 +1,62 @@
+[
+    {
+        "platformNo": 1,
+        "platformName": "PlayStation5"
+    },
+    {
+        "platformNo": 2,
+        "platformName": "Nintendo Switch"
+    },
+    {
+        "platformNo": 3,
+        "platformName": "PlayStation4"
+    },
+    {
+        "platformNo": 4,
+        "platformName": "PlayStation Vita"
+    },
+    {
+        "platformNo": 5,
+        "platformName": "Nintendo 3DS"
+    },
+    {
+        "platformNo": 6,
+        "platformName": "PlayStation3"
+    },
+    {
+        "platformNo": 7,
+        "platformName": "Nintendo Wii"
+    },
+    {
+        "platformNo": 8,
+        "platformName": "Xbox 360"
+    },
+    {
+        "platformNo": 9,
+        "platformName": "PlayStation Portable"
+    },
+    {
+        "platformNo": 10,
+        "platformName": "Nintendo DS"
+    },
+    {
+        "platformNo": 11,
+        "platformName": "Nintendo GAMECUBE"
+    },
+    {
+        "platformNo": 12,
+        "platformName": "Nintendo Game Boy Advance"
+    },
+    {
+        "platformNo": 13,
+        "platformName": "PlayStation2"
+    },
+    {
+        "platformNo": 14,
+        "platformName": "PC"
+    },
+    {
+        "platformNo": 15,
+        "platformName": "ADULTGAME"
+    }
+]
