@@ -5,7 +5,7 @@
         "url": "https://www.falcom.co.jp/kuro2/",
         "image": "./img/BTBlU6rlUt.webp",
         "releaseDate": "2022-09-29",
-        "purchaseStatus": 0,
+        "purchaseStatus": 1,
         "packageType": 0,
         "rank": "",
         "id": 0
@@ -40,7 +40,7 @@
         "releaseDate": "2022-07-29",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "",
+        "rank": "A",
         "id": 3
     },
     {
@@ -216,7 +216,7 @@
         "releaseDate": "2022-07-22",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "",
+        "rank": "S",
         "id": 19
     },
     {
@@ -2431,15 +2431,15 @@
         "id": 222
     },
     {
-        "title": "Sid Meiers Civilization V",
+        "title": "PARQUET",
         "platform": "PC",
-        "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/",
-        "image": "./img/KEWPBHlTbT.webp",
-        "releaseDate": "2011-07-30",
+        "url": "https://store.steampowered.com/app/1662840/PARQUET/?l=japanese",
+        "image": "./public/img/j2rPxgwiAD.webp",
+        "releaseDate": "2021-07-31",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "SS",
-        "id": 223
+        "rank": "",
+        "id": 221
     },
     {
         "title": "STEINS;GATE",
@@ -2834,7 +2834,7 @@
         "releaseDate": "2021-01-22",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "",
+        "rank": "A",
         "id": 260
     },
     {
@@ -3074,8 +3074,8 @@
         "url": "https://www.jp.square-enix.com/so1_fdr/",
         "image": "./img/oTjHLHaI61.webp",
         "releaseDate": "2019-12-05",
-        "purchaseStatus": 0,
-        "packageType": 0,
+        "purchaseStatus": 1,
+        "packageType": 1,
         "rank": "",
         "id": 282
     },
@@ -3908,11 +3908,12 @@
         "title": "BALDR SKY Dive1 \"Lost Memory\"",
         "platform": "ADULTGAME",
         "url": "",
-        "image": "https://upload.wikimedia.org/wikipedia/zh/f/fe/Baldr_sky_dive1_package.jpg",
+        "image": "./img/1BRaYcX4vn.webp",
         "releaseDate": "2009-03-27",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "B"
+        "rank": "B",
+        "id": 355
     },
     {
         "title": "神様のような君へ",
@@ -3924,5 +3925,93 @@
         "packageType": 1,
         "rank": "C",
         "id": 356
+    },
+    {
+        "title": "恋色マリアージュ",
+        "platform": "ADULTGAME",
+        "url": "http://www.web-marmalade.com/products/koiiro/index.html",
+        "image": "./img/TL7Ff3DWZA.webp",
+        "releaseDate": "2012-10-26",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "C",
+        "id": 357
+    },
+    {
+        "title": "かまいたちの夜 輪廻彩声",
+        "platform": "PC",
+        "url": "https://game.mages.co.jp/kamaitachi/",
+        "image": "./img/LlpJDU9JfJ.webp",
+        "releaseDate": "2017-02-16",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 358
+    },
+    {
+        "title": "428 〜封鎖された渋谷で〜",
+        "platform": "PlayStation4",
+        "url": "https://www.spike-chunsoft.co.jp/428/",
+        "image": "./img/VOXXyuVnYa.webp",
+        "releaseDate": "2008-12-04",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 359
+    },
+    {
+        "title": "WHITE ALBUM2 EXTENDED EDITION",
+        "platform": "ADULTGAME",
+        "url": "https://leaf.aquaplus.jp/product/wa2cc/index.html",
+        "image": "./img/7xISx39vxt.webp",
+        "releaseDate": "2018-02-14",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 360
+    },
+    {
+        "title": "Summer Pockets",
+        "platform": "PC",
+        "url": "https://key.visualarts.gr.jp/summer_rb/",
+        "image": "./img/9TB4P8VIBi.webp",
+        "releaseDate": "2018-06-29",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 361
+    },
+    {
+        "title": "グノーシア",
+        "platform": "Nintendo Switch",
+        "url": "http://d-mebius.com/gnosias/",
+        "image": "./img/U0SBWwTINa.webp",
+        "releaseDate": "2019-06-20",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 362
+    },
+    {
+        "title": "9-nine-",
+        "platform": "PlayStation4",
+        "url": "https://9-nine-project.com/",
+        "image": "./img/wweuCscYyM.webp",
+        "releaseDate": "2017-04-28",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 363
+    },
+    {
+        "title": "G線上の魔王",
+        "platform": "ADULTGAME",
+        "url": "http://www.akabeesoft2.com/products/g_sen/",
+        "image": "./img/MwvSLslyIe.webp",
+        "releaseDate": "2008-05-29",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 364
     }
 ]
