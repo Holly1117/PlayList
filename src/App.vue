@@ -56,7 +56,7 @@ export default {
       }
     },
     loadGameData() {
-      fetch("/json/game.json")
+      fetch("./json/game.json")
         .then((response) => response.json())
         .then((data) => {
           // ゲームデータの初期化
