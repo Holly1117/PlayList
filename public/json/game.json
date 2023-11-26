@@ -27,7 +27,7 @@
         "url": "https://13sar.jp/",
         "image": "./img/o43Qls5WcJ.webp",
         "releaseDate": "2019-11-28",
-        "purchaseStatus": 0,
+        "purchaseStatus": 1,
         "packageType": 0,
         "rank": "",
         "id": 2
@@ -36,7 +36,7 @@
         "title": "Xenoblade3",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/az3ha/index.html",
-        "image": "./img/1sjoh0LbKP.webp",
+        "image": "./img/QUxc5v2wOT.webp",
         "releaseDate": "2022-07-29",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -156,8 +156,8 @@
     {
         "title": "Marvels SPIDER-MAN 2",
         "platform": "PlayStation5",
-        "url": "https://www.playstation.com/ja-jp/games/marvels-spider-man-2/",
-        "image": "./img/myoMbo7ZTp.webp",
+        "url": "https://store.playstation.com/ja-jp/concept/10002456",
+        "image": "./img/WpPAM27svR.webp",
         "releaseDate": "2023-10-20",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -201,7 +201,7 @@
         "title": "FINAL FANTASY VII REBIRTH",
         "platform": "PlayStation5",
         "url": "https://www.jp.square-enix.com/ffvii_rebirth/",
-        "image": "./img/TFYJCqQ5Y4.webp",
+        "image": "./img/m71pBrSTWp.webp",
         "releaseDate": "2024-02-29",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -212,7 +212,7 @@
         "title": "LIVE A LIVE",
         "platform": "Nintendo Switch",
         "url": "https://www.jp.square-enix.com/lal/",
-        "image": "./img/cgqrMKvIFL.webp",
+        "image": "./img/4YOGU5IabI.webp",
         "releaseDate": "2022-07-22",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -322,89 +322,89 @@
         "title": "ゼルダの伝説 スカイウォードソード HD",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/az89a/index.html",
-        "image": "./img/bC7NLNzfn0.webp",
+        "image": "./img/w8Vt6iM9s4.webp",
         "releaseDate": "2021-07-16",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 30
+        "id": 29
     },
     {
         "title": "ゼルダの伝説 夢をみる島",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/ar3na/index.html",
-        "image": "./img/KwUkbk6YNi.webp",
+        "image": "./img/ubaFDbPkao.webp",
         "releaseDate": "2019-09-20",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 31
+        "id": 30
     },
     {
-        "title": "ポケットモンスター スカーレット",
+        "title": "ポケットモンスター バイオレット",
         "platform": "Nintendo Switch",
         "url": "https://www.pokemon.co.jp/ex/sv/ja/",
-        "image": "./img/5SVzV3xzpg.webp",
+        "image": "./img/ETkkm3kblk.webp",
         "releaseDate": "2022-11-18",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "C",
-        "id": 32
+        "id": 31
     },
     {
         "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/zelda/totk/index.html",
-        "image": "./img/r3DOKiVOA6.webp",
+        "image": "./img/D22nuDR2sw.webp",
         "releaseDate": "2023-05-12",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "",
-        "id": 33
+        "id": 32
     },
     {
         "title": "マリオカート8 デラックス",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/aabpa/index.html",
-        "image": "./img/ulfidOVEw7.webp",
+        "image": "./img/dxnNRttiar.webp",
         "releaseDate": "2017-04-28",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 34
+        "id": 33
     },
     {
         "title": "Xenoblade Definitive Edition",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/aubqa/index.html",
-        "image": "./img/0DAYS3e5NF.webp",
+        "image": "./img/750AE5By2U.webp",
         "releaseDate": "2020-05-29",
+        "purchaseStatus": 1,
+        "packageType": 0,
+        "rank": "A",
+        "id": 34
+    },
+    {
+        "title": "Xenoblade2",
+        "platform": "Nintendo Switch",
+        "url": "https://www.nintendo.co.jp/switch/adena/index.html",
+        "image": "./img/lzonoSnK7X.webp",
+        "releaseDate": "2017-12-01",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
         "id": 35
     },
     {
-        "title": "Xenoblade2",
-        "platform": "Nintendo Switch",
-        "url": "https://www.nintendo.co.jp/switch/adena/index.html",
-        "image": "./img/OGPuwJ2L3u.webp",
-        "releaseDate": "2017-12-01",
-        "purchaseStatus": 1,
-        "packageType": 0,
-        "rank": "A",
-        "id": 36
-    },
-    {
         "title": "ポケットモンスター シールド",
         "platform": "Nintendo Switch",
         "url": "https://www.pokemon.co.jp/ex/sword_shield/",
-        "image": "./img/rwvTdkKCgy.webp",
+        "image": "./img/uUtfjfBtns.webp",
         "releaseDate": "2019-11-15",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 37
+        "id": 36
     },
     {
         "title": "KINGDOM HEARTS III",
@@ -586,23 +586,23 @@
         "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/software/feature/zelda/index.html",
-        "image": "./img/rsppXXx3fF.webp",
+        "image": "./img/aJczsrSEM7.webp",
         "releaseDate": "2017-03-03",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 54
+        "id": 53
     },
     {
         "title": "スーパーマリオ 3Dコレクション",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/avp3a/index.html",
-        "image": "./img/4vCzNEmpuF.webp",
+        "image": "./img/jLDDUzIWYy.webp",
         "releaseDate": "2020-09-18",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 55
+        "id": 54
     },
     {
         "title": "ポケットモンスター ブラック",
@@ -872,12 +872,12 @@
         "title": "ファイアーエムブレム 風花雪月",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/anvya/pc/index.html",
-        "image": "./img/b1roMdDpXd.webp",
+        "image": "./img/b6ps9OgETl.webp",
         "releaseDate": "2019-07-26",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 80
+        "id": 79
     },
     {
         "title": "ファイアーエムブレム 新・暗黒竜と光の剣",
@@ -935,15 +935,15 @@
         "id": 85
     },
     {
-        "title": "幻影異聞録♯ＦＥ Encore",
+        "title": "幻影異聞録#FE Encore",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/asa4a/",
-        "image": "./img/l26ZYt0ryw.webp",
+        "image": "./img/zEJXXHAdIF.webp",
         "releaseDate": "2020-01-17",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 86
+        "id": 85
     },
     {
         "title": "ドラゴンクエストIV 導かれし者たち",
@@ -1477,12 +1477,12 @@
         "title": "あつまれ どうぶつの森",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/acbaa/index.html",
-        "image": "./img/jRk7JIDR5q.webp",
+        "image": "./img/LPviqHnczu.webp",
         "releaseDate": "2020-03-20",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 135
+        "id": 134
     },
     {
         "title": "脳を鍛える大人のDSトレーニング",
@@ -1565,23 +1565,23 @@
         "title": "リングフィット アドベンチャー",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/ring/",
-        "image": "./img/hmPTGxzXtL.webp",
+        "image": "./img/g0t5EirT2Z.webp",
         "releaseDate": "2019-10-18",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 143
+        "id": 142
     },
     {
         "title": "ファイナルファンタジー・クリスタルクロニクル リマスター",
         "platform": "Nintendo Switch",
         "url": "https://www.jp.square-enix.com/ffcc/",
-        "image": "./img/i4GWgxL0eU.webp",
+        "image": "./img/Qcb6fAHPar.webp",
         "releaseDate": "2020-08-27",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "C",
-        "id": 144
+        "id": 143
     },
     {
         "title": "トルネコの大冒険3 ~不思議のダンジョン~",
@@ -1796,12 +1796,12 @@
         "title": "大乱闘スマッシュブラザーズ SPECIAL",
         "platform": "Nintendo Switch",
         "url": "https://www.smashbros.com/ja_JP/",
-        "image": "./img/OBTrfXk5Rr.webp",
+        "image": "./img/C2Yc5Vtzh2.webp",
         "releaseDate": "2018-12-07",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 165
+        "id": 163
     },
     {
         "title": "JEANNE DARC",
@@ -1961,23 +1961,23 @@
         "title": "OCTOPATH TRAVELER",
         "platform": "Nintendo Switch",
         "url": "https://www.jp.square-enix.com/octopathtraveler/",
-        "image": "./img/bCSWVJWaDW.webp",
+        "image": "./img/pWxtSOVHKn.webp",
         "releaseDate": "2019-04-28",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 180
+        "id": 178
     },
     {
         "title": "スーパーマリオ オデッセイ",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/aaaca/index.html",
-        "image": "./img/Sfjvs34fDQ.webp",
+        "image": "./img/FNBxHyL4rm.webp",
         "releaseDate": "2017-10-27",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 181
+        "id": 179
     },
     {
         "title": "役満DS",
@@ -2467,12 +2467,12 @@
         "title": "ASTRAL CHAIN",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/ab48a/",
-        "image": "./img/pUWxClX1Gp.webp",
+        "image": "./img/GAohgptqTH.webp",
         "releaseDate": "2019-08-30",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 226
+        "id": 224
     },
     {
         "title": "龍が如く 極2",
@@ -2863,23 +2863,23 @@
         "title": "ファイアーエムブレム エンゲージ",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/switch/ayfna/index.html",
-        "image": "./img/zVNw7AHWTe.webp",
+        "image": "./img/1iv3B4x9dk.webp",
         "releaseDate": "2023-01-20",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 263
+        "id": 260
     },
     {
         "title": "超探偵事件簿 レインコード",
         "platform": "Nintendo Switch",
         "url": "https://www.spike-chunsoft.co.jp/raincode/",
-        "image": "./img/evicIiEhSl.webp",
+        "image": "./img/YDAiIqZuc7.webp",
         "releaseDate": "2023-06-30",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 264
+        "id": 261
     },
     {
         "title": "イナズマイレブン 英雄たちのグレートロード",
@@ -2918,12 +2918,12 @@
         "title": "イース・メモワール -フェルガナの誓い-",
         "platform": "Nintendo Switch",
         "url": "https://www.falcom.co.jp/ysf/",
-        "image": "./img/KW7fru7PgZ.webp",
+        "image": "./img/4l31dXLSAH.webp",
         "releaseDate": "2023-04-27",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 268
+        "id": 265
     },
     {
         "title": "いけにえと雪のセツナ",
@@ -2940,23 +2940,23 @@
         "title": "OCTOPATH TRAVELERⅡ",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/octopathtraveler2/",
-        "image": "./img/YL1qq3upqb.webp",
+        "image": "./img/UOccVrwEZH.webp",
         "releaseDate": "2023-02-24",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 270
+        "id": 267
     },
     {
         "title": " デジモンサヴァイブ",
         "platform": "Nintendo Switch",
         "url": "https://digimon-sur.bn-ent.net/",
-        "image": "./img/7R2BNqe48b.webp",
+        "image": "./img/7fE6cYnxZA.webp",
         "releaseDate": "2022-07-28",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 271
+        "id": 268
     },
     {
         "title": "タクティクスオウガ リボーン",
@@ -3061,12 +3061,12 @@
         "title": "FINAL FANTASY XVI",
         "platform": "PlayStation5",
         "url": "https://jp.finalfantasyxvi.com/",
-        "image": "./img/TYGpZkIjvg.webp",
+        "image": "./img/5WWE6tynqp.webp",
         "releaseDate": "2023-06-22",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 281
+        "id": 278
     },
     {
         "title": "スターオーシャン1 -First Departure R-",
@@ -3160,12 +3160,12 @@
         "title": "ポッ拳 POKKÉN TOURNAMENT DX",
         "platform": "Nintendo Switch",
         "url": "https://www.pokemon.co.jp/ex/pokkenDX/",
-        "image": "./img/Ms8Wp5jmJU.webp",
+        "image": "./img/mrncPzb2JM.webp",
         "releaseDate": "2017-09-22",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "C",
-        "id": 290
+        "id": 287
     },
     {
         "title": "ユニコーンオーバーロード",
@@ -3204,23 +3204,23 @@
         "title": "フロントミッション ザ・ファースト: リメイク",
         "platform": "Nintendo Switch",
         "url": "https://store-jp.nintendo.com/list/software/70010000050512.html",
-        "image": "./img/JVtaQ5PTZi.webp",
+        "image": "./img/lPFxXzoKyV.webp",
         "releaseDate": "2022-11-30",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 294
+        "id": 291
     },
     {
         "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
         "platform": "Nintendo Switch",
         "url": "https://store-jp.nintendo.com/list/software/70010000032649.html",
-        "image": "./img/i0aPhonnRs.webp",
+        "image": "./img/o53jD2ojSa.webp",
         "releaseDate": "2022-04-07",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 295
+        "id": 292
     },
     {
         "title": "逆転裁判456 王泥喜セレクション",
@@ -3292,12 +3292,12 @@
         "title": "トライアングルストラテジー",
         "platform": "Nintendo Switch",
         "url": "https://www.jp.square-enix.com/trianglestrategy/",
-        "image": "./img/qvgEW7UJyA.webp",
+        "image": "./img/xbq3WitRaQ.webp",
         "releaseDate": "2022-03-04",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 302
+        "id": 299
     },
     {
         "title": "ポケットモンスター ルビー",
@@ -3985,7 +3985,7 @@
         "title": "グノーシア",
         "platform": "Nintendo Switch",
         "url": "http://d-mebius.com/gnosias/",
-        "image": "./img/U0SBWwTINa.webp",
+        "image": "./img/cL13tHVMu1.webp",
         "releaseDate": "2019-06-20",
         "purchaseStatus": 0,
         "packageType": 0,
