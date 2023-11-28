@@ -3,18 +3,18 @@
         "title": "英雄伝説 黎の軌跡Ⅱ -CRIMSON SiN-",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/kuro2/",
-        "image": "./img/BTBlU6rlUt.webp",
+        "image": "./img/lz3QxWyNs2.webp",
         "releaseDate": "2022-09-29",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "",
+        "rank": "B",
         "id": 0
     },
     {
         "title": "英雄伝説 黎の軌跡",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/kuro/",
-        "image": "./img/bHm0XvE7mw.webp",
+        "image": "./img/gAo1mPAnr9.webp",
         "releaseDate": "2021-09-30",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -25,7 +25,7 @@
         "title": "十三機兵防衛圏",
         "platform": "PlayStation4",
         "url": "https://13sar.jp/",
-        "image": "./img/o43Qls5WcJ.webp",
+        "image": "./img/H9yJHyvxBR.webp",
         "releaseDate": "2019-11-28",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -44,10 +44,10 @@
         "id": 3
     },
     {
-        "title": "真・女神転生III-NOCTURNE",
+        "title": "真・女神転生Ⅲ-NOCTURNE",
         "platform": "PlayStation4",
         "url": "http://shin-megamitensei.jp/3hd/",
-        "image": "./img/HAAqlH7GBU.webp",
+        "image": "./img/hzYl1XKQKi.webp",
         "releaseDate": "2020-10-29",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -56,9 +56,9 @@
     },
     {
         "title": "真・女神転生V",
-        "platform": "PlayStation4",
+        "platform": "Nintendo Switch",
         "url": "https://megaten5.jp/",
-        "image": "./img/qXlY5p0oF8.webp",
+        "image": "./img/A3cmKe7SUq.webp",
         "releaseDate": "2021-11-11",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -69,7 +69,7 @@
         "title": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/ryza/",
-        "image": "./img/LECHxEuCni.webp",
+        "image": "./img/rzBE4HQO4z.webp",
         "releaseDate": "2019-09-26",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -77,10 +77,10 @@
         "id": 6
     },
     {
-        "title": "ライザのアトリエ２ ～失われた伝承と秘密の妖精～",
+        "title": "ライザのアトリエ2 ～失われた伝承と秘密の妖精～",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/ryza2/",
-        "image": "./img/SS1RjkPUvJ.webp",
+        "image": "./img/ZBpSQUmmOY.webp",
         "releaseDate": "2020-12-03",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -91,7 +91,7 @@
         "title": "ライザのアトリエ3 〜終わりの錬金術士と秘密の鍵〜",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/ryza3/",
-        "image": "./img/CfP6Pu36Ra.webp",
+        "image": "./img/EjvNpQadn2.webp",
         "releaseDate": "2023-03-23",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -102,7 +102,7 @@
         "title": "BLUE REFLECTION 幻に舞う少女の剣",
         "platform": "PlayStation4",
         "url": "https://social.gust.co.jp/gakkou/",
-        "image": "./img/FaUcgxGry4.webp",
+        "image": "./img/4O2j1SAWhl.webp",
         "releaseDate": "2017-03-30",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -113,7 +113,7 @@
         "title": "Marvels Avengers",
         "platform": "PlayStation4",
         "url": "https://avengers.square-enix-games.com/ja-jp/",
-        "image": "./img/3DiLVGc5C8.webp",
+        "image": "./img/CdmHyNbFF4.webp",
         "releaseDate": "2020-08-14",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -124,7 +124,7 @@
         "title": "P5R - ペルソナ5 ザ・ロイヤル",
         "platform": "PlayStation4",
         "url": "https://p5r.jp/",
-        "image": "./img/Hxj2wvwvFc.webp",
+        "image": "./img/7xU1GYulra.webp",
         "releaseDate": "2019-10-31",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -135,7 +135,7 @@
         "title": "BLUE REFLECTION TIE/帝",
         "platform": "PlayStation4",
         "url": "https://bluereflection-tie.com/",
-        "image": "./img/rYwkp10eTq.webp",
+        "image": "./img/nUVet8Lvrf.webp",
         "releaseDate": "2021-10-21",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -168,7 +168,7 @@
         "title": "ドラゴンクエストX オフライン",
         "platform": "PlayStation4",
         "url": "https://www.dqx.jp/offline/",
-        "image": "./img/29XDR80bVQ.webp",
+        "image": "./img/jAT7hLmUqX.webp",
         "releaseDate": "2022-09-15",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -190,7 +190,7 @@
         "title": "FINAL FANTASY VII REMAKE",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/ffvii_remake/",
-        "image": "./img/arp1qnLfHF.webp",
+        "image": "./img/U4d56Awpag.webp",
         "releaseDate": "2020-04-10",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -223,7 +223,7 @@
         "title": "聖剣伝説3 TRIALS of MANA",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/seiken3_tom/",
-        "image": "./img/JpyMS13MAg.webp",
+        "image": "./img/OLNP4vu82y.webp",
         "releaseDate": "2020-04-24",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -234,7 +234,7 @@
         "title": "イースVIII -Lacrimosa of DANA-",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/ys8_ps4/",
-        "image": "./img/WU2HTqxs1v.webp",
+        "image": "./img/62De6ZGvWK.webp",
         "releaseDate": "2016-07-21",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -245,78 +245,78 @@
         "title": "テイルズ オブ アライズ",
         "platform": "PlayStation4",
         "url": "https://toarise.tales-ch.jp/",
-        "image": "./img/QVgwpfCQkB.webp",
+        "image": "./img/9fAvJN5dk8.webp",
         "releaseDate": "2021-09-09",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 23
+        "id": 22
     },
     {
         "title": "テイルズ オブ ベルセリア",
         "platform": "PlayStation4",
         "url": "https://talesofberseria.tales-ch.jp/",
-        "image": "./img/lLc6NnloNq.webp",
+        "image": "./img/I5NFRC2Uvt.webp",
         "releaseDate": "2016-08-18",
+        "purchaseStatus": 1,
+        "packageType": 0,
+        "rank": "B",
+        "id": 23
+    },
+    {
+        "title": "リディー&スールのアトリエ 〜不思議な絵画の錬金術士〜",
+        "platform": "PlayStation4",
+        "url": "https://www.gamecity.ne.jp/atelier/lydie/",
+        "image": "./img/S2fc1rKc9T.webp",
+        "releaseDate": "2017-12-21",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
         "id": 24
     },
     {
-        "title": "リディー&スールのアトリエ 〜不思議な絵画の錬金術士〜",
+        "title": "フィリスのアトリエ 〜不思議な旅の錬金術士〜",
         "platform": "PlayStation4",
-        "url": "https://www.gamecity.ne.jp/atelier/lydie/",
-        "image": "./img/VwvW69p06Q.webp",
-        "releaseDate": "2017-12-21",
+        "url": "https://social.gust.co.jp/firis/",
+        "image": "./img/6JaakhXeHt.webp",
+        "releaseDate": "2016-11-02",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
         "id": 25
     },
     {
-        "title": "フィリスのアトリエ 〜不思議な旅の錬金術士〜",
-        "platform": "PlayStation4",
-        "url": "https://social.gust.co.jp/firis/",
-        "image": "./img/XZnRavNjm5.webp",
-        "releaseDate": "2016-11-02",
-        "purchaseStatus": 1,
-        "packageType": 0,
-        "rank": "B",
-        "id": 26
-    },
-    {
         "title": "ソフィーのアトリエ2 ～不思議な夢の錬金術士～",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/sophie2/",
-        "image": "./img/57Jc4y2z2J.webp",
+        "image": "./img/hnxdyqXGTJ.webp",
         "releaseDate": "2022-02-25",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 27
+        "id": 26
     },
     {
         "title": "ソフィーのアトリエ 〜不思議な本の錬金術士〜",
         "platform": "PlayStation4",
         "url": "https://social.gust.co.jp/sophie/",
-        "image": "./img/tQrINKUpNU.webp",
+        "image": "./img/WugNKg04jP.webp",
         "releaseDate": "2015-11-19",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 28
+        "id": 27
     },
     {
         "title": "月姫 -A piece of blue glass moon-",
-        "platform": "PlayStation4",
+        "platform": "Nintendo Switch",
         "url": "http://typemoon.com/products/tsukihime/",
-        "image": "./img/5LPr7vabSc.webp",
+        "image": "./img/D8fAmNltHQ.webp",
         "releaseDate": "2021-08-26",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 29
+        "id": 28
     },
     {
         "title": "ゼルダの伝説 スカイウォードソード HD",
@@ -359,7 +359,7 @@
         "releaseDate": "2023-05-12",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "",
+        "rank": "SS",
         "id": 32
     },
     {
@@ -407,15 +407,15 @@
         "id": 36
     },
     {
-        "title": "KINGDOM HEARTS III",
+        "title": "KINGDOM HEARTS Ⅲ",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/kingdom/kh3/",
-        "image": "./img/EH3xYOkxYs.webp",
+        "image": "./img/VbfXFMOc1K.webp",
         "releaseDate": "2019-01-25",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 38
+        "id": 37
     },
     {
         "title": "KINGDOM HEARTS Ⅱ",
@@ -454,12 +454,12 @@
         "title": "P5 - ペルソナ5",
         "platform": "PlayStation4",
         "url": "https://persona5.jp/",
-        "image": "./img/rkmjvDQFoB.webp",
+        "image": "./img/xHD85zobdk.webp",
         "releaseDate": "2016-09-15",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "S",
-        "id": 42
+        "rank": "SS",
+        "id": 41
     },
     {
         "title": "P4G - ペルソナ4 ザ・ゴールデン",
@@ -509,12 +509,12 @@
         "title": "英雄伝説 閃の軌跡III",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/sen3/",
-        "image": "./img/fZwN0Lr2O2.webp",
+        "image": "./img/U6nwkSmVcs.webp",
         "releaseDate": "2017-09-28",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 47
+        "id": 46
     },
     {
         "title": "英雄伝説 閃の軌跡Ⅱ",
@@ -542,23 +542,23 @@
         "title": "英雄伝説 閃の軌跡IV -THE END OF SAGA-",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/sen4/",
-        "image": "./img/1zHwQpORyE.webp",
+        "image": "./img/zUdEQqEIF7.webp",
         "releaseDate": "2018-09-27",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 50
+        "id": 49
     },
     {
         "title": "英雄伝説 創の軌跡",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/hajimari/",
-        "image": "./img/7jdRNWuczO.webp",
+        "image": "./img/JDcHxBwb1X.webp",
         "releaseDate": "2020-08-24",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 51
+        "id": 50
     },
     {
         "title": "英雄伝説 碧の軌跡",
@@ -652,45 +652,45 @@
         "title": "Marvels Spider-Man",
         "platform": "PlayStation4",
         "url": "https://store.playstation.com/ja-jp/product/JP9000-CUSA09751_00-MARVELSSPIDERMAN",
-        "image": "./img/BFnpuxBrna.webp",
+        "image": "./img/uW71v3Ktb9.webp",
         "releaseDate": "2018-09-17",
+        "purchaseStatus": 1,
+        "packageType": 0,
+        "rank": "S",
+        "id": 59
+    },
+    {
+        "title": "イースIX -Monstrum NOX-",
+        "platform": "PlayStation4",
+        "url": "https://www.falcom.co.jp/ys9/",
+        "image": "./img/Z1sWEQ3iDs.webp",
+        "releaseDate": "2019-09-26",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
         "id": 60
     },
     {
-        "title": "イースIX -Monstrum NOX-",
-        "platform": "PlayStation4",
-        "url": "https://www.falcom.co.jp/ys9/",
-        "image": "./img/TXDTIXro2s.webp",
-        "releaseDate": "2019-09-26",
-        "purchaseStatus": 1,
-        "packageType": 0,
-        "rank": "S",
-        "id": 61
-    },
-    {
         "title": "テイルズ オブ ヴェスペリア REMASTER",
         "platform": "PlayStation4",
         "url": "https://tov10th.tales-ch.jp/remaster/",
-        "image": "./img/hWzDsGpfJG.webp",
+        "image": "./img/cdv2NQ2QBu.webp",
         "releaseDate": "2019-01-11",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 62
+        "id": 61
     },
     {
         "title": "P5S - ペルソナ5 スクランブル ザ ファントム ストライカーズ",
         "platform": "PlayStation4",
         "url": "https://p5s.jp/",
-        "image": "./img/zpHbqMsIYm.webp",
+        "image": "./img/HMahHXQ3qW.webp",
         "releaseDate": "2020-02-20",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 63
+        "id": 62
     },
     {
         "title": "ポケットモンスター ファイアレッド",
@@ -740,12 +740,12 @@
         "title": "KINGDOM HEARTS Melody of Memory",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/kingdom/kh_mom/",
-        "image": "./img/1qyn8Xcdgg.webp",
+        "image": "./img/hr0RHyVbOJ.webp",
         "releaseDate": "2021-03-30",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 68
+        "id": 67
     },
     {
         "title": "KINGDOM HEARTS 3D Dream Drop Distance",
@@ -806,12 +806,12 @@
         "title": "KINGDOM HEARTS HD 1.5+2.5 ReMix",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/kingdom/khhd1_2/",
-        "image": "./img/RKW64LtGFF.webp",
+        "image": "./img/fhDPBhF6Aq.webp",
         "releaseDate": "2017-03-09",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "S",
-        "id": 74
+        "rank": "SS",
+        "id": 73
     },
     {
         "title": "ファイアーエムブレム 封印の剣",
@@ -1037,12 +1037,12 @@
         "title": "ドラゴンクエストXI 過ぎ去りし時を求めて",
         "platform": "PlayStation4",
         "url": "https://www.dq11.jp/",
-        "image": "./img/7fGQwPyJpF.webp",
+        "image": "./img/xk9iosH56W.webp",
         "releaseDate": "2017-07-29",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 95
+        "id": 94
     },
     {
         "title": "FINAL FANTASY X",
@@ -1092,23 +1092,23 @@
         "title": "FINAL FANTASY XV",
         "platform": "PlayStation4",
         "url": "http://www.jp.square-enix.com/ff15/",
-        "image": "./img/tFpBfWUtNH.webp",
+        "image": "./img/ERcBPYP8qm.webp",
         "releaseDate": "2016-11-29",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "E",
-        "id": 100
+        "id": 99
     },
     {
         "title": "ニーア レプリカント ver.1.22474487139...",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/nierreplicantv1p2/",
-        "image": "./img/T7OAVqoFQI.webp",
+        "image": "./img/Z3MphPmtUi.webp",
         "releaseDate": "2021-04-22",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 101
+        "id": 100
     },
     {
         "title": "魔界戦記ディスガイア",
@@ -1151,7 +1151,7 @@
         "releaseDate": "2002-12-13",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "SS",
+        "rank": "S",
         "id": 105
     },
     {
@@ -1480,7 +1480,7 @@
         "image": "./img/LPviqHnczu.webp",
         "releaseDate": "2020-03-20",
         "purchaseStatus": 1,
-        "packageType": 0,
+        "packageType": 1,
         "rank": "B",
         "id": 134
     },
@@ -1862,12 +1862,12 @@
         "title": "那由多の軌跡:改",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/nayuta/",
-        "image": "./img/Eavn7ZQvsD.webp",
+        "image": "./img/mYR5Q2Jxdl.webp",
         "releaseDate": "2012-07-26",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "C",
-        "id": 171
+        "id": 169
     },
     {
         "title": "英雄伝説V 海の檻歌",
@@ -1906,12 +1906,12 @@
         "title": "イース セルセタの樹海:改",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/ysc_ps4/",
-        "image": "./img/IKNfmIL07D.webp",
+        "image": "./img/MeqvPrItHk.webp",
         "releaseDate": "2012-09-27",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "S",
-        "id": 175
+        "id": 173
     },
     {
         "title": "まわるメイドインワリオ",
@@ -1950,12 +1950,12 @@
         "title": "FINAL FANTASY XII THE ZODIAC AGE",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/ff12_tza/",
-        "image": "./img/Pg6Rj6ZSEW.webp",
+        "image": "./img/OVEaWYtnm4.webp",
         "releaseDate": "2017-07-13",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 179
+        "id": 177
     },
     {
         "title": "OCTOPATH TRAVELER",
@@ -2896,23 +2896,23 @@
         "title": "テイルズ オブ シンフォニア Remastered",
         "platform": "PlayStation4",
         "url": "https://tosre-nowagain.tales-ch.jp/",
-        "image": "./img/WAGPUh07l4.webp",
+        "image": "./img/QRTpJ0QwRL.webp",
         "releaseDate": "2023-02-16",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 266
+        "id": 263
     },
     {
         "title": "イースX -NORDICS-",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/ysx/",
-        "image": "./img/7g2OoyNhDW.webp",
+        "image": "./img/6tghnpNIFn.webp",
         "releaseDate": "2023-9-28",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 267
+        "id": 264
     },
     {
         "title": "イース・メモワール -フェルガナの誓い-",
@@ -2929,18 +2929,18 @@
         "title": "いけにえと雪のセツナ",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/setsuna/",
-        "image": "./img/cW2xhTYbIm.webp",
+        "image": "./img/20CWQ1mfPF.webp",
         "releaseDate": "2016-02-08",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "B",
-        "id": 269
+        "id": 266
     },
     {
         "title": "OCTOPATH TRAVELERⅡ",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/octopathtraveler2/",
-        "image": "./img/UOccVrwEZH.webp",
+        "image": "./img/15f57K1TRV.webp",
         "releaseDate": "2023-02-24",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -2962,34 +2962,34 @@
         "title": "タクティクスオウガ リボーン",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/tor/",
-        "image": "./img/4k8ZhdTBx5.webp",
+        "image": "./img/IAtEtLUSSQ.webp",
         "releaseDate": "2022-11-11",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 272
+        "id": 269
     },
     {
         "title": "マリーのアトリエ Remake ～ザールブルグの錬金術士～ ",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/marie-re/",
-        "image": "./img/83yxLVwOiJ.webp",
+        "image": "./img/8Uur0Z3wWI.webp",
         "releaseDate": "2023-07-23",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 273
+        "id": 270
     },
     {
         "title": "バテン・カイトス I & II HD Remaster",
         "platform": "Nintendo Switch",
         "url": "https://btkt.bn-ent.net/",
-        "image": "./img/hcEianq5t6.webp",
+        "image": "./img/n4R2Zrj5EX.webp",
         "releaseDate": "2023-09-14",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 274
+        "id": 271
     },
     {
         "title": "幻想水滸伝 I&II HDリマスター 門の紋章戦争/デュナン統一戦争",
@@ -3014,15 +3014,15 @@
         "id": 276
     },
     {
-        "title": "大逆転裁判1＆2 -成歩堂龍ノ介の冒險と覺悟-",
+        "title": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
         "platform": "PC",
         "url": "https://www.ace-attorney.com/great1-2/ja/",
-        "image": "./img/2CXH9A8UTH.webp",
+        "image": "./img/Lf8YsGmb4V.webp",
         "releaseDate": "2021-07-29",
         "purchaseStatus": 0,
         "packageType": 1,
         "rank": "",
-        "id": 277
+        "id": 274
     },
     {
         "title": "ガンダム オペレーショントロイ",
@@ -3048,14 +3048,14 @@
     },
     {
         "title": "百英雄伝",
-        "platform": "Nintendo Switch",
+        "platform": "PlayStation4",
         "url": "https://rabbitandbearstudios.com/eiyudenchronicle/",
-        "image": "./img/2gXZoFUUdd.webp",
+        "image": "./img/9FTWNW00sV.webp",
         "releaseDate": "9999-99-99",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 280
+        "id": 277
     },
     {
         "title": "FINAL FANTASY XVI",
@@ -3083,16 +3083,16 @@
         "title": "スターオーシャン -THE SECOND STORY R-",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/so2r/",
-        "image": "./img/Dwx39Dslz5.webp",
+        "image": "./img/CD3qcKcIcT.webp",
         "releaseDate": "2023-11-02",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 283
+        "id": 280
     },
     {
         "title": "スターオーシャン4 -THE LAST HOPE- 4K & Full HD Remaster",
-        "platform": "PlayStation4",
+        "platform": "PC",
         "url": "https://www.jp.square-enix.com/so4/",
         "image": "./img/o72oLXt3KL.webp",
         "releaseDate": "2017-11-28",
@@ -3105,45 +3105,45 @@
         "title": "スターオーシャン5 -Integrity and Faithlessness-",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/so5/",
-        "image": "./img/HANLACOjs1.webp",
+        "image": "./img/YSgxuTf9g3.webp",
         "releaseDate": "2016-03-31",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 285
+        "id": 282
     },
     {
         "title": "スターオーシャン6 -THE DIVINE FORCE-",
         "platform": "PlayStation4",
         "url": "https://www.jp.square-enix.com/so6/",
-        "image": "./img/msFqTDtw9U.webp",
+        "image": "./img/vp5faZ0BDv.webp",
         "releaseDate": "2022-10-27",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 286
+        "id": 283
     },
     {
         "title": "スーパーマリオRPG",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.com/jp/switch/a8lua/index.html",
-        "image": "./img/rmhySg6Lg7.webp",
+        "image": "./img/NmjtjGpFsB.webp",
         "releaseDate": "2023-11-17",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 287
+        "id": 284
     },
     {
         "title": "うみねこのなく頃に",
         "platform": "PC",
         "url": "https://07th-expansion.net/umi_gensaku",
-        "image": "./img/65CdpSk0xH.webp",
+        "image": "./img/VWE9hqoL2i.webp",
         "releaseDate": "2010-12-31",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "A",
-        "id": 288
+        "id": 285
     },
     {
         "title": "ひぐらしのなく頃に",
@@ -3169,14 +3169,14 @@
     },
     {
         "title": "ユニコーンオーバーロード",
-        "platform": "Nintendo Switch",
+        "platform": "PlayStation4",
         "url": "https://unicorn-overlord.com/",
-        "image": "./img/57uCZYkMtV.webp",
+        "image": "./img/JyXCz78pJQ.webp",
         "releaseDate": "2024-03-08",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 291
+        "id": 288
     },
     {
         "title": "フロントミッション セカンド:リメイク",
@@ -3185,7 +3185,7 @@
         "image": "./img/7e8Yd5ELYx.webp",
         "releaseDate": "2023-10-05",
         "purchaseStatus": 0,
-        "packageType": 0,
+        "packageType": 1,
         "rank": "",
         "id": 292
     },
@@ -3196,7 +3196,7 @@
         "image": "./img/t1Qu53EXgx.webp",
         "releaseDate": "2023-07-06",
         "purchaseStatus": 0,
-        "packageType": 0,
+        "packageType": 1,
         "rank": "",
         "id": 293
     },
@@ -3226,67 +3226,67 @@
         "title": "逆転裁判456 王泥喜セレクション",
         "platform": "PlayStation4",
         "url": "https://www.ace-attorney.com/aj-trilogy/ja-jp/",
-        "image": "./img/e6QkTd6Ife.webp",
+        "image": "./img/7XIIqhVIUK.webp",
         "releaseDate": "2024-01-25",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 293
+    },
+    {
+        "title": "CRISIS CORE -FINAL FANTASY Ⅶ- REUNION",
+        "platform": "PlayStation4",
+        "url": "https://www.jp.square-enix.com/ccffvii_reunion/system/index.html",
+        "image": "./img/5AI6OrKPCZ.webp",
+        "releaseDate": "2023-12-13",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 294
+    },
+    {
+        "title": "P5T - ペルソナ5 タクティカ",
+        "platform": "PlayStation4",
+        "url": "https://p5t.jp/",
+        "image": "./img/4FKTzD1S6y.webp",
+        "releaseDate": "2023-11-17",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 295
+    },
+    {
+        "title": "P3RE - ペルソナ3 リロード",
+        "platform": "PlayStation4",
+        "url": "https://p3re.jp/",
+        "image": "./img/mahHNu8yeQ.webp",
+        "releaseDate": "2024-02-02",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
         "id": 296
     },
     {
-        "title": "CRISIS CORE -FINAL FANTASY VII- REUNION",
+        "title": "英雄伝説 零の軌跡：改",
         "platform": "PlayStation4",
-        "url": "https://www.jp.square-enix.com/ccffvii_reunion/system/index.html",
-        "image": "./img/3SBqQKnhD2.webp",
-        "releaseDate": "2023-12-13",
+        "url": "https://www.falcom.co.jp/zeroao/",
+        "image": "./img/OP5rPau3R1.webp",
+        "releaseDate": "2022-04-23",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
         "id": 297
     },
     {
-        "title": "P5T - ペルソナ5 タクティカ",
-        "platform": "PlayStation4",
-        "url": "https://p5t.jp/",
-        "image": "./img/edQXfSCBnm.webp",
-        "releaseDate": "2023-11-17",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": "",
-        "id": 298
-    },
-    {
-        "title": "P3RE - ペルソナ3 リロード",
-        "platform": "PlayStation4",
-        "url": "https://p3re.jp/",
-        "image": "./img/DdvTbuKfjb.webp",
-        "releaseDate": "2024-02-02",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": "",
-        "id": 299
-    },
-    {
-        "title": "英雄伝説 零の軌跡：改",
-        "platform": "PlayStation4",
-        "url": "https://www.falcom.co.jp/zeroao/",
-        "image": "./img/VYT61MUBuB.webp",
-        "releaseDate": "2022-04-23",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": "",
-        "id": 300
-    },
-    {
         "title": "英雄伝説 碧の軌跡：改",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/zeroao/",
-        "image": "./img/LaeBRxUn7z.webp",
+        "image": "./img/Ez6Vh25pyl.webp",
         "releaseDate": "2022-05-28",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 301
+        "id": 298
     },
     {
         "title": "トライアングルストラテジー",
@@ -3347,12 +3347,12 @@
         "title": "失われた未来を求めて",
         "platform": "ADULTGAME",
         "url": "",
-        "image": "./img/d05c2KhlAW.webp",
+        "image": "./img/igoh9Trxbv.webp",
         "releaseDate": "2010-11-26",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "B",
-        "id": 309
+        "id": 304
     },
     {
         "title": "はにかみCLOVER",
@@ -3369,12 +3369,12 @@
         "title": "グリザイアの果実",
         "platform": "ADULTGAME",
         "url": "http://frontwing.jp/product/grisaia/",
-        "image": "./img/tr10DVPPqn.webp",
+        "image": "./img/Ja7yHuWh3e.webp",
         "releaseDate": "2011-02-25",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "A",
-        "id": 311
+        "id": 306
     },
     {
         "title": "グリザイアの迷宮",
@@ -3391,45 +3391,45 @@
         "title": "グリザイアの楽園",
         "platform": "ADULTGAME",
         "url": "http://frontwing.jp/product/grisaia3/",
-        "image": "./img/r615o45m6t.webp",
+        "image": "./img/6MNrHOJyPG.webp",
         "releaseDate": "2013-05-23",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "A",
-        "id": 313
+        "id": 308
     },
     {
         "title": "ものべの",
         "platform": "ADULTGAME",
         "url": "https://www.lose.jp/official/",
-        "image": "./img/ZLqCzZx00r.webp",
+        "image": "./img/5V0qslskjM.webp",
         "releaseDate": "2012-04-27",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "B",
-        "id": 314
+        "id": 309
     },
     {
         "title": "まいてつ",
         "platform": "ADULTGAME",
         "url": "https://www.lose.jp/official/",
-        "image": "./img/c8eISlfuw0.webp",
+        "image": "./img/dDAJQ8shHp.webp",
         "releaseDate": "2016-03-25",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "B",
-        "id": 315
+        "id": 310
     },
     {
         "title": "穢翼のユースティア",
         "platform": "ADULTGAME",
         "url": "https://august-soft.com/eustia/",
-        "image": "./img/XPxDOFHgwq.webp",
+        "image": "./img/2Bta2sOG4B.webp",
         "releaseDate": "2011-04-28",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "A",
-        "id": 316
+        "id": 311
     },
     {
         "title": "大図書館の羊飼い",
@@ -3446,12 +3446,12 @@
         "title": "大図書館の羊飼い～放課後しっぽデイズ～",
         "platform": "ADULTGAME",
         "url": "https://august-soft.com/daito_sd/index.html",
-        "image": "./img/eXSLVSG0NE.webp",
+        "image": "./img/82MUEiTl0K.webp",
         "releaseDate": "2014-01-31",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "B",
-        "id": 318
+        "id": 313
     },
     {
         "title": "大図書館の羊飼い-Dreaming Sheep-",
@@ -3501,12 +3501,12 @@
         "title": "レイジングループ",
         "platform": "PlayStation4",
         "url": "https://www.kemco.jp/sp/games/rl/",
-        "image": "./img/MYe5exlqwv.webp",
+        "image": "./img/WsJ3xXP602.webp",
         "releaseDate": "2015-12-03",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
-        "id": 323
+        "id": 318
     },
     {
         "title": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ ",
@@ -3545,7 +3545,7 @@
         "title": "天使☆騒々 RE-BOOT!",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/products/ten_sz/",
-        "image": "./img/tV036C4mny.webp",
+        "image": "./img/CQJMbdGQed.webp",
         "releaseDate": "2023-04-28",
         "purchaseStatus": 0,
         "packageType": 1,
@@ -3567,7 +3567,7 @@
         "title": "喫茶ステラと死神の蝶",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/products/stella/index.html",
-        "image": "./img/qAcpWP7FQ9.webp",
+        "image": "./img/OmARRey6MD.webp",
         "releaseDate": "2019-12-20",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3578,7 +3578,7 @@
         "title": "RIDDLE JOKER",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/products/riddle/",
-        "image": "./img/VLWCBRp6J8.webp",
+        "image": "./img/jgETVViylX.webp",
         "releaseDate": "2018-03-30",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3586,10 +3586,10 @@
         "id": 325
     },
     {
-        "title": "千恋＊万花",
+        "title": "千恋*万花",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/products/senren/index.html",
-        "image": "./img/mtTlvacELt.webp",
+        "image": "./img/c6xFINU8gW.webp",
         "releaseDate": "2016-07-29",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3600,7 +3600,7 @@
         "title": "サノバウィッチ",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/products/sothewitch/index.html",
-        "image": "./img/nTOe3wL4KR.webp",
+        "image": "./img/LxOnGJUBhY.webp",
         "releaseDate": "2015-02-24",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3608,10 +3608,10 @@
         "id": 327
     },
     {
-        "title": "天色＊アイルノーツ",
+        "title": "天色*アイルノーツ",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/ja/amairo.html",
-        "image": "./img/1fKOf4RPzu.webp",
+        "image": "./img/ci5BMGivsq.webp",
         "releaseDate": "2013-07-26",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3622,7 +3622,7 @@
         "title": "DRACU-RIOT!",
         "platform": "ADULTGAME",
         "url": "https://www.yuzu-soft.com/ja/dracuriot.html",
-        "image": "./img/nSXdrVqH8F.webp",
+        "image": "./img/bIqt5PYTKp.webp",
         "releaseDate": "2012-03-30",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3633,7 +3633,7 @@
         "title": "暁の護衛",
         "platform": "ADULTGAME",
         "url": "http://www.akabeesoft3.com/products/goei/index.html",
-        "image": "./img/FSGF0JtkYA.webp",
+        "image": "./img/fZhkVN4tYl.webp",
         "releaseDate": "2008-03-27",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3677,7 +3677,7 @@
         "title": "将軍様はお年頃 ふぁんでぃすく -御三家だヨ！ 全員集合-",
         "platform": "ADULTGAME",
         "url": "http://www.alcot.biz/product/shogun_fd/index.html",
-        "image": "./img/tiXIKifs1e.webp",
+        "image": "./img/HsVUNKjloS.webp",
         "releaseDate": "2019-03-29",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3776,7 +3776,7 @@
         "title": "PRIMALxHEARTS",
         "platform": "ADULTGAME",
         "url": "http://www.web-marmalade.com/products/primal/",
-        "image": "./img/bHy8rDIaB8.webp",
+        "image": "./img/0vg6tpN16B.webp",
         "releaseDate": "2014-08-29",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3864,7 +3864,7 @@
         "title": "ピュア×コネクト",
         "platform": "ADULTGAME",
         "url": "http://www.hook-net.jp/smee/pureconnect/",
-        "image": "./img/v9AY2immcm.webp",
+        "image": "./img/BhXiNWfeVF.webp",
         "releaseDate": "2015-05-29",
         "purchaseStatus": 1,
         "packageType": 1,
@@ -3952,7 +3952,7 @@
         "title": "428 〜封鎖された渋谷で〜",
         "platform": "PlayStation4",
         "url": "https://www.spike-chunsoft.co.jp/428/",
-        "image": "./img/VOXXyuVnYa.webp",
+        "image": "./img/TtKy39oesD.webp",
         "releaseDate": "2008-12-04",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -3963,7 +3963,7 @@
         "title": "WHITE ALBUM2 EXTENDED EDITION",
         "platform": "ADULTGAME",
         "url": "https://leaf.aquaplus.jp/product/wa2cc/index.html",
-        "image": "./img/7xISx39vxt.webp",
+        "image": "./img/BRRX7O3XLy.webp",
         "releaseDate": "2018-02-14",
         "purchaseStatus": 0,
         "packageType": 1,
@@ -3996,7 +3996,7 @@
         "title": "9-nine-",
         "platform": "PlayStation4",
         "url": "https://9-nine-project.com/",
-        "image": "./img/wweuCscYyM.webp",
+        "image": "./img/oudQrMjt5T.webp",
         "releaseDate": "2017-04-28",
         "purchaseStatus": 0,
         "packageType": 0,
