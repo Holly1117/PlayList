@@ -506,7 +506,7 @@
         "id": 46
     },
     {
-        "title": "英雄伝説 閃の軌跡III",
+        "title": "英雄伝説 閃の軌跡Ⅲ",
         "platform": "PlayStation4",
         "url": "https://www.falcom.co.jp/sen3/",
         "image": "./img/U6nwkSmVcs.webp",
@@ -520,12 +520,12 @@
         "title": "英雄伝説 閃の軌跡Ⅱ",
         "platform": "PlayStation Vita",
         "url": "https://www.falcom.co.jp/sen2/",
-        "image": "./img/Uqigaq22ee.webp",
+        "image": "./img/Vdc143Q0w3.webp",
         "releaseDate": "2014-09-25",
         "purchaseStatus": 1,
         "packageType": 0,
         "rank": "A",
-        "id": 48
+        "id": 47
     },
     {
         "title": "英雄伝説 閃の軌跡",
@@ -4013,5 +4013,38 @@
         "packageType": 0,
         "rank": "",
         "id": 364
+    },
+    {
+        "title": "大神 絶景版",
+        "platform": "Nintendo Switch",
+        "url": "https://www.capcom-games.com/o-kami/",
+        "image": "./img/vfgS6LUDn5.webp",
+        "releaseDate": "2018-08-09",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "",
+        "id": 365
+    },
+    {
+        "title": "ロマンシング サガ2",
+        "platform": "Nintendo Switch",
+        "url": "http://www.jp.square-enix.com/romasaga2/",
+        "image": "./img/kFnKDzRAPr.webp",
+        "releaseDate": "2017-12-15",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "",
+        "id": 366
+    },
+    {
+        "title": "イース・オリジン",
+        "platform": "Nintendo Switch",
+        "url": "https://www.falcom.co.jp/yso/",
+        "image": "./img/TelUC71Uvr.webp",
+        "releaseDate": "2020-10-01",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "",
+        "id": 367
     }
 ]
