@@ -49,7 +49,7 @@
         "url": "http://shin-megamitensei.jp/3hd/",
         "image": "./img/hzYl1XKQKi.webp",
         "releaseDate": "2020-10-29",
-        "purchaseStatus": 0,
+        "purchaseStatus": 1,
         "packageType": 0,
         "rank": "",
         "id": 4
@@ -168,7 +168,7 @@
         "title": "ドラゴンクエストX オフライン",
         "platform": "PlayStation4",
         "url": "https://www.dqx.jp/offline/",
-        "image": "./img/jAT7hLmUqX.webp",
+        "image": "./img/Fb7ZeOPUYk.webp",
         "releaseDate": "2022-09-15",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -519,7 +519,7 @@
     {
         "title": "英雄伝説 閃の軌跡Ⅱ",
         "platform": "PlayStation Vita",
-        "url": "https://www.falcom.co.jp/sen2/",
+        "url": "https://m.media-amazon.com/images/I/71JYeqk+o5L._AC_UF894,1000_QL80_.jpg",
         "image": "./img/Vdc143Q0w3.webp",
         "releaseDate": "2014-09-25",
         "purchaseStatus": 1,
@@ -586,7 +586,7 @@
         "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
         "platform": "Nintendo Switch",
         "url": "https://www.nintendo.co.jp/software/feature/zelda/index.html",
-        "image": "./img/aJczsrSEM7.webp",
+        "image": "./img/65qpQ3Oa0D.webp",
         "releaseDate": "2017-03-03",
         "purchaseStatus": 1,
         "packageType": 0,
@@ -2896,7 +2896,7 @@
         "title": "テイルズ オブ シンフォニア Remastered",
         "platform": "PlayStation4",
         "url": "https://tosre-nowagain.tales-ch.jp/",
-        "image": "./img/QRTpJ0QwRL.webp",
+        "image": "./img/oDservZHEy.webp",
         "releaseDate": "2023-02-16",
         "purchaseStatus": 0,
         "packageType": 0,
@@ -3954,7 +3954,7 @@
         "url": "https://www.spike-chunsoft.co.jp/428/",
         "image": "./img/TtKy39oesD.webp",
         "releaseDate": "2008-12-04",
-        "purchaseStatus": 0,
+        "purchaseStatus": 1,
         "packageType": 0,
         "rank": "",
         "id": 359
@@ -4044,7 +4044,29 @@
         "releaseDate": "2020-10-01",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "",
+        "rank": "B",
         "id": 367
+    },
+    {
+        "title": "聖剣伝説 VISIONS of MANA",
+        "platform": "PlayStation5",
+        "url": "https://www.jp.square-enix.com/seiken_vom/",
+        "image": "./img/ueZdDDh4H0.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 368
+    },
+    {
+        "title": "メタファー：リファンタジオ",
+        "platform": "PlayStation5",
+        "url": "https://rpg.jp/",
+        "image": "./img/nlCqeDiDxZ.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 369
     }
 ]
