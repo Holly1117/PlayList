@@ -51,7 +51,7 @@
     "releaseDate": "2020-10-29",
     "purchaseStatus": 1,
     "packageType": 0,
-    "rank": "A",
+    "rank": "B",
     "id": 4
   },
   {
@@ -71,9 +71,9 @@
     "url": "https://www.gamecity.ne.jp/atelier/ryza/",
     "image": "./img/rzBE4HQO4z.webp",
     "releaseDate": "2019-09-26",
-    "purchaseStatus": 0,
-    "packageType": 0,
-    "rank": "",
+    "purchaseStatus": 1,
+    "packageType": 1,
+    "rank": "B",
     "id": 6
   },
   {
@@ -1105,7 +1105,7 @@
     "url": "https://www.jp.square-enix.com/nierreplicantv1p2/",
     "image": "./img/Z3MphPmtUi.webp",
     "releaseDate": "2021-04-22",
-    "purchaseStatus": 0,
+    "purchaseStatus": 1,
     "packageType": 0,
     "rank": "",
     "id": 100
@@ -3294,7 +3294,7 @@
     "url": "https://www.jp.square-enix.com/trianglestrategy/",
     "image": "./img/xbq3WitRaQ.webp",
     "releaseDate": "2022-03-04",
-    "purchaseStatus": 0,
+    "purchaseStatus": 1,
     "packageType": 0,
     "rank": "",
     "id": 299
@@ -4077,7 +4077,7 @@
     "releaseDate": "2022-08-24",
     "purchaseStatus": 1,
     "packageType": 0,
-    "rank": "",
+    "rank": "B",
     "id": 370
   },
   {
