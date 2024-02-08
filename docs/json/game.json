@@ -99,17 +99,6 @@
     "id": 8
   },
   {
-    "title": "BLUE REFLECTION 幻に舞う少女の剣",
-    "platform": "PlayStation4",
-    "url": "https://social.gust.co.jp/gakkou/",
-    "image": "./img/4O2j1SAWhl.webp",
-    "releaseDate": "2017-03-30",
-    "purchaseStatus": 0,
-    "packageType": 0,
-    "rank": "",
-    "id": 9
-  },
-  {
     "title": "Marvels Avengers",
     "platform": "PlayStation4",
     "url": "https://avengers.square-enix-games.com/ja-jp/",
@@ -130,17 +119,6 @@
     "packageType": 0,
     "rank": "",
     "id": 11
-  },
-  {
-    "title": "BLUE REFLECTION TIE/帝",
-    "platform": "PlayStation4",
-    "url": "https://bluereflection-tie.com/",
-    "image": "./img/nUVet8Lvrf.webp",
-    "releaseDate": "2021-10-21",
-    "purchaseStatus": 0,
-    "packageType": 0,
-    "rank": "",
-    "id": 12
   },
   {
     "title": "KINGDOM HEARTS IV",
@@ -2964,21 +2942,10 @@
     "url": "https://www.jp.square-enix.com/tor/",
     "image": "./img/IAtEtLUSSQ.webp",
     "releaseDate": "2022-11-11",
-    "purchaseStatus": 0,
+    "purchaseStatus": 1,
     "packageType": 0,
     "rank": "",
     "id": 269
-  },
-  {
-    "title": "マリーのアトリエ Remake ～ザールブルグの錬金術士～ ",
-    "platform": "PlayStation4",
-    "url": "https://www.gamecity.ne.jp/atelier/marie-re/",
-    "image": "./img/8Uur0Z3wWI.webp",
-    "releaseDate": "2023-07-23",
-    "purchaseStatus": 0,
-    "packageType": 0,
-    "rank": "",
-    "id": 270
   },
   {
     "title": "バテン・カイトス I & II HD Remaster",
@@ -3188,17 +3155,6 @@
     "packageType": 1,
     "rank": "",
     "id": 292
-  },
-  {
-    "title": "センチメンタルデスループ",
-    "platform": "Nintendo Switch",
-    "url": "https://store-jp.nintendo.com/list/software/70010000064930.html",
-    "image": "./img/t1Qu53EXgx.webp",
-    "releaseDate": "2023-07-06",
-    "purchaseStatus": 0,
-    "packageType": 1,
-    "rank": "",
-    "id": 293
   },
   {
     "title": "フロントミッション ザ・ファースト: リメイク",
