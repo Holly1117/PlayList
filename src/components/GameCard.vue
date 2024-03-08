@@ -66,7 +66,7 @@ export default {
 <style scoped>
 .gameCard {
   width: 240px;
-  margin: 5px 5px 10px 5px;
+  margin: 22px 5px;
   text-align: center;
   display: flex;
   flex-direction: column;

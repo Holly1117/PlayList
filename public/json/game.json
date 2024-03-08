@@ -3454,17 +3454,6 @@
         "id": 322
     },
     {
-        "title": "レイジングループ",
-        "platform": "PlayStation4",
-        "url": "https://www.kemco.jp/sp/games/rl/",
-        "image": "./img/WsJ3xXP602.webp",
-        "releaseDate": "2015-12-03",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": "",
-        "id": 318
-    },
-    {
         "title": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？ ",
         "platform": "ADULTGAME",
         "url": "https://qruppo.com/products/nukitashi/",
@@ -3612,7 +3601,7 @@
         "platform": "ADULTGAME",
         "url": "http://akabeesoft3.com/products/goei2/mannaka.html",
         "image": "./img/N3nAGmsfaO.webp",
-        "releaseDate": "2008-03-27",
+        "releaseDate": "2010-04-22",
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "S",
@@ -4078,5 +4067,27 @@
         "packageType": 1,
         "rank": "",
         "id": 374
+    },
+    {
+        "title": "Battlefield 2042",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/1517290/Battlefield_2042/",
+        "image": "./img/MbvKsz8hHx.webp",
+        "releaseDate": "2021-10-06",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "B",
+        "id": 370
+    },
+    {
+        "title": "Frostpunk",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/323190/Frostpunk/?l=japanese",
+        "image": "./img/LIKsaVPDHN.webp",
+        "releaseDate": "2018-04-24",
+        "purchaseStatus": 1,
+        "packageType": 1,
+        "rank": "S",
+        "id": 371
     }
 ]
