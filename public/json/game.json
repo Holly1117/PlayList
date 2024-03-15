@@ -55,17 +55,6 @@
         "id": 4
     },
     {
-        "title": "真・女神転生V",
-        "platform": "Nintendo Switch",
-        "url": "https://megaten5.jp/",
-        "image": "./img/A3cmKe7SUq.webp",
-        "releaseDate": "2021-11-11",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": "",
-        "id": 5
-    },
-    {
         "title": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
         "platform": "PlayStation4",
         "url": "https://www.gamecity.ne.jp/atelier/ryza/",
@@ -2640,17 +2629,6 @@
         "id": 243
     },
     {
-        "title": "Frostpunk",
-        "platform": "PC",
-        "url": "https://store.steampowered.com/app/323190/Frostpunk/",
-        "image": "./img/qU8SNHOvpu.webp",
-        "releaseDate": "2018-04-24",
-        "purchaseStatus": 1,
-        "packageType": 1,
-        "rank": "",
-        "id": 244
-    },
-    {
         "title": "Half-Life",
         "platform": "PC",
         "url": "https://store.steampowered.com/app/70/HalfLife/",
@@ -2834,7 +2812,7 @@
         "releaseDate": "2020-01-23",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "",
+        "rank": "A",
         "id": 262
     },
     {
@@ -4088,6 +4066,28 @@
         "purchaseStatus": 1,
         "packageType": 1,
         "rank": "S",
+        "id": 371
+    },
+    {
+        "title": "真・女神転生V Vengeance",
+        "platform": "PlayStation4",
+        "url": "https://megaten5.jp/vengeance/",
+        "image": "./img/5E1thldixX.webp",
+        "releaseDate": "2024-06-21",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 372
+    },
+    {
+        "title": "グランツーリスモ７",
+        "platform": "PlayStation5",
+        "url": "https://www.gran-turismo.com/jp/gt7/top/",
+        "image": "./img/vFVwVhPhaQ.webp",
+        "releaseDate": "2022-03-04",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
         "id": 371
     }
 ]
