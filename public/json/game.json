@@ -2801,7 +2801,7 @@
         "releaseDate": "2020-01-23",
         "purchaseStatus": 1,
         "packageType": 1,
-        "rank": "",
+        "rank": "A",
         "id": 261
     },
     {
@@ -4089,5 +4089,104 @@
         "packageType": 0,
         "rank": "",
         "id": 371
+    },
+    {
+        "title": "Atomic Heart",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/668580/Atomic_Heart/?l=japanese",
+        "image": "./img/eDjZNeLK9C.webp",
+        "releaseDate": "2023-02-21",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 372
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/1091500/2077/",
+        "image": "./img/cKCzJArK0E.webp",
+        "releaseDate": "2020-12-10",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 373
+    },
+    {
+        "title": "アイドルマネージャー",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/821880/_/",
+        "image": "./img/TjG634vHLt.webp",
+        "releaseDate": "2021-07-27",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 374
+    },
+    {
+        "title": "龍が如く3",
+        "platform": "PC",
+        "url": "https://ryu-ga-gotoku.com/ps4three/",
+        "image": "./img/WYnRfZ9Mbg.webp",
+        "releaseDate": "2009-02-26",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 375
+    },
+    {
+        "title": "龍が如く4",
+        "platform": "PC",
+        "url": "https://store.steampowered.com/app/1105500/Yakuza_4_Remastered/",
+        "image": "./img/XZUjskYHQJ.webp",
+        "releaseDate": "2010-03-18",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 376
+    },
+    {
+        "title": "龍が如く5",
+        "platform": "PC",
+        "url": "https://ryu-ga-gotoku.com/five/",
+        "image": "./img/w89GcJ3mHc.webp",
+        "releaseDate": "2012-12-05",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 377
+    },
+    {
+        "title": "龍が如く6",
+        "platform": "PC",
+        "url": "https://ryu-ga-gotoku.com/six/",
+        "image": "./img/gpy2z3WdQ8.webp",
+        "releaseDate": "2016-12-08",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 378
+    },
+    {
+        "title": "龍が如く7",
+        "platform": "PC",
+        "url": "https://ryu-ga-gotoku.com/seven/",
+        "image": "./img/e0RxCPyNPZ.webp",
+        "releaseDate": "2020-01-16",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 379
+    },
+    {
+        "title": "龍が如く8",
+        "platform": "PC",
+        "url": "https://ryu-ga-gotoku.com/eight/",
+        "image": "./img/Chym2qv1bE.webp",
+        "releaseDate": "2024-01-25",
+        "purchaseStatus": 0,
+        "packageType": 1,
+        "rank": "",
+        "id": 380
     }
 ]
