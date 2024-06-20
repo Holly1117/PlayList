@@ -143,11 +143,11 @@
         "id": 15
     },
     {
-        "title": "HD-2D版 ドラゴンクエストIII",
+        "title": "ドラゴンクエストⅢ そして伝説へ…",
         "platform": "Nintendo Switch",
-        "url": "",
+        "url": "https://www.dragonquest.jp/roto-trilogy/",
         "image": "./img/qANKi1vjhM.webp",
-        "releaseDate": "9999-99-99",
+        "releaseDate": "2024-11-14",
         "purchaseStatus": 0,
         "packageType": 0,
         "rank": "",
@@ -2922,7 +2922,7 @@
         "releaseDate": "2022-11-11",
         "purchaseStatus": 1,
         "packageType": 0,
-        "rank": "",
+        "rank": "B",
         "id": 269
     },
     {
@@ -4004,16 +4004,6 @@
         "id": 370
     },
     {
-        "title": "モノクロームメビウス 刻ノ代贖",
-        "platform": "PlayStation4",
-        "url": "https://aquaplus.jp/mm/",
-        "image": "https://www.furu1.online/storage/product/10147454/00.webp",
-        "releaseDate": "2022-11-17",
-        "purchaseStatus": 0,
-        "packageType": 0,
-        "rank": ""
-    },
-    {
         "title": "ARMORED CORE VI FIRES OF RUBICON",
         "platform": "PlayStation5",
         "url": "https://www.armoredcore.net/",
@@ -4188,5 +4178,60 @@
         "packageType": 1,
         "rank": "",
         "id": 380
+    },
+    {
+        "title": "ドラゴンクエストI＆II",
+        "platform": "Nintendo Switch",
+        "url": "",
+        "image": "./img/iGKI1xMKEO.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 380
+    },
+    {
+        "title": "かまいたちの夜×3",
+        "platform": "Nintendo Switch",
+        "url": "https://www.spike-chunsoft.co.jp/kama3/",
+        "image": "./img/5Hc6UFOKji.webp",
+        "releaseDate": "2024-09-19",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 381
+    },
+    {
+        "title": "HUNDRED LINE -最終防衛学園-",
+        "platform": "Nintendo Switch",
+        "url": "",
+        "image": "./img/4DJUTitcua.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 382
+    },
+    {
+        "title": "逆転検事1＆2 御剣セレクション",
+        "platform": "Nintendo Switch",
+        "url": "https://www.ace-attorney.com/investigations1-2/ja-jp/",
+        "image": "./img/5ssQUPFH6D.webp",
+        "releaseDate": "2024-09-06",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 383
+    },
+    {
+        "title": "ゼルダの伝説 知恵のかりもの",
+        "platform": "Nintendo Switch",
+        "url": "https://www.nintendo.com/jp/switch/bdgea/index.html",
+        "image": "./img/zYyBxjik2k.webp",
+        "releaseDate": "2024-09-26",
+        "purchaseStatus": 0,
+        "packageType": 0,
+        "rank": "",
+        "id": 384
     }
 ]
