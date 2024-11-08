@@ -1074,7 +1074,7 @@
     "releaseDate": "2021-04-22",
     "purchaseStatus": 1,
     "packageType": 0,
-    "rank": "",
+    "rank": "B",
     "id": 100
   },
   {
@@ -3015,7 +3015,7 @@
   },
   {
     "title": "スターオーシャン1 -First Departure R-",
-    "platform": "PlayStation4",
+    "platform": "Nintendo Switch",
     "url": "https://www.jp.square-enix.com/so1_fdr/",
     "image": "./img/oTjHLHaI61.webp",
     "releaseDate": "2019-12-05",
@@ -3184,9 +3184,9 @@
     "url": "https://p5t.jp/",
     "image": "./img/4FKTzD1S6y.webp",
     "releaseDate": "2023-11-17",
-    "purchaseStatus": 0,
+    "purchaseStatus": 1,
     "packageType": 0,
-    "rank": "",
+    "rank": "A",
     "id": 295
   },
   {
@@ -3230,7 +3230,7 @@
     "releaseDate": "2022-03-04",
     "purchaseStatus": 1,
     "packageType": 0,
-    "rank": "",
+    "rank": "B",
     "id": 299
   },
   {
@@ -4266,5 +4266,38 @@
     "packageType": 0,
     "rank": "",
     "id": 387
+  },
+  {
+    "title": "テイルズ オブ イノセンス",
+    "platform": "Nintendo DS",
+    "url": "https://www.bandainamcoent.co.jp/cs/list/talesofinnocence/",
+    "image": "https://eccdn.geo-online.co.jp/ec_media_images/5041950-01.jpg",
+    "releaseDate": "2007-12-06",
+    "purchaseStatus": 1,
+    "packageType": 0,
+    "rank": "B",
+    "id": 388
+  },
+  {
+    "title": "エストポリス",
+    "platform": "Nintendo DS",
+    "url": "https://www.jp.square-enix.com/game/detail/est/",
+    "image": "https://m.media-amazon.com/images/I/61rqcH6MTGL._AC_UF1000,1000_QL80_.jpg",
+    "releaseDate": "2007-12-06",
+    "purchaseStatus": 1,
+    "packageType": 0,
+    "rank": "B",
+    "id": 389
+  },
+  {
+    "title": "ポケットモンスター Y",
+    "platform": "Nintendo 3DS",
+    "url": "https://www.pokemon.co.jp/ex/xy/",
+    "image": "./img/KUzzgD5J7k.webp",
+    "releaseDate": "2013-10-12",
+    "purchaseStatus": 1,
+    "packageType": 0,
+    "rank": "B",
+    "id": 390
   }
 ]
