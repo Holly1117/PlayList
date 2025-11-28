@@ -1,0 +1,92 @@
+[
+  {
+    "platformNo": 0,
+    "platformName": "Nintendo Switch2",
+    "platformImage": "./icon/Switch_2.png",
+    "squareTypeFlag": true
+  },
+  {
+    "platformNo": 1,
+    "platformName": "PlayStation5",
+    "platformImage": "./icon/PS5.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 2,
+    "platformName": "Nintendo Switch",
+    "platformImage": "./icon/Switch.png",
+    "squareTypeFlag": true
+  },
+  {
+    "platformNo": 3,
+    "platformName": "PlayStation4",
+    "platformImage": "./icon/PS4.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 4,
+    "platformName": "PlayStation Vita",
+    "platformImage": "./icon/PSVita.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 5,
+    "platformName": "Nintendo 3DS",
+    "platformImage": "./icon/3DS.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 6,
+    "platformName": "PlayStation3",
+    "platformImage": "./icon/PS3.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 7,
+    "platformName": "Nintendo Wii",
+    "platformImage": "./icon/Wii.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 8,
+    "platformName": "Xbox 360",
+    "platformImage": "./icon/Xbox360_2.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 9,
+    "platformName": "PlayStation Portable",
+    "platformImage": "./icon/PSP.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 10,
+    "platformName": "Nintendo DS",
+    "platformImage": "./icon/DS.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 11,
+    "platformName": "Nintendo GAMECUBE",
+    "platformImage": "./icon/GameCube.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 12,
+    "platformName": "Nintendo Game Boy Advance SP",
+    "platformImage": "./icon/AdvanceSP.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 13,
+    "platformName": "PlayStation2",
+    "platformImage": "./icon/PS2.png",
+    "squareTypeFlag": false
+  },
+  {
+    "platformNo": 14,
+    "platformName": "Steam",
+    "platformImage": "./icon/Steam.png",
+    "squareTypeFlag": false
+  }
+]
