@@ -31,7 +31,6 @@ function App() {
   } = useGameFilters(games);
 
   const [showScrollTop, setShowScrollTop] = useState(false);
-  const [copiedGame, setCopiedGame] = useState("");
   const [showToast, setShowToast] = useState(false);
 
   // スクロールトップボタンの表示制御
