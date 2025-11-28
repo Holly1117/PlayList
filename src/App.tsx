@@ -51,7 +51,6 @@ function App() {
   const copyGameTitle = async (title: string) => {
     try {
       await navigator.clipboard.writeText(title);
-      setCopiedGame(title);
       setShowToast(true);
       setTimeout(() => setShowToast(false), TOAST_DURATION);
     } catch (err) {
