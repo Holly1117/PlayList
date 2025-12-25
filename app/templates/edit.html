@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>編集画面</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./static/css/admin.css" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.1.js"
+      integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <h1>PlayListの編集</h1>
+    <div id="search-form">
+      <input
+        type="text"
+        id="search-box"
+        class="Form-Item-Input"
+        placeholder="ゲーム名を入力"
+      />
+    </div>
+    <div id="search-results" class="search-Item">
+      <!-- 検索結果がここに表示される -->
+    </div>
+
+    <div id="edit-form" style="display: none">
+      <form class="Form" method="post" action="/edit">
+        <input type="hidden" name="game_id" id="game-id" />
+        <div class="Form-Item">
+          <p class="Form-Item-Label">タイトル</p>
+          <input
+            type="text"
+            name="game_title"
+            id="game-title"
+            class="Form-Item-Input"
+            required
+          />
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">プラットフォーム</p>
+          <select
+            class="Form-Item-Input"
+            name="game_platform"
+            id="game-platform"
+            required
+          >
+            {% for platform in platforms %}
+            <option value="{{ platform.platformNo }}">
+              {{ platform.platformName }}
+            </option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">画像URL</p>
+          <input
+            type="text"
+            name="game_image"
+            id="game-image"
+            class="Form-Item-Input"
+            required
+          />
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">発売日</p>
+          <input
+            type="date"
+            name="game_date"
+            id="game-date"
+            class="Form-Item-Input"
+          />
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">ステータス</p>
+          <select class="Form-Item-Input" name="game_status" id="game-status">
+            <option>未購入</option>
+            <option>購入済</option>
+          </select>
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">発売形式</p>
+          <select class="Form-Item-Input" name="game_format" id="game-format">
+            <option>パッケージ版</option>
+            <option>ダウンロード版</option>
+          </select>
+        </div>
+        <div class="Form-Item">
+          <p class="Form-Item-Label">ランク</p>
+          <input
+            type="text"
+            name="game_rank"
+            id="game-rank"
+            class="Form-Item-Input"
+          />
+        </div>
+        <div class="Form-Btn-Group">
+          <input type="submit" class="Form-Btn" value="保存" />
+          <button type="button" id="cancel-btn" class="Form-Btn">
+            キャンセル
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <script>
+      $(document).ready(function () {
+        // 検索ボックスの入力イベント
+        $("#search-box").on("input", function () {
+          const query = $(this).val();
+          if (query.length > 0) {
+            $.get("/search", { q: query }, function (data) {
+              $("#search-results").html("");
+              data.forEach((game) => {
+                $("#search-results").append(
+                  `<p><a href="#" class="game-link" data-id="${game.id}">${game.title}</a></p>`
+                );
+              });
+            });
+          } else {
+            $("#search-results").html("");
+          }
+        });
+
+        // 検索結果のリンクをクリックしたとき
+        $(document).on("click", ".game-link", function (e) {
+          e.preventDefault();
+          const gameId = $(this).data("id");
+          $.get(`/edit/${gameId}`, function (data) {
+            $("#game-id").val(data.id);
+            $("#game-title").val(data.title);
+            $("#game-platform").val(data.platformNo);
+            $("#game-image").val(data.image);
+            $("#game-date").val(data.releaseDate);
+            $("#game-status").val(data.purchaseFlag ? "購入済" : "未購入");
+            $("#game-format").val(
+              data.packageFlag ? "パッケージ版" : "ダウンロード版"
+            );
+            $("#game-rank").val(data.rank);
+
+            // 検索フォームを非表示にし、編集フォームを表示
+            $("#search-form").hide();
+            $("#search-results").hide();
+            $("#edit-form").show();
+          });
+        });
+
+        // キャンセルボタンのクリックイベント
+        $("#cancel-btn").on("click", function () {
+          // 編集フォームを非表示にし、検索フォームを表示
+          $("#edit-form").hide();
+          $("#search-form").show();
+          $("#search-results").show();
+        });
+      });
+    </script>
+  </body>
+</html>

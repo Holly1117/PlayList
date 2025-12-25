@@ -7,3 +7,86 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+body {
+  background: #0f1623 !important;
+  background-image: none !important;
+}
+
+/* Game card image with 3:2 aspect ratio */
+.game-card-image {
+  aspect-ratio: 3 / 2;
+  width: 100%;
+  height: auto;
+}
+
+/* Container query for game grid layout
+   - when card width <= 185px: 1 column
+   - when card width > 185px: 2 columns or more based on available space
+*/
+.game-grid {
+  container-type: inline-size;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@container (min-width: 185px) {
+  .game-grid {
+    grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+  }
+}
+
+/* Fallback for browsers without container queries: use viewport width media query */
+@media (min-width: 400px) {
+  .game-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .game-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .game-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Ensure the left/info column doesn't grow to fill available space; constrain it */
+.card-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.card-info > div:first-child {
+  max-width: 130px;
+  /* prevent shrinking but allow wrapping inside */
+  flex: 0 1 130px;
+}
+
+/* Ensure the badge column stays tight and is aligned to the right */
+.card-info > div:last-child {
+  /* keep badge column tight and anchored to right */
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+/* Allow text inside the left/info column to break instead of forcing width */
+.card-info > div:first-child {
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Make inline-flex badges shrink if necessary and avoid forcing column growth */
+.card-info .inline-flex {
+  max-width: 100%;
+  flex-shrink: 1;
+}

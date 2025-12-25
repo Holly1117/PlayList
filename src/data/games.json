@@ -1,3272 +1,3272 @@
 [
-  {
-    "title": "英雄伝説 黎の軌跡Ⅱ -CRIMSON SiN-",
-    "platformNo": 3,
-    "image": "./img/lz3QxWyNs2.webp",
-    "releaseDate": "2022-09-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 1
-  },
-  {
-    "title": "英雄伝説 黎の軌跡",
-    "platformNo": 3,
-    "image": "./img/gAo1mPAnr9.webp",
-    "releaseDate": "2021-09-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 2
-  },
-  {
-    "title": "十三機兵防衛圏",
-    "platformNo": 3,
-    "image": "./img/H9yJHyvxBR.webp",
-    "releaseDate": "2019-11-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 3
-  },
-  {
-    "title": "Xenoblade3",
-    "platformNo": 2,
-    "image": "./img/QUxc5v2wOT.webp",
-    "releaseDate": "2022-07-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 4
-  },
-  {
-    "title": "真・女神転生Ⅲ-NOCTURNE",
-    "platformNo": 3,
-    "image": "./img/hzYl1XKQKi.webp",
-    "releaseDate": "2020-10-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 5
-  },
-  {
-    "title": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
-    "platformNo": 3,
-    "image": "./img/rzBE4HQO4z.webp",
-    "releaseDate": "2019-09-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 6
-  },
-  {
-    "title": "Marvels Avengers",
-    "platformNo": 3,
-    "image": "./img/CdmHyNbFF4.webp",
-    "releaseDate": "2020-08-14",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 7
-  },
-  {
-    "title": "P5R - ペルソナ5 ザ・ロイヤル",
-    "platformNo": 3,
-    "image": "./img/7xU1GYulra.webp",
-    "releaseDate": "2019-10-31",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 8
-  },
-  {
-    "title": "KINGDOM HEARTS IV",
-    "platformNo": 1,
-    "image": "./img/JdcSGusQAq.webp",
-    "releaseDate": "9999-99-99",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 9
-  },
-  {
-    "title": "Marvels SPIDER-MAN 2",
-    "platformNo": 1,
-    "image": "./img/WpPAM27svR.webp",
-    "releaseDate": "2023-10-20",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 10
-  },
-  {
-    "title": "ドラゴンクエストX オフライン",
-    "platformNo": 1,
-    "image": "./img/mKKbmZdkCC.webp",
-    "releaseDate": "2022-09-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 11
-  },
-  {
-    "title": "ドラゴンクエストⅢ そして伝説へ…",
-    "platformNo": 1,
-    "image": "./img/qR3gqE0KWz.webp",
-    "releaseDate": "2024-11-14",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 12
-  },
-  {
-    "title": "FINAL FANTASY VII REMAKE",
-    "platformNo": 3,
-    "image": "./img/U4d56Awpag.webp",
-    "releaseDate": "2020-04-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 13
-  },
-  {
-    "title": "FINAL FANTASY VII REBIRTH",
-    "platformNo": 1,
-    "image": "./img/m71pBrSTWp.webp",
-    "releaseDate": "2024-02-29",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 14
-  },
-  {
-    "title": "LIVE A LIVE",
-    "platformNo": 2,
-    "image": "./img/4YOGU5IabI.webp",
-    "releaseDate": "2022-07-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 15
-  },
-  {
-    "title": "聖剣伝説3 TRIALS of MANA",
-    "platformNo": 3,
-    "image": "./img/OLNP4vu82y.webp",
-    "releaseDate": "2020-04-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 16
-  },
-  {
-    "title": "イースVIII -Lacrimosa of DANA-",
-    "platformNo": 3,
-    "image": "./img/62De6ZGvWK.webp",
-    "releaseDate": "2016-07-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 17
-  },
-  {
-    "title": "テイルズ オブ アライズ",
-    "platformNo": 1,
-    "image": "./img/9fAvJN5dk8.webp",
-    "releaseDate": "2021-09-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 18
-  },
-  {
-    "title": "テイルズ オブ ベルセリア",
-    "platformNo": 3,
-    "image": "./img/I5NFRC2Uvt.webp",
-    "releaseDate": "2016-08-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 19
-  },
-  {
-    "title": "リディー&スールのアトリエ 〜不思議な絵画の錬金術士〜",
-    "platformNo": 3,
-    "image": "./img/S2fc1rKc9T.webp",
-    "releaseDate": "2017-12-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 20
-  },
-  {
-    "title": "フィリスのアトリエ 〜不思議な旅の錬金術士〜",
-    "platformNo": 3,
-    "image": "./img/6JaakhXeHt.webp",
-    "releaseDate": "2016-11-02",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 21
-  },
-  {
-    "title": "ソフィーのアトリエ 〜不思議な本の錬金術士〜",
-    "platformNo": 3,
-    "image": "./img/WugNKg04jP.webp",
-    "releaseDate": "2015-11-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 22
-  },
-  {
-    "title": "ゼルダの伝説 スカイウォードソード HD",
-    "platformNo": 2,
-    "image": "./img/w8Vt6iM9s4.webp",
-    "releaseDate": "2021-07-16",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 23
-  },
-  {
-    "title": "ポケットモンスター バイオレット",
-    "platformNo": 2,
-    "image": "./img/ETkkm3kblk.webp",
-    "releaseDate": "2022-11-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "C",
-    "id": 24
-  },
-  {
-    "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
-    "platformNo": 2,
-    "image": "./img/D22nuDR2sw.webp",
-    "releaseDate": "2023-05-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 25
-  },
-  {
-    "title": "マリオカート8 デラックス",
-    "platformNo": 2,
-    "image": "./img/dxnNRttiar.webp",
-    "releaseDate": "2017-04-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 26
-  },
-  {
-    "title": "Xenoblade Definitive Edition",
-    "platformNo": 2,
-    "image": "./img/750AE5By2U.webp",
-    "releaseDate": "2020-05-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 27
-  },
-  {
-    "title": "Xenoblade2",
-    "platformNo": 2,
-    "image": "./img/lzonoSnK7X.webp",
-    "releaseDate": "2017-12-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 28
-  },
-  {
-    "title": "ポケットモンスター シールド",
-    "platformNo": 2,
-    "image": "./img/uUtfjfBtns.webp",
-    "releaseDate": "2019-11-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 29
-  },
-  {
-    "title": "KINGDOM HEARTS Ⅲ",
-    "platformNo": 3,
-    "image": "./img/VbfXFMOc1K.webp",
-    "releaseDate": "2019-01-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 30
-  },
-  {
-    "title": "KINGDOM HEARTS Ⅱ",
-    "platformNo": 13,
-    "image": "./img/5W8M05OtaU.webp",
-    "releaseDate": "2005-12-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 31
-  },
-  {
-    "title": "KINGDOM HEARTS FINAL MIX",
-    "platformNo": 13,
-    "image": "./img/DeFMQGSuRP.webp",
-    "releaseDate": "2005-09-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 32
-  },
-  {
-    "title": "KINGDOM HEARTS Ⅱ FINAL MIX",
-    "platformNo": 13,
-    "image": "./img/qQCrc0Iq2B.webp",
-    "releaseDate": "2007-03-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 33
-  },
-  {
-    "title": "P5 - ペルソナ5",
-    "platformNo": 3,
-    "image": "./img/xHD85zobdk.webp",
-    "releaseDate": "2016-09-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 34
-  },
-  {
-    "title": "P4G - ペルソナ4 ザ・ゴールデン",
-    "platformNo": 14,
-    "image": "./img/RuNhqgjhJL.webp",
-    "releaseDate": "2020-06-14",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 35
-  },
-  {
-    "title": "英雄伝説 空の軌跡FC",
-    "platformNo": 9,
-    "image": "./img/dlDVJmSRdR.webp",
-    "releaseDate": "2004-06-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 36
-  },
-  {
-    "title": "英雄伝説 空の軌跡SC",
-    "platformNo": 9,
-    "image": "./img/gojBrwOH4t.webp",
-    "releaseDate": "2006-09-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 37
-  },
-  {
-    "title": "英雄伝説 空の軌跡 the 3rd",
-    "platformNo": 9,
-    "image": "./img/5UCITlLGIg.webp",
-    "releaseDate": "2007-09-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 38
-  },
-  {
-    "title": "英雄伝説 閃の軌跡Ⅲ",
-    "platformNo": 3,
-    "image": "./img/U6nwkSmVcs.webp",
-    "releaseDate": "2017-09-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 39
-  },
-  {
-    "title": "英雄伝説 閃の軌跡Ⅱ",
-    "platformNo": 4,
-    "image": "./img/fOkSC79Qfl.webp",
-    "releaseDate": "2014-09-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 40
-  },
-  {
-    "title": "英雄伝説 閃の軌跡",
-    "platformNo": 4,
-    "image": "./img/40fSjpCtpi.webp",
-    "releaseDate": "2013-09-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 41
-  },
-  {
-    "title": "英雄伝説 閃の軌跡IV -THE END OF SAGA-",
-    "platformNo": 3,
-    "image": "./img/zUdEQqEIF7.webp",
-    "releaseDate": "2018-09-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 42
-  },
-  {
-    "title": "英雄伝説 創の軌跡",
-    "platformNo": 3,
-    "image": "./img/JDcHxBwb1X.webp",
-    "releaseDate": "2020-08-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 43
-  },
-  {
-    "title": "英雄伝説 碧の軌跡",
-    "platformNo": 9,
-    "image": "./img/mU6qr4HAgl.webp",
-    "releaseDate": "2011-09-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 44
-  },
-  {
-    "title": "英雄伝説 零の軌跡",
-    "platformNo": 9,
-    "image": "./img/8BIUowK9Ig.webp",
-    "releaseDate": "2010-09-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 45
-  },
-  {
-    "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
-    "platformNo": 2,
-    "image": "./img/65qpQ3Oa0D.webp",
-    "releaseDate": "2017-03-03",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 46
-  },
-  {
-    "title": "スーパーマリオ 3Dコレクション",
-    "platformNo": 2,
-    "image": "./img/jLDDUzIWYy.webp",
-    "releaseDate": "2020-09-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 47
-  },
-  {
-    "title": "ポケットモンスター ブラック",
-    "platformNo": 10,
-    "image": "./img/jatjaUGJYB.webp",
-    "releaseDate": "2010-09-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 48
-  },
-  {
-    "title": "ポケットモンスター パール",
-    "platformNo": 10,
-    "image": "./img/sYHQSuRfs1.webp",
-    "releaseDate": "2006-09-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 49
-  },
-  {
-    "title": "ポケットモンスター サファイア",
-    "platformNo": 12,
-    "image": "./img/NgI0aKhxMx.webp",
-    "releaseDate": "2002-09-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 50
-  },
-  {
-    "title": "ポケットモンスター エメラルド",
-    "platformNo": 12,
-    "image": "./img/G4vxP7W200.webp",
-    "releaseDate": "2004-09-16",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 51
-  },
-  {
-    "title": "Marvels Spider-Man",
-    "platformNo": 3,
-    "image": "./img/uW71v3Ktb9.webp",
-    "releaseDate": "2018-09-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 52
-  },
-  {
-    "title": "イースIX -Monstrum NOX-",
-    "platformNo": 3,
-    "image": "./img/Z1sWEQ3iDs.webp",
-    "releaseDate": "2019-09-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 53
-  },
-  {
-    "title": "テイルズ オブ ヴェスペリア REMASTER",
-    "platformNo": 3,
-    "image": "./img/cdv2NQ2QBu.webp",
-    "releaseDate": "2019-01-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 54
-  },
-  {
-    "title": "P5S - ペルソナ5 スクランブル ザ ファントム ストライカーズ",
-    "platformNo": 3,
-    "image": "./img/HMahHXQ3qW.webp",
-    "releaseDate": "2020-02-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 55
-  },
-  {
-    "title": "ポケットモンスター ファイアレッド",
-    "platformNo": 12,
-    "image": "./img/C7FbcaEyOJ.webp",
-    "releaseDate": "2004-01-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 56
-  },
-  {
-    "title": "ポケットモンスター ハートゴールド",
-    "platformNo": 10,
-    "image": "./img/8uH60kltkx.webp",
-    "releaseDate": "2009-09-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 57
-  },
-  {
-    "title": "ポケモンレンジャー 光の軌跡",
-    "platformNo": 10,
-    "image": "./img/fLPCpqepRX.webp",
-    "releaseDate": "2010-03-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 58
-  },
-  {
-    "title": "ポケモンコロシアム",
-    "platformNo": 11,
-    "image": "./img/qLnMEMX7QK.webp",
-    "releaseDate": "2003-11-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 59
-  },
-  {
-    "title": "KINGDOM HEARTS Melody of Memory",
-    "platformNo": 3,
-    "image": "./img/hr0RHyVbOJ.webp",
-    "releaseDate": "2021-03-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 60
-  },
-  {
-    "title": "KINGDOM HEARTS 3D Dream Drop Distance",
-    "platformNo": 5,
-    "image": "./img/XwgSCkv9xK.webp",
-    "releaseDate": "2012-03-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 61
-  },
-  {
-    "title": "KINGDOM HEARTS 358/2 Days",
-    "platformNo": 10,
-    "image": "./img/SClqIV0toK.webp",
-    "releaseDate": "2009-10-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 62
-  },
-  {
-    "title": "KINGDOM HEARTS Birth by Sleep",
-    "platformNo": 9,
-    "image": "./img/noapnk39lb.webp",
-    "releaseDate": "2010-01-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 63
-  },
-  {
-    "title": "KINGDOM HEARTS CHAIN OF MEMORIES",
-    "platformNo": 12,
-    "image": "./img/CbPIfnsEnQ.webp",
-    "releaseDate": "2004-11-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 64
-  },
-  {
-    "title": "KINGDOM HEARTS Re:coded",
-    "platformNo": 10,
-    "image": "./img/8V0hkfrhec.webp",
-    "releaseDate": "2008-11-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 65
-  },
-  {
-    "title": "KINGDOM HEARTS HD 1.5+2.5 ReMix",
-    "platformNo": 3,
-    "image": "./img/fhDPBhF6Aq.webp",
-    "releaseDate": "2017-03-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 66
-  },
-  {
-    "title": "ファイアーエムブレム 封印の剣",
-    "platformNo": 12,
-    "image": "./img/FBKqp7SH3L.webp",
-    "releaseDate": "2002-03-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 67
-  },
-  {
-    "title": "ファイアーエムブレム 烈火の剣",
-    "platformNo": 12,
-    "image": "./img/9cX8Wwy9V6.webp",
-    "releaseDate": "2003-04-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 68
-  },
-  {
-    "title": "ファイアーエムブレム 聖魔の光石",
-    "platformNo": 12,
-    "image": "./img/nvAEeU6QFa.webp",
-    "releaseDate": "2004-10-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 69
-  },
-  {
-    "title": "ファイアーエムブレム 蒼炎の軌跡",
-    "platformNo": 11,
-    "image": "./img/NmlUnT44bN.webp",
-    "releaseDate": "2005-04-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 70
-  },
-  {
-    "title": "ファイアーエムブレム 暁の女神",
-    "platformNo": 7,
-    "image": "./img/izhO1s1yxA.webp",
-    "releaseDate": "2007-02-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 71
-  },
-  {
-    "title": "ファイアーエムブレム 風花雪月",
-    "platformNo": 2,
-    "image": "./img/b6ps9OgETl.webp",
-    "releaseDate": "2019-07-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 72
-  },
-  {
-    "title": "ファイアーエムブレム 新・暗黒竜と光の剣",
-    "platformNo": 10,
-    "image": "./img/fPk19UqOFO.webp",
-    "releaseDate": "2008-08-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 73
-  },
-  {
-    "title": "ファイアーエムブレム 新・紋章の謎 〜光と影の英雄〜",
-    "platformNo": 10,
-    "image": "./img/lpscGR0oOf.webp",
-    "releaseDate": "2010-07-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 74
-  },
-  {
-    "title": "ファイアーエムブレム 覚醒",
-    "platformNo": 5,
-    "image": "./img/ruJUmgMQdV.webp",
-    "releaseDate": "2012-04-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 75
-  },
-  {
-    "title": "ファイアーエムブレム if 暗夜王国",
-    "platformNo": 5,
-    "image": "./img/08Iq4aJ5KM.webp",
-    "releaseDate": "2015-06-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 76
-  },
-  {
-    "title": "ファイアーエムブレム Echoes もうひとりの英雄王",
-    "platformNo": 5,
-    "image": "./img/DOFTPyeLb8.webp",
-    "releaseDate": "2017-04-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 77
-  },
-  {
-    "title": "ドラゴンクエストIV 導かれし者たち",
-    "platformNo": 10,
-    "image": "./img/UVjckqhsSA.webp",
-    "releaseDate": "2007-11-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 78
-  },
-  {
-    "title": "ドラゴンクエストV 天空の花嫁",
-    "platformNo": 10,
-    "image": "./img/McoRBfRG29.webp",
-    "releaseDate": "2008-07-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 79
-  },
-  {
-    "title": "ドラゴンクエストV 天空の花嫁",
-    "platformNo": 13,
-    "image": "./img/ONMbp4q2Li.webp",
-    "releaseDate": "2004-03-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 80
-  },
-  {
-    "title": "ドラゴンクエストVI 幻の大地",
-    "platformNo": 10,
-    "image": "./img/Niey8W3QDJ.webp",
-    "releaseDate": "2010-01-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 81
-  },
-  {
-    "title": "ドラゴンクエストⅦ エデンの戦士たち",
-    "platformNo": 5,
-    "image": "./img/QhbTFxzt0f.webp",
-    "releaseDate": "2013-02-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 82
-  },
-  {
-    "title": "ドラゴンクエストⅦ エデンの戦士たち",
-    "platformNo": 13,
-    "image": "./img/sThdy82avA.webp",
-    "releaseDate": "2000-08-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 83
-  },
-  {
-    "title": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
-    "platformNo": 13,
-    "image": "./img/rCPKfG0THq.webp",
-    "releaseDate": "2004-11-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 84
-  },
-  {
-    "title": "ドラゴンクエストIX 星空の守り人",
-    "platformNo": 10,
-    "image": "./img/52yBdL3EZN.webp",
-    "releaseDate": "2009-07-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 85
-  },
-  {
-    "title": "ドラゴンクエストXI 過ぎ去りし時を求めて",
-    "platformNo": 3,
-    "image": "./img/xk9iosH56W.webp",
-    "releaseDate": "2017-07-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 86
-  },
-  {
-    "title": "FINAL FANTASY X",
-    "platformNo": 13,
-    "image": "./img/BoVGi6WrkU.webp",
-    "releaseDate": "2001-07-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 87
-  },
-  {
-    "title": "FINAL FANTASY X-2",
-    "platformNo": 13,
-    "image": "./img/Dkek3LSczQ.webp",
-    "releaseDate": "2003-03-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 88
-  },
-  {
-    "title": "FINAL FANTASY XII",
-    "platformNo": 13,
-    "image": "./img/UsKpGLIYpi.webp",
-    "releaseDate": "2006-03-16",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 89
-  },
-  {
-    "title": "FINAL FANTASY XIII",
-    "platformNo": 6,
-    "image": "./img/mWbe8vdNxj.webp",
-    "releaseDate": "2009-12-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 90
-  },
-  {
-    "title": "FINAL FANTASY XV",
-    "platformNo": 3,
-    "image": "./img/ERcBPYP8qm.webp",
-    "releaseDate": "2016-11-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 91
-  },
-  {
-    "title": "ニーア レプリカント ver.1.22474487139...",
-    "platformNo": 3,
-    "image": "./img/Z3MphPmtUi.webp",
-    "releaseDate": "2021-04-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 92
-  },
-  {
-    "title": "魔界戦記ディスガイア",
-    "platformNo": 9,
-    "image": "./img/QN6MNr3aes.webp",
-    "releaseDate": "2003-01-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 93
-  },
-  {
-    "title": "魔界戦記ディスガイア2",
-    "platformNo": 9,
-    "image": "./img/tdJHZgnaWS.webp",
-    "releaseDate": "2006-02-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 94
-  },
-  {
-    "title": "魔界戦記ディスガイア5",
-    "platformNo": 14,
-    "image": "./img/vNiKmSxXAB.webp",
-    "releaseDate": "2015-03-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 95
-  },
-  {
-    "title": "ゼルダの伝説 風のタクト",
-    "platformNo": 11,
-    "image": "./img/fs9Ypi6nCD.webp",
-    "releaseDate": "2002-12-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 96
-  },
-  {
-    "title": "ゼルダの伝説 夢幻の砂時計",
-    "platformNo": 10,
-    "image": "./img/HqxXq4YIum.webp",
-    "releaseDate": "2007-06-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 97
-  },
-  {
-    "title": "ゼルダの伝説 大地の汽笛",
-    "platformNo": 10,
-    "image": "./img/UhG8Yl30Hc.webp",
-    "releaseDate": "2009-12-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 98
-  },
-  {
-    "title": "ゼルダの伝説 ふしぎのぼうし",
-    "platformNo": 12,
-    "image": "./img/WKy6Pws6Fc.webp",
-    "releaseDate": "2004-11-04",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 99
-  },
-  {
-    "title": "ゼルダの伝説 4つの剣+",
-    "platformNo": 11,
-    "image": "./img/iN9UtrgU3U.webp",
-    "releaseDate": "2004-03-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 100
-  },
-  {
-    "title": "サルゲッチュ2",
-    "platformNo": 13,
-    "image": "./img/aZLZkFyxWK.webp",
-    "releaseDate": "2002-07-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 101
-  },
-  {
-    "title": "ファミコン&スーパーファミコン ドラゴンクエストⅠ・Ⅱ・Ⅲ",
-    "platformNo": 7,
-    "image": "./img/zdcTBlysX4.webp",
-    "releaseDate": "2011-09-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 102
-  },
-  {
-    "title": "CRISIS CORE - FINAL FANTASY VII",
-    "platformNo": 9,
-    "image": "./img/hS5uyY32S7.webp",
-    "releaseDate": "2007-09-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 103
-  },
-  {
-    "title": "イナズマイレブン",
-    "platformNo": 10,
-    "image": "./img/rvgnLuDPFH.webp",
-    "releaseDate": "2008-08-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 104
-  },
-  {
-    "title": "イナズマイレブン2 脅威の侵略者 ブリザード",
-    "platformNo": 10,
-    "image": "./img/vKpo0iAqcS.webp",
-    "releaseDate": "2009-10-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 105
-  },
-  {
-    "title": "イナズマイレブン3 世界への挑戦!! スパーク",
-    "platformNo": 10,
-    "image": "./img/U6hgRnYLEO.webp",
-    "releaseDate": "2010-07-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 106
-  },
-  {
-    "title": "レイトン教授と不思議な町",
-    "platformNo": 10,
-    "image": "./img/NXvPmAM7L2.webp",
-    "releaseDate": "2007-02-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 107
-  },
-  {
-    "title": "DRAGON QUEST MONSTERS Joker2",
-    "platformNo": 10,
-    "image": "./img/25zyWFRgOJ.webp",
-    "releaseDate": "2010-04-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 108
-  },
-  {
-    "title": "DRAGON QUEST MONSTERS Joker2 PROFESSIONAL",
-    "platformNo": 10,
-    "image": "./img/X348Hzkgkm.webp",
-    "releaseDate": "2011-03-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 109
-  },
-  {
-    "title": "DRAGON QUEST MONSTERS Joker3 PROFESSIONAL",
-    "platformNo": 5,
-    "image": "./img/bfJncSuZmx.webp",
-    "releaseDate": "2016-03-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 110
-  },
-  {
-    "title": "DRAGON QUEST MONSTERS テリーのワンダーランド3D",
-    "platformNo": 5,
-    "image": "./img/HSR4Z3LWQj.webp",
-    "releaseDate": "2012-05-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 111
-  },
-  {
-    "title": "DRAGON QUEST MONSTERS 2 マルタのふしぎな鍵",
-    "platformNo": 5,
-    "image": "./img/vEaOZ0OV15.webp",
-    "releaseDate": "2014-02-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 112
-  },
-  {
-    "title": "New スーパーマリオブラザーズ Wii",
-    "platformNo": 7,
-    "image": "./img/s8aedWcEZH.webp",
-    "releaseDate": "2009-11-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 113
-  },
-  {
-    "title": "マリオカートWii",
-    "platformNo": 7,
-    "image": "./img/msh4KwJ0Lq.webp",
-    "releaseDate": "2008-04-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 114
-  },
-  {
-    "title": "スーパーマリオギャラクシー",
-    "platformNo": 7,
-    "image": "./img/0gj72rKplk.webp",
-    "releaseDate": "2007-11-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 115
-  },
-  {
-    "title": "スーパーマリオギャラクシー2",
-    "platformNo": 7,
-    "image": "./img/twKJDqvjd6.webp",
-    "releaseDate": "2010-05-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 116
-  },
-  {
-    "title": "マリオスポーツミックス",
-    "platformNo": 7,
-    "image": "./img/IMy5BT3AgW.webp",
-    "releaseDate": "2010-11-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 117
-  },
-  {
-    "title": "マリオ&ソニック AT 北京オリンピック",
-    "platformNo": 7,
-    "image": "./img/7MrG22TZWY.webp",
-    "releaseDate": "2007-11-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 118
-  },
-  {
-    "title": "Wii Fit",
-    "platformNo": 7,
-    "image": "./img/v931DqyDYH.webp",
-    "releaseDate": "2007-12-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 119
-  },
-  {
-    "title": "Wii Sports",
-    "platformNo": 7,
-    "image": "./img/QwYwRPnaD6.webp",
-    "releaseDate": "2006-11-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 120
-  },
-  {
-    "title": "ドラゴンクエストソード 仮面の女王と鏡の塔",
-    "platformNo": 7,
-    "image": "./img/K3GSxWViO6.webp",
-    "releaseDate": "2007-07-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 121
-  },
-  {
-    "title": "New スーパーマリオブラザーズ",
-    "platformNo": 10,
-    "image": "./img/f5YghZCSFH.webp",
-    "releaseDate": "2006-05-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 122
-  },
-  {
-    "title": "マリオカートDS",
-    "platformNo": 10,
-    "image": "./img/FOCEL0xti3.webp",
-    "releaseDate": "2005-12-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 123
-  },
-  {
-    "title": "おいでよ どうぶつの森",
-    "platformNo": 10,
-    "image": "./img/IBp4hVNdHi.webp",
-    "releaseDate": "2005-11-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 124
-  },
-  {
-    "title": "とびだせ どうぶつの森",
-    "platformNo": 5,
-    "image": "./img/NdasHSqaS0.webp",
-    "releaseDate": "2016-11-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 125
-  },
-  {
-    "title": "あつまれ どうぶつの森",
-    "platformNo": 2,
-    "image": "./img/LPviqHnczu.webp",
-    "releaseDate": "2020-03-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 126
-  },
-  {
-    "title": "脳を鍛える大人のDSトレーニング",
-    "platformNo": 10,
-    "image": "./img/mcExZhZ8UF.webp",
-    "releaseDate": "2005-05-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 127
-  },
-  {
-    "title": "エターナルアルカディア レジェンド",
-    "platformNo": 11,
-    "image": "./img/ZR1k7dhAMC.webp",
-    "releaseDate": "2002-12-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 128
-  },
-  {
-    "title": "テイルズ オブ シンフォニア",
-    "platformNo": 11,
-    "image": "./img/9QBtUma3Kn.webp",
-    "releaseDate": "2003-08-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 129
-  },
-  {
-    "title": "テイルズ オブ ジアビス",
-    "platformNo": 13,
-    "image": "./img/LCD6OPAxvU.webp",
-    "releaseDate": "2005-12-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 130
-  },
-  {
-    "title": "ポケットモンスター プラチナ",
-    "platformNo": 10,
-    "image": "./img/CfLgEMbre1.webp",
-    "releaseDate": "2008-09-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 131
-  },
-  {
-    "title": "ポケットモンスター X",
-    "platformNo": 5,
-    "image": "./img/KUzzgD5J7k.webp",
-    "releaseDate": "2013-10-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 132
-  },
-  {
-    "title": "ポケットモンスター ムーン",
-    "platformNo": 5,
-    "image": "./img/8ZtdGxpxkN.webp",
-    "releaseDate": "2016-11-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 133
-  },
-  {
-    "title": "リングフィット アドベンチャー",
-    "platformNo": 2,
-    "image": "./img/g0t5EirT2Z.webp",
-    "releaseDate": "2019-10-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 134
-  },
-  {
-    "title": "ファイナルファンタジー・クリスタルクロニクル リマスター",
-    "platformNo": 2,
-    "image": "./img/Qcb6fAHPar.webp",
-    "releaseDate": "2020-08-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 135
-  },
-  {
-    "title": "トルネコの大冒険3 ~不思議のダンジョン~",
-    "platformNo": 13,
-    "image": "./img/ytBtzUqyFJ.webp",
-    "releaseDate": "2002-10-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 136
-  },
-  {
-    "title": "二ノ国 漆黒の魔導士",
-    "platformNo": 10,
-    "image": "./img/jtIKxGHNtE.webp",
-    "releaseDate": "2018-03-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 137
-  },
-  {
-    "title": "スーパーマリオサンシャイン",
-    "platformNo": 11,
-    "image": "./img/a1DpKJwecb.webp",
-    "releaseDate": "2007-07-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 138
-  },
-  {
-    "title": "天外魔境 第四の黙示録",
-    "platformNo": 9,
-    "image": "./img/ukQtH88fQ2.webp",
-    "releaseDate": "2006-07-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 139
-  },
-  {
-    "title": "サクラノート 〜いまにつながるみらい〜",
-    "platformNo": 10,
-    "image": "./img/DzL1J6f3eE.webp",
-    "releaseDate": "2009-11-05",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 140
-  },
-  {
-    "title": "財団法人日本漢字能力検定協会公認 漢検DS",
-    "platformNo": 10,
-    "image": "./img/UcOHTF8SM8.webp",
-    "releaseDate": "2006-09-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 141
-  },
-  {
-    "title": "タッチ!カービィ",
-    "platformNo": 10,
-    "image": "./img/BqnAwVYbvW.webp",
-    "releaseDate": "2005-03-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 142
-  },
-  {
-    "title": "ジャンプスーパースターズ",
-    "platformNo": 10,
-    "image": "./img/huokRzlUov.webp",
-    "releaseDate": "2005-08-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 143
-  },
-  {
-    "title": "ドラゴンボールZ Sparking! NEO",
-    "platformNo": 7,
-    "image": "./img/3cS5dWm4dh.webp",
-    "releaseDate": "2006-10-05",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 144
-  },
-  {
-    "title": "金色のガッシュベル!! 友情タッグバトル",
-    "platformNo": 13,
-    "image": "./img/dmzCvYZA3O.webp",
-    "releaseDate": "2004-03-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 145
-  },
-  {
-    "title": "金色のガッシュベル!! うなれ!友情の電撃2 ",
-    "platformNo": 12,
-    "image": "./img/U5CoE6dO8R.webp",
-    "releaseDate": "2004-12-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 146
-  },
-  {
-    "title": "艦これ改",
-    "platformNo": 4,
-    "image": "./img/iCqrqkUXSy.webp",
-    "releaseDate": "2016-02-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 147
-  },
-  {
-    "title": "ひぐらしのなく頃に粋",
-    "platformNo": 4,
-    "image": "./img/yYNNtELBac.webp",
-    "releaseDate": "2017-04-03",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 148
-  },
-  {
-    "title": "ソードアート・オンライン ―ホロウ・フラグメント―",
-    "platformNo": 4,
-    "image": "./img/F2cA4sVnKx.webp",
-    "releaseDate": "2014-04-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 149
-  },
-  {
-    "title": "スーパーマリオ64DS",
-    "platformNo": 10,
-    "image": "./img/7iMfWArq6K.webp",
-    "releaseDate": "2004-12-02",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 150
-  },
-  {
-    "title": "ルーンファクトリー4",
-    "platformNo": 5,
-    "image": "./img/g9fMCEb2Gv.webp",
-    "releaseDate": "2012-07-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 151
-  },
-  {
-    "title": "マリオ&ルイージRPG3!!!",
-    "platformNo": 10,
-    "image": "./img/cSu5yMwV1t.webp",
-    "releaseDate": "2009-02-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 152
-  },
-  {
-    "title": "FINAL FANTASY XIII-2",
-    "platformNo": 6,
-    "image": "./img/OtN2FHBp8D.webp",
-    "releaseDate": "2011-12-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 153
-  },
-  {
-    "title": "ドラベース2 熱闘ウルトラスタジアム",
-    "platformNo": 10,
-    "image": "./img/xq2fQZSM8o.webp",
-    "releaseDate": "2009-11-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 154
-  },
-  {
-    "title": "大乱闘スマッシュブラザーズ SPECIAL",
-    "platformNo": 2,
-    "image": "./img/C2Yc5Vtzh2.webp",
-    "releaseDate": "2018-12-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 155
-  },
-  {
-    "title": "JEANNE DARC",
-    "platformNo": 9,
-    "image": "./img/WOOARnYqbj.webp",
-    "releaseDate": "2006-11-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 156
-  },
-  {
-    "title": "俺の屍を越えてゆけ",
-    "platformNo": 9,
-    "image": "./img/QAO9BEMQVK.webp",
-    "releaseDate": "1999-06-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 157
-  },
-  {
-    "title": "モンスターハンター",
-    "platformNo": 9,
-    "image": "./img/zHXfpmZ6jE.webp",
-    "releaseDate": "2005-12-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 158
-  },
-  {
-    "title": "モンスターハンター3G",
-    "platformNo": 5,
-    "image": "./img/YedVpetjlr.webp",
-    "releaseDate": "2011-12-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 159
-  },
-  {
-    "title": "モンスターハンターダブルクロス",
-    "platformNo": 5,
-    "image": "./img/ovmU5fWiua.webp",
-    "releaseDate": "2015-11-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 160
-  },
-  {
-    "title": "那由多の軌跡:改",
-    "platformNo": 3,
-    "image": "./img/mYR5Q2Jxdl.webp",
-    "releaseDate": "2012-07-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 161
-  },
-  {
-    "title": "英雄伝説V 海の檻歌",
-    "platformNo": 9,
-    "image": "./img/hipan0bNNM.webp",
-    "releaseDate": "2007-01-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 162
-  },
-  {
-    "title": "英雄伝説IV 朱紅い雫",
-    "platformNo": 9,
-    "image": "./img/V6eVpWnL31.webp",
-    "releaseDate": "2005-06-02",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 163
-  },
-  {
-    "title": "英雄伝説III 白き魔女",
-    "platformNo": 9,
-    "image": "./img/2S4fnvpwWT.webp",
-    "releaseDate": "2004-12-16",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 164
-  },
-  {
-    "title": "イース セルセタの樹海:改",
-    "platformNo": 3,
-    "image": "./img/MeqvPrItHk.webp",
-    "releaseDate": "2012-09-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 165
-  },
-  {
-    "title": "まわるメイドインワリオ",
-    "platformNo": 12,
-    "image": "./img/rGae77KBNg.webp",
-    "releaseDate": "2004-10-14",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 166
-  },
-  {
-    "title": "さわるメイド イン ワリオ",
-    "platformNo": 10,
-    "image": "./img/y8pUKUimXe.webp",
-    "releaseDate": "2004-12-02",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 167
-  },
-  {
-    "title": "進撃の巨人〜人類最後の翼〜",
-    "platformNo": 5,
-    "image": "./img/ILLPr5c6Rk.webp",
-    "releaseDate": "2013-12-05",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 168
-  },
-  {
-    "title": "FINAL FANTASY XII THE ZODIAC AGE",
-    "platformNo": 3,
-    "image": "./img/OVEaWYtnm4.webp",
-    "releaseDate": "2017-07-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 169
-  },
-  {
-    "title": "OCTOPATH TRAVELER",
-    "platformNo": 2,
-    "image": "./img/pWxtSOVHKn.webp",
-    "releaseDate": "2019-04-28",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 170
-  },
-  {
-    "title": "スーパーマリオ オデッセイ",
-    "platformNo": 2,
-    "image": "./img/FNBxHyL4rm.webp",
-    "releaseDate": "2017-10-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 171
-  },
-  {
-    "title": "役満DS",
-    "platformNo": 10,
-    "image": "./img/niXsdETYs0.webp",
-    "releaseDate": "2005-03-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 172
-  },
-  {
-    "title": "ロストオデッセイ",
-    "platformNo": 8,
-    "image": "./img/uW2B9SJ5vH.webp",
-    "releaseDate": "2007-12-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 173
-  },
-  {
-    "title": "ブルードラゴン",
-    "platformNo": 8,
-    "image": "./img/QpQPamA5kC.webp",
-    "releaseDate": "2006-12-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 174
-  },
-  {
-    "title": "ラスト レムナント",
-    "platformNo": 8,
-    "image": "./img/ZbZIbdhDCe.webp",
-    "releaseDate": "2008-11-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 175
-  },
-  {
-    "title": "すばらしきこのせかい",
-    "platformNo": 10,
-    "image": "./img/UCNw5I2dp3.webp",
-    "releaseDate": "2007-07-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 176
-  },
-  {
-    "title": "不思議のダンジョン 風来のシレンDS",
-    "platformNo": 10,
-    "image": "./img/V2WkzRdyES.webp",
-    "releaseDate": "2006-12-14",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 177
-  },
-  {
-    "title": "ユニバーサル・スタジオ・ジャパン・アドベンチャー",
-    "platformNo": 11,
-    "image": "./img/QXsuopvKri.webp",
-    "releaseDate": "2001-12-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 178
-  },
-  {
-    "title": "ダーククロニクル",
-    "platformNo": 13,
-    "image": "./img/gyWduLHvq0.webp",
-    "releaseDate": "2002-11-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 179
-  },
-  {
-    "title": "バテン カイトスii 始まりの翼と神々の嗣子",
-    "platformNo": 11,
-    "image": "./img/IU64aXC9PO.webp",
-    "releaseDate": "2006-02-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 180
-  },
-  {
-    "title": "ポケットモンスター 赤",
-    "platformNo": 12,
-    "image": "./img/pDBfkdhct9.webp",
-    "releaseDate": "1996-02-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 181
-  },
-  {
-    "title": "ファミコンミニ スーパーマリオブラザーズ",
-    "platformNo": 12,
-    "image": "./img/2or8NfojQL.webp",
-    "releaseDate": "2005-09-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 182
-  },
-  {
-    "title": "ドラゴンボール アドバンスアドベンチャー",
-    "platformNo": 12,
-    "image": "./img/vB8r2nJ6eA.webp",
-    "releaseDate": "2004-11-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 183
-  },
-  {
-    "title": "ファントム・ブレイブ",
-    "platformNo": 9,
-    "image": "./img/mXbrFg3ZhO.webp",
-    "releaseDate": "2010-10-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 184
-  },
-  {
-    "title": "Fallout 3",
-    "platformNo": 14,
-    "image": "./img/5wV0fELIyK.webp",
-    "releaseDate": "2008-10-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 185
-  },
-  {
-    "title": "Fallout 4",
-    "platformNo": 14,
-    "image": "./img/qcvyPYioN3.webp",
-    "releaseDate": "2015-11-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 186
-  },
-  {
-    "title": "Fallout: New Vegas",
-    "platformNo": 14,
-    "image": "./img/HqFDMtLvrm.webp",
-    "releaseDate": "2010-10-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 187
-  },
-  {
-    "title": "Undertale",
-    "platformNo": 14,
-    "image": "./img/G3cIUw1q5w.webp",
-    "releaseDate": "2015-09-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 188
-  },
-  {
-    "title": "Portal",
-    "platformNo": 14,
-    "image": "./img/l0L0Aob7SF.webp",
-    "releaseDate": "2007-10-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 189
-  },
-  {
-    "title": "Portal2",
-    "platformNo": 14,
-    "image": "./img/aF4p8z9yeZ.webp",
-    "releaseDate": "2007-10-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 190
-  },
-  {
-    "title": "アサシン クリード オリジンズ",
-    "platformNo": 14,
-    "image": "./img/ksv6CWm8oi.webp",
-    "releaseDate": "2017-10-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 191
-  },
-  {
-    "title": "BIOSHOCK REMASTERED",
-    "platformNo": 14,
-    "image": "./img/8WDeCKdTFP.webp",
-    "releaseDate": "2016-09-16",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 192
-  },
-  {
-    "title": "BIOSHOCK 2",
-    "platformNo": 14,
-    "image": "./img/RXfQtxmWY5.webp",
-    "releaseDate": "2010-02-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 193
-  },
-  {
-    "title": "BIOSHOCK INFINLTE",
-    "platformNo": 14,
-    "image": "./img/ZB7XvFLcLq.webp",
-    "releaseDate": "2013-04-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 194
-  },
-  {
-    "title": "Batman: Arkham Asylum",
-    "platformNo": 14,
-    "image": "./img/DerQxaqSdG.webp",
-    "releaseDate": "2010-03-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 195
-  },
-  {
-    "title": "Batman: Arkham City",
-    "platformNo": 14,
-    "image": "./img/7boN1rmxYO.webp",
-    "releaseDate": "2012-09-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 196
-  },
-  {
-    "title": "Just Cause 3",
-    "platformNo": 14,
-    "image": "./img/jhk4rgPQco.webp",
-    "releaseDate": "2015-12-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 197
-  },
-  {
-    "title": "NEEDY GIRL OVERDOSE",
-    "platformNo": 14,
-    "image": "./img/YZlI2bVd93.webp",
-    "releaseDate": "2022-01-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 198
-  },
-  {
-    "title": "Papers, Please",
-    "platformNo": 14,
-    "image": "./img/m4deMbphrs.webp",
-    "releaseDate": "2013-08-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 199
-  },
-  {
-    "title": "Mini Metro",
-    "platformNo": 14,
-    "image": "./img/Key069wKMy.webp",
-    "releaseDate": "2015-11-07",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 200
-  },
-  {
-    "title": "OneShot",
-    "platformNo": 14,
-    "image": "./img/F4RYuMXQR8.webp",
-    "releaseDate": "2022-10-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 201
-  },
-  {
-    "title": "Please, Dont Touch Anything",
-    "platformNo": 14,
-    "image": "./img/Z6U7GxUb7T.webp",
-    "releaseDate": "2015-03-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 202
-  },
-  {
-    "title": "Minecraft",
-    "platformNo": 14,
-    "image": "./img/c7lmnhWdCV.webp",
-    "releaseDate": "2011-11-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 203
-  },
-  {
-    "title": "The Elder Scrolls V: Skyrim",
-    "platformNo": 14,
-    "image": "./img/BbIPZfrXIt.webp",
-    "releaseDate": "2011-11-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 204
-  },
-  {
-    "title": "ドキドキ文芸部!",
-    "platformNo": 14,
-    "image": "./img/1NTzsFhXyh.webp",
-    "releaseDate": "2017-09-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 205
-  },
-  {
-    "title": "Cuphead",
-    "platformNo": 14,
-    "image": "./img/sjfaVgs1aN.webp",
-    "releaseDate": "2017-09-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 206
-  },
-  {
-    "title": "Cities: Skylines",
-    "platformNo": 14,
-    "image": "./img/XuR561Eyeq.webp",
-    "releaseDate": "2015-03-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 207
-  },
-  {
-    "title": "Borderlands 2",
-    "platformNo": 14,
-    "image": "./img/6U2Kuqhq9Z.webp",
-    "releaseDate": "2012-10-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 208
-  },
-  {
-    "title": "Among Us",
-    "platformNo": 14,
-    "image": "./img/6OFqtEf3OP.webp",
-    "releaseDate": "2018-11-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 209
-  },
-  {
-    "title": "UNO",
-    "platformNo": 14,
-    "image": "./img/FTJrO5nxWV.webp",
-    "releaseDate": "2016-12-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 210
-  },
-  {
-    "title": "Terraria",
-    "platformNo": 14,
-    "image": "./img/xLlAt0cubT.webp",
-    "releaseDate": "2011-05-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 211
-  },
-  {
-    "title": "Stardew Valley",
-    "platformNo": 14,
-    "image": "./img/VKnUnPiK6u.webp",
-    "releaseDate": "2016-02-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 212
-  },
-  {
-    "title": "PARQUET",
-    "platformNo": 14,
-    "image": "./img/j2rPxgwiAD.webp",
-    "releaseDate": "2021-07-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 213
-  },
-  {
-    "title": "STEINS;GATE",
-    "platformNo": 14,
-    "image": "./img/MidFHMYB56.webp",
-    "releaseDate": "2009-10-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 214
-  },
-  {
-    "title": "STEINS;GATE 0",
-    "platformNo": 14,
-    "image": "./img/UcsSnWoIiZ.webp",
-    "releaseDate": "2015-12-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 215
-  },
-  {
-    "title": "ASTRAL CHAIN",
-    "platformNo": 2,
-    "image": "./img/GAohgptqTH.webp",
-    "releaseDate": "2019-08-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 216
-  },
-  {
-    "title": "龍が如く 極2",
-    "platformNo": 14,
-    "image": "./img/LAj1YRsZpW.webp",
-    "releaseDate": "2019-05-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 217
-  },
-  {
-    "title": "龍が如く 極",
-    "platformNo": 14,
-    "image": "./img/465WpQNnTz.webp",
-    "releaseDate": "2019-02-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 218
-  },
-  {
-    "title": "龍が如く0 誓いの場所",
-    "platformNo": 14,
-    "image": "./img/uVPyoyoc7d.webp",
-    "releaseDate": "2018-08-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 219
-  },
-  {
-    "title": "SpaceChem",
-    "platformNo": 14,
-    "image": "./img/x6cn6pDKea.webp",
-    "releaseDate": "2011-03-03",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 220
-  },
-  {
-    "title": "Sid Meier's Civilization V",
-    "platformNo": 14,
-    "image": "./img/AE4scZMqT7.webp",
-    "releaseDate": "2011-07-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 221
-  },
-  {
-    "title": "Sid Meier’s Civilization VI",
-    "platformNo": 14,
-    "image": "./img/b8LyYbhkMb.webp",
-    "releaseDate": "2016-10-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 222
-  },
-  {
-    "title": "The Shrouded Isle",
-    "platformNo": 14,
-    "image": "./img/raCFIQOJ4P.webp",
-    "releaseDate": "2017-08-05",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 223
-  },
-  {
-    "title": "100%おれんじじゅ～すっ！",
-    "platformNo": 14,
-    "image": "./img/lWcMXqnM4K.webp",
-    "releaseDate": "2013-09-10",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 224
-  },
-  {
-    "title": "ダンガンロンパ 希望の学園と絶望の高校生",
-    "platformNo": 14,
-    "image": "./img/Kcvf2vmG26.webp",
-    "releaseDate": "2016-02-18",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 225
-  },
-  {
-    "title": "スーパーダンガンロンパ2 さよなら絶望学園",
-    "platformNo": 14,
-    "image": "./img/F0MXxM91q1.webp",
-    "releaseDate": "2016-04-19",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "SS",
-    "id": 226
-  },
-  {
-    "title": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
-    "platformNo": 14,
-    "image": "./img/1eXxUKHjE7.webp",
-    "releaseDate": "2017-09-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 227
-  },
-  {
-    "title": "ロストテクノロジー",
-    "platformNo": 14,
-    "image": "./img/b36vAtbWwm.webp",
-    "releaseDate": "2017-08-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 228
-  },
-  {
-    "title": "Dying Light",
-    "platformNo": 14,
-    "image": "./img/4ctTXXgkSz.webp",
-    "releaseDate": "2022-10-25",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 229
-  },
-  {
-    "title": "Dishonored",
-    "platformNo": 14,
-    "image": "./img/v5nilXjLsV.webp",
-    "releaseDate": "2012-10-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 230
-  },
-  {
-    "title": "Far Cry 3",
-    "platformNo": 14,
-    "image": "./img/yaMvD0IMA9.webp",
-    "releaseDate": "2012-11-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 231
-  },
-  {
-    "title": "Hacknet",
-    "platformNo": 14,
-    "image": "./img/Vq7yzXsteW.webp",
-    "releaseDate": "2015-08-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 232
-  },
-  {
-    "title": "ベヨネッタ",
-    "platformNo": 14,
-    "image": "./img/ijtvBScQGX.webp",
-    "releaseDate": "2017-04-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 233
-  },
-  {
-    "title": "Half-Life",
-    "platformNo": 14,
-    "image": "./img/nQzxXNpai6.webp",
-    "releaseDate": "1998-11-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 234
-  },
-  {
-    "title": "Left 4 Dead 2",
-    "platformNo": 14,
-    "image": "./img/a4ybRY8fxM.webp",
-    "releaseDate": "2009-11-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 235
-  },
-  {
-    "title": "Life is Strange - Episode 1",
-    "platformNo": 14,
-    "image": "./img/k7obyp4Haj.webp",
-    "releaseDate": "2015-01-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 236
-  },
-  {
-    "title": "LIMBO",
-    "platformNo": 14,
-    "image": "./img/THfrhHiYtv.webp",
-    "releaseDate": "2011-08-03",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 237
-  },
-  {
-    "title": "LISA: The Painful",
-    "platformNo": 14,
-    "image": "./img/0nVb3ljMBH.webp",
-    "releaseDate": "2014-12-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 238
-  },
-  {
-    "title": "Little Witch Nobeta",
-    "platformNo": 14,
-    "image": "./img/kKqXOAjxX0.webp",
-    "releaseDate": "2022-09-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 239
-  },
-  {
-    "title": "Metro 2033 Redux",
-    "platformNo": 14,
-    "image": "./img/HYY1AVWiOI.webp",
-    "releaseDate": "2014-08-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 240
-  },
-  {
-    "title": "Metro: Last Light Redux",
-    "platformNo": 14,
-    "image": "./img/v19Ql1UESR.webp",
-    "releaseDate": "2014-08-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "",
-    "id": 241
-  },
-  {
-    "title": "Mount & Blade: Warband",
-    "platformNo": 14,
-    "image": "./img/qnEBMU4Cxx.webp",
-    "releaseDate": "2010-03-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 242
-  },
-  {
-    "title": "Tom Clancy's Rainbow Six Siege",
-    "platformNo": 14,
-    "image": "./img/11KSBr2ocA.webp",
-    "releaseDate": "2015-12-02",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "D",
-    "id": 243
-  },
-  {
-    "title": "Battlefield4",
-    "platformNo": 14,
-    "image": "./img/O8BBHFCau0.webp",
-    "releaseDate": "2013-10-29",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 244
-  },
-  {
-    "title": "Battlefield1",
-    "platformNo": 14,
-    "image": "./img/muDrdSOj01.webp",
-    "releaseDate": "2016-10-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 245
-  },
-  {
-    "title": "BattlefieldV",
-    "platformNo": 14,
-    "image": "./img/nrFrDPbtcU.webp",
-    "releaseDate": "2018-11-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 246
-  },
-  {
-    "title": "うたわれるもの 散りゆく者への子守唄",
-    "platformNo": 14,
-    "image": "./img/95sJkvLcvb.webp",
-    "releaseDate": "2021-01-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 247
-  },
-  {
-    "title": "うたわれるもの 二人の白皇",
-    "platformNo": 14,
-    "image": "./img/xT0mErVKbg.webp",
-    "releaseDate": "2020-01-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 248
-  },
-  {
-    "title": "うたわれるもの 偽りの仮面",
-    "platformNo": 14,
-    "image": "./img/iHYXQfW1KI.webp",
-    "releaseDate": "2020-01-23",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 249
-  },
-  {
-    "title": "ファイアーエムブレム エンゲージ",
-    "platformNo": 2,
-    "image": "./img/1iv3B4x9dk.webp",
-    "releaseDate": "2023-01-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 250
-  },
-  {
-    "title": "超探偵事件簿 レインコード",
-    "platformNo": 2,
-    "image": "./img/YDAiIqZuc7.webp",
-    "releaseDate": "2023-06-30",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 251
-  },
-  {
-    "title": "イナズマイレブン 英雄たちのグレートロード",
-    "platformNo": 1,
-    "image": "./img/nVVaZ1Dzdc.webp",
-    "releaseDate": "2025-11-14",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 252
-  },
-  {
-    "title": "イースX -NORDICS-",
-    "platformNo": 1,
-    "image": "./img/MjhH6tE1Qi.webp",
-    "releaseDate": "2023-09-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 253
-  },
-  {
-    "title": "イース・メモワール -フェルガナの誓い-",
-    "platformNo": 2,
-    "image": "./img/4l31dXLSAH.webp",
-    "releaseDate": "2023-04-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 254
-  },
-  {
-    "title": "いけにえと雪のセツナ",
-    "platformNo": 3,
-    "image": "./img/20CWQ1mfPF.webp",
-    "releaseDate": "2016-02-08",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 255
-  },
-  {
-    "title": "OCTOPATH TRAVELERⅡ",
-    "platformNo": 1,
-    "image": "./img/nxPZdQaYV5.webp",
-    "releaseDate": "2023-02-24",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 256
-  },
-  {
-    "title": " デジモンサヴァイブ",
-    "platformNo": 2,
-    "image": "./img/7fE6cYnxZA.webp",
-    "releaseDate": "2022-07-28",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 257
-  },
-  {
-    "title": "タクティクスオウガ リボーン",
-    "platformNo": 3,
-    "image": "./img/IAtEtLUSSQ.webp",
-    "releaseDate": "2022-11-11",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 258
-  },
-  {
-    "title": "バテン・カイトス I & II HD Remaster",
-    "platformNo": 2,
-    "image": "./img/n4R2Zrj5EX.webp",
-    "releaseDate": "2023-09-14",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 259
-  },
-  {
-    "title": "逆転裁判123 成歩堂セレクション",
-    "platformNo": 14,
-    "image": "./img/yP8svOa4og.webp",
-    "releaseDate": "2014-04-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 260
-  },
-  {
-    "title": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
-    "platformNo": 14,
-    "image": "./img/Lf8YsGmb4V.webp",
-    "releaseDate": "2021-07-29",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 261
-  },
-  {
-    "title": "ガンダム オペレーショントロイ",
-    "platformNo": 8,
-    "image": "./img/9xhIIF4Q5d.webp",
-    "releaseDate": "2023-06-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 262
-  },
-  {
-    "title": "PRAGMATA",
-    "platformNo": 1,
-    "image": "./img/fkKjAds0ck.webp",
-    "releaseDate": "9999-99-99",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 263
-  },
-  {
-    "title": "百英雄伝",
-    "platformNo": 1,
-    "image": "./img/GVtrypMgNz.webp",
-    "releaseDate": "2024-04-21",
-    "purchaseFlag": true,
-    "packageFlag": false,
-    "rank": "C",
-    "id": 264
-  },
-  {
-    "title": "FINAL FANTASY XVI",
-    "platformNo": 1,
-    "image": "./img/5WWE6tynqp.webp",
-    "releaseDate": "2023-06-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 265
-  },
-  {
-    "title": "スターオーシャン1 -First Departure R-",
-    "platformNo": 3,
-    "image": "./img/oTjHLHaI61.webp",
-    "releaseDate": "2019-12-05",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 266
-  },
-  {
-    "title": "スターオーシャン -THE SECOND STORY R-",
-    "platformNo": 1,
-    "image": "./img/1YA4xrmrEr.webp",
-    "releaseDate": "2023-11-02",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 267
-  },
-  {
-    "title": "うみねこのなく頃に",
-    "platformNo": 14,
-    "image": "./img/VWE9hqoL2i.webp",
-    "releaseDate": "2010-12-31",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 268
-  },
-  {
-    "title": "ひぐらしのなく頃に",
-    "platformNo": 14,
-    "image": "./img/qOV5nURSaN.webp",
-    "releaseDate": "2006-08-13",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 269
-  },
-  {
-    "title": "ポッ拳 POKKÉN TOURNAMENT DX",
-    "platformNo": 2,
-    "image": "./img/mrncPzb2JM.webp",
-    "releaseDate": "2017-09-22",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 270
-  },
-  {
-    "title": "ユニコーンオーバーロード",
-    "platformNo": 1,
-    "image": "./img/IU5DNywbl3.webp",
-    "releaseDate": "2024-03-08",
-    "purchaseFlag": true,
-    "packageFlag": false,
-    "rank": "A",
-    "id": 271
-  },
-  {
-    "title": "逆転裁判456 王泥喜セレクション",
-    "platformNo": 14,
-    "image": "./img/qEnxB2ur5V.webp",
-    "releaseDate": "2024-01-25",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 272
-  },
-  {
-    "title": "P5T - ペルソナ5 タクティカ",
-    "platformNo": 3,
-    "image": "./img/4FKTzD1S6y.webp",
-    "releaseDate": "2023-11-17",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 273
-  },
-  {
-    "title": "P3RE - ペルソナ3 リロード",
-    "platformNo": 1,
-    "image": "./img/u03PoGcGiS.webp",
-    "releaseDate": "2024-02-02",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 274
-  },
-  {
-    "title": "トライアングルストラテジー",
-    "platformNo": 2,
-    "image": "./img/xbq3WitRaQ.webp",
-    "releaseDate": "2022-03-04",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 275
-  },
-  {
-    "title": "ポケットモンスター ルビー",
-    "platformNo": 12,
-    "image": "./img/LFfNC1RVbj.webp",
-    "releaseDate": "2002-11-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 276
-  },
-  {
-    "title": "電車でGO!3 通勤編",
-    "platformNo": 13,
-    "image": "./img/k7LO49TKNH.webp",
-    "releaseDate": "2001-03-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 277
-  },
-  {
-    "title": "マリオカート7",
-    "platformNo": 5,
-    "image": "./img/kuwCeU3cHz.webp",
-    "releaseDate": "2012-12-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 278
-  },
-  {
-    "title": "ワンピース 夢のルフィ海賊団誕生！",
-    "platformNo": 12,
-    "image": "./img/WqQ72APpmA.webp",
-    "releaseDate": "2001-04-27",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "E",
-    "id": 279
-  },
-  {
-    "title": "428 〜封鎖された渋谷で〜",
-    "platformNo": 3,
-    "image": "./img/TtKy39oesD.webp",
-    "releaseDate": "2008-12-04",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 280
-  },
-  {
-    "title": "Summer Pockets",
-    "platformNo": 14,
-    "image": "./img/9TB4P8VIBi.webp",
-    "releaseDate": "2018-06-29",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 281
-  },
-  {
-    "title": "大神 絶景版",
-    "platformNo": 2,
-    "image": "./img/vfgS6LUDn5.webp",
-    "releaseDate": "2018-08-09",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 282
-  },
-  {
-    "title": "ロマンシング サガ2",
-    "platformNo": 2,
-    "image": "./img/kFnKDzRAPr.webp",
-    "releaseDate": "2017-12-15",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 283
-  },
-  {
-    "title": "イース・オリジン",
-    "platformNo": 2,
-    "image": "./img/TelUC71Uvr.webp",
-    "releaseDate": "2020-10-01",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 284
-  },
-  {
-    "title": "メタファー：リファンタジオ",
-    "platformNo": 1,
-    "image": "./img/xvnFrtHzk9.webp",
-    "releaseDate": "2024-10-11",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 285
-  },
-  {
-    "title": "ソウルハッカーズ2",
-    "platformNo": 3,
-    "image": "./img/HWmVamECXo.webp",
-    "releaseDate": "2022-08-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 286
-  },
-  {
-    "title": "ARMORED CORE VI FIRES OF RUBICON",
-    "platformNo": 1,
-    "image": "./img/8Y9TT26sdg.webp",
-    "releaseDate": "2023-08-25",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 287
-  },
-  {
-    "title": "FINAL FANTASY VIII Remastered",
-    "platformNo": 2,
-    "image": "./img/LphQKyIGZK.webp",
-    "releaseDate": "2019-09-03",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "S",
-    "id": 288
-  },
-  {
-    "title": "FINAL FANTASY IX",
-    "platformNo": 2,
-    "image": "./img/GFHYXNlOXD.webp",
-    "releaseDate": "2019-02-14",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 289
-  },
-  {
-    "title": "Battlefield 2042",
-    "platformNo": 14,
-    "image": "./img/MbvKsz8hHx.webp",
-    "releaseDate": "2021-10-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 290
-  },
-  {
-    "title": "Frostpunk",
-    "platformNo": 14,
-    "image": "./img/LIKsaVPDHN.webp",
-    "releaseDate": "2018-04-24",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 291
-  },
-  {
-    "title": "真・女神転生V",
-    "platformNo": 2,
-    "image": "./img/WUvqDWErHn.webp",
-    "releaseDate": "2024-06-21",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 292
-  },
-  {
-    "title": "Cyberpunk 2077",
-    "platformNo": 14,
-    "image": "./img/cKCzJArK0E.webp",
-    "releaseDate": "2020-12-10",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 293
-  },
-  {
-    "title": "ドラゴンクエストI&II",
-    "platformNo": 1,
-    "image": "./img/YrNnMNyXzF.webp",
-    "releaseDate": "2025-10-25",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 294
-  },
-  {
-    "title": "かまいたちの夜x3",
-    "platformNo": 2,
-    "image": "./img/7qPzMDLZN9.webp",
-    "releaseDate": "2024-09-19",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 295
-  },
-  {
-    "title": "HUNDRED LINE -最終防衛学園-",
-    "platformNo": 2,
-    "image": "./img/GQCqWhFfzm.webp",
-    "releaseDate": "2025-04-24",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 296
-  },
-  {
-    "title": "逆転検事1&2 御剣セレクション",
-    "platformNo": 14,
-    "image": "./img/5ssQUPFH6D.webp",
-    "releaseDate": "2024-09-06",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 297
-  },
-  {
-    "title": "ユミアのアトリエ ～追憶の錬金術士と幻創の地～",
-    "platformNo": 1,
-    "image": "./img/5uFzzX7Brz.webp",
-    "releaseDate": "2025-03-21",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 298
-  },
-  {
-    "title": "英雄伝説 空の軌跡 the 1st",
-    "platformNo": 1,
-    "image": "./img/b3jwZJNkUk.webp",
-    "releaseDate": "2025-09-19",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 299
-  },
-  {
-    "title": "XenobladeX Definitive Edition",
-    "platformNo": 2,
-    "image": "./img/LF5CWkkcSi.webp",
-    "releaseDate": "2025-03-20",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 300
-  },
-  {
-    "title": "テイルズ オブ イノセンス",
-    "platformNo": 10,
-    "image": "./img/a9AnbvAWlW.webp",
-    "releaseDate": "2007-12-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 301
-  },
-  {
-    "title": "エストポリス",
-    "platformNo": 10,
-    "image": "./img/JOHSohpDhk.webp",
-    "releaseDate": "2007-12-06",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 302
-  },
-  {
-    "title": "ポケットモンスター Y",
-    "platformNo": 5,
-    "image": "./img/FzdOMqataQ.webp",
-    "releaseDate": "2013-10-12",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 303
-  },
-  {
-    "title": "ロマンシング サガ2 リベンジオブザセブン",
-    "platformNo": 1,
-    "image": "./img/HPa6I2ko2U.webp",
-    "releaseDate": "2024-10-24",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 304
-  },
-  {
-    "title": "英雄伝説 界の軌跡 -Farewell, O Zemuria-",
-    "platformNo": 1,
-    "image": "./img/BeGHobDDWb.webp",
-    "releaseDate": "2024-09-26",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "B",
-    "id": 305
-  },
-  {
-    "title": "魔法使いの夜",
-    "platformNo": 14,
-    "image": "./img/iuiCPPWT0I.webp",
-    "releaseDate": "2023-12-14",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 306
-  },
-  {
-    "title": "マリオカート ワールド",
-    "platformNo": 0,
-    "image": "./img/r30U4NcozX.webp",
-    "releaseDate": "2025-06-05",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 307
-  },
-  {
-    "title": "ブレイブリーデフォルト フライングフェアリー HDリマスター",
-    "platformNo": 0,
-    "image": "./img/DHZtE3hehX.webp",
-    "releaseDate": "2025-06-05",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 308
-  },
-  {
-    "title": "RAIDOU Remastered: 超力兵団奇譚",
-    "platformNo": 1,
-    "image": "./img/7wriNAIyuF.webp",
-    "releaseDate": "2025-06-19",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 309
-  },
-  {
-    "title": "MOTHER1+2",
-    "platformNo": 12,
-    "image": "./img/tBDc87yebK.webp",
-    "releaseDate": "2003-06-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 310
-  },
-  {
-    "title": "MOTHER3",
-    "platformNo": 12,
-    "image": "./img/srI9p66NAj.webp",
-    "releaseDate": "2006-04-20",
-    "purchaseFlag": true,
-    "packageFlag": true,
-    "rank": "A",
-    "id": 311
-  },
-  {
-    "title": "レイジングループ",
-    "platformNo": 14,
-    "image": "./img/aeQoHKL2vW.webp",
-    "releaseDate": "2017-08-24",
-    "purchaseFlag": false,
-    "packageFlag": false,
-    "rank": "",
-    "id": 312
-  },
-  {
-    "title": "グノーシア",
-    "platformNo": 2,
-    "image": "./img/CaYzePBEPN.webp",
-    "releaseDate": "2020-04-30",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 313
-  },
-  {
-    "title": "Marvel's Guardians of the Galaxy",
-    "platformNo": 14,
-    "image": "./img/EYwVI7goid.webp",
-    "releaseDate": "2021-10-26",
-    "purchaseFlag": true,
-    "packageFlag": false,
-    "rank": "",
-    "id": 314
-  },
-  {
-    "title": "終天教団",
-    "platformNo": 2,
-    "image": "./img/3ttAxdMzMf.webp",
-    "releaseDate": "2025-09-05",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 315
-  },
-  {
-    "title": "Marvel 1943: Rise of Hydra",
-    "platformNo": 14,
-    "image": "./img/rG9jqiCQkM.webp",
-    "releaseDate": "2026-01-01",
-    "purchaseFlag": false,
-    "packageFlag": false,
-    "rank": "",
-    "id": 316
-  },
-  {
-    "title": "冒険家エリオットの千年物語",
-    "platformNo": 0,
-    "image": "./img/gqzJnU05of.webp",
-    "releaseDate": "9999-99-99",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 317
-  },
-  {
-    "title": "オクトパストラベラー0",
-    "platformNo": 1,
-    "image": "https://store.jp.square-enix.com/client_info/SQEX_ESTORE/itemimage/ELJM_30773/ITEM_IMAGE2.jpg",
-    "releaseDate": "2025-12-04",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 318
-  },
-  {
-    "title": "ドラゴンクエストVII Reimagined",
-    "platformNo": 1,
-    "image": "https://store.jp.square-enix.com/client_info/SQEX_ESTORE/itemimage/ELJM_30807/ITEM_IMAGE1.jpg",
-    "releaseDate": "2026-02-05",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 319
-  },
-  {
-    "title": "スーパーダンガンロンパ２×２",
-    "platformNo": 1,
-    "image": "./img/NSrZgA20d4.webp",
-    "releaseDate": "",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 320
-  },
-  {
-    "title": "ファイアーエムブレム 万紫千紅",
-    "platformNo": 0,
-    "image": "./img/51GykehapW.webp",
-    "releaseDate": "9999-99-99",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 321
-  },
-  {
-    "title": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
-    "platformNo": 1,
-    "image": "https://www.4gamer.net/games/916/G091610/screenshot_3.jpg",
-    "releaseDate": "2025-09-30",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 322
-  },
-  {
-    "title": "シロナガス島への帰還",
-    "platformNo": 14,
-    "image": "./img/UxHdWwK8VJ.webp",
-    "releaseDate": "2020-03-03",
-    "purchaseFlag": true,
-    "packageFlag": false,
-    "rank": "A",
-    "id": 323
-  },
-  {
-    "title": "魔法少女ノ魔女裁判",
-    "platformNo": 14,
-    "image": "./img/nilXS6PwoA.webp",
-    "releaseDate": "2025-07-18",
-    "purchaseFlag": false,
-    "packageFlag": false,
-    "rank": "",
-    "id": 324
-  },
-  {
-    "title": "Angel Beats! -1st beat-",
-    "platformNo": 14,
-    "image": "./img/AXjlkdSNry.webp",
-    "releaseDate": "2020-04-17",
-    "purchaseFlag": false,
-    "packageFlag": false,
-    "rank": "",
-    "id": 325
-  },
-  {
-    "title": "魔界戦記ディスガイア6",
-    "platformNo": 1,
-    "image": "./img/3JWtNkKdnF.webp",
-    "releaseDate": "2022-06-16",
-    "purchaseFlag": true,
-    "packageFlag": false,
-    "rank": "D",
-    "id": 326
-  },
-  {
-    "title": "Pokémon LEGENDS Z-A",
-    "platformNo": 0,
-    "image": "https://assets.topics.apps-jp.nintendo.com/image/2025/05/26024154261705/0/195f6d1bfdd84ba7ab469b0c5c489516.jpg",
-    "releaseDate": "2025-10-16",
-    "purchaseFlag": false,
-    "packageFlag": true,
-    "rank": "",
-    "id": 327
-  }
+    {
+        "title": "英雄伝説 黎の軌跡Ⅱ -CRIMSON SiN-",
+        "platformNo": 3,
+        "image": "./img/76HJcuKU6i.jpg",
+        "releaseDate": "2022-09-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 1
+    },
+    {
+        "title": "英雄伝説 黎の軌跡",
+        "platformNo": 3,
+        "image": "./img/x0ZdnWjOWM.jpg",
+        "releaseDate": "2021-09-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 2
+    },
+    {
+        "title": "十三機兵防衛圏",
+        "platformNo": 3,
+        "image": "./img/1Od0XkUlGj.jpg",
+        "releaseDate": "2019-11-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 3
+    },
+    {
+        "title": "Xenoblade3",
+        "platformNo": 2,
+        "image": "./img/8brjLmu5rs.jpg",
+        "releaseDate": "2022-07-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 4
+    },
+    {
+        "title": "真・女神転生Ⅲ-NOCTURNE",
+        "platformNo": 3,
+        "image": "./img/RwcaDUXZ6s.jpg",
+        "releaseDate": "2020-10-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 5
+    },
+    {
+        "title": "ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
+        "platformNo": 3,
+        "image": "./img/LZ9UtBRSgP.jpg",
+        "releaseDate": "2019-09-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 6
+    },
+    {
+        "title": "Marvels Avengers",
+        "platformNo": 3,
+        "image": "./img/wlmhoSNrt0.jpg",
+        "releaseDate": "2020-08-14",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 7
+    },
+    {
+        "title": "P5R - ペルソナ5 ザ・ロイヤル",
+        "platformNo": 3,
+        "image": "./img/7xU1GYulra.webp",
+        "releaseDate": "2019-10-31",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 8
+    },
+    {
+        "title": "KINGDOM HEARTS IV",
+        "platformNo": 1,
+        "image": "./img/JdcSGusQAq.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 9
+    },
+    {
+        "title": "Marvels SPIDER-MAN 2",
+        "platformNo": 1,
+        "image": "./img/WpPAM27svR.webp",
+        "releaseDate": "2023-10-20",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 10
+    },
+    {
+        "title": "ドラゴンクエストX オフライン",
+        "platformNo": 1,
+        "image": "./img/L8k2hr0bSa.jpg",
+        "releaseDate": "2022-09-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 11
+    },
+    {
+        "title": "ドラゴンクエストⅢ そして伝説へ…",
+        "platformNo": 1,
+        "image": "./img/qR3gqE0KWz.webp",
+        "releaseDate": "2024-11-14",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 12
+    },
+    {
+        "title": "FINAL FANTASY VII REMAKE",
+        "platformNo": 3,
+        "image": "./img/0oB5imWv6Q.jpg",
+        "releaseDate": "2020-04-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 13
+    },
+    {
+        "title": "FINAL FANTASY VII REBIRTH",
+        "platformNo": 1,
+        "image": "./img/m71pBrSTWp.webp",
+        "releaseDate": "2024-02-29",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 14
+    },
+    {
+        "title": "LIVE A LIVE",
+        "platformNo": 2,
+        "image": "./img/5arqR6YQ16.jpg",
+        "releaseDate": "2022-07-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 15
+    },
+    {
+        "title": "聖剣伝説3 TRIALS of MANA",
+        "platformNo": 3,
+        "image": "./img/Om9liOHtUH.webp",
+        "releaseDate": "2020-04-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 16
+    },
+    {
+        "title": "イースVIII -Lacrimosa of DANA-",
+        "platformNo": 3,
+        "image": "./img/mfNBVFI9An.jpg",
+        "releaseDate": "2016-07-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 17
+    },
+    {
+        "title": "テイルズ オブ アライズ",
+        "platformNo": 1,
+        "image": "./img/eDtUrXfGHX.jpg",
+        "releaseDate": "2021-09-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 18
+    },
+    {
+        "title": "テイルズ オブ ベルセリア",
+        "platformNo": 3,
+        "image": "./img/rjt5ZOVZav.jpg",
+        "releaseDate": "2016-08-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 19
+    },
+    {
+        "title": "リディー&スールのアトリエ 〜不思議な絵画の錬金術士〜",
+        "platformNo": 3,
+        "image": "./img/nBwxExRG2t.jpg",
+        "releaseDate": "2017-12-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 20
+    },
+    {
+        "title": "フィリスのアトリエ 〜不思議な旅の錬金術士〜",
+        "platformNo": 3,
+        "image": "./img/r6AyiDcJWX.jpg",
+        "releaseDate": "2016-11-02",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 21
+    },
+    {
+        "title": "ソフィーのアトリエ 〜不思議な本の錬金術士〜",
+        "platformNo": 3,
+        "image": "./img/431HTdWtTC.jpg",
+        "releaseDate": "2015-11-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 22
+    },
+    {
+        "title": "ゼルダの伝説 スカイウォードソード HD",
+        "platformNo": 2,
+        "image": "./img/Nul0Y5Wkog.jpg",
+        "releaseDate": "2021-07-16",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 23
+    },
+    {
+        "title": "ポケットモンスター バイオレット",
+        "platformNo": 2,
+        "image": "./img/6lljz7mZ9J.jpg",
+        "releaseDate": "2022-11-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "C",
+        "id": 24
+    },
+    {
+        "title": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+        "platformNo": 2,
+        "image": "./img/BmnFJs9yro.jpg",
+        "releaseDate": "2023-05-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 25
+    },
+    {
+        "title": "マリオカート8 デラックス",
+        "platformNo": 2,
+        "image": "./img/WgxebM8ebA.jpg",
+        "releaseDate": "2017-04-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 26
+    },
+    {
+        "title": "Xenoblade Definitive Edition",
+        "platformNo": 2,
+        "image": "./img/lIopIYy1C3.jpg",
+        "releaseDate": "2020-05-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 27
+    },
+    {
+        "title": "Xenoblade2",
+        "platformNo": 2,
+        "image": "./img/iLP0qnTuDP.jpg",
+        "releaseDate": "2017-12-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 28
+    },
+    {
+        "title": "ポケットモンスター シールド",
+        "platformNo": 2,
+        "image": "./img/Rif5rUZO0u.jpg",
+        "releaseDate": "2019-11-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 29
+    },
+    {
+        "title": "KINGDOM HEARTS Ⅲ",
+        "platformNo": 3,
+        "image": "./img/gouK2ozyT4.jpg",
+        "releaseDate": "2019-01-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 30
+    },
+    {
+        "title": "KINGDOM HEARTS Ⅱ",
+        "platformNo": 13,
+        "image": "x",
+        "releaseDate": "2005-12-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 31
+    },
+    {
+        "title": "KINGDOM HEARTS FINAL MIX",
+        "platformNo": 13,
+        "image": "./img/DeFMQGSuRP.webp",
+        "releaseDate": "2005-09-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 32
+    },
+    {
+        "title": "KINGDOM HEARTS Ⅱ FINAL MIX",
+        "platformNo": 13,
+        "image": "c",
+        "releaseDate": "2007-03-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 33
+    },
+    {
+        "title": "P5 - ペルソナ5",
+        "platformNo": 3,
+        "image": "./img/jcc51ieHWV.jpg",
+        "releaseDate": "2016-09-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 34
+    },
+    {
+        "title": "P4G - ペルソナ4 ザ・ゴールデン",
+        "platformNo": 14,
+        "image": "./img/Q8LdY8ahum.jpg",
+        "releaseDate": "2020-06-14",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 35
+    },
+    {
+        "title": "英雄伝説 空の軌跡FC",
+        "platformNo": 9,
+        "image": "x",
+        "releaseDate": "2004-06-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 36
+    },
+    {
+        "title": "英雄伝説 空の軌跡SC",
+        "platformNo": 9,
+        "image": "x",
+        "releaseDate": "2006-09-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 37
+    },
+    {
+        "title": "英雄伝説 空の軌跡 the 3rd",
+        "platformNo": 9,
+        "image": "x",
+        "releaseDate": "2007-09-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 38
+    },
+    {
+        "title": "英雄伝説 閃の軌跡Ⅲ",
+        "platformNo": 3,
+        "image": "./img/5DEihLrvk0.jpg",
+        "releaseDate": "2017-09-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 39
+    },
+    {
+        "title": "英雄伝説 閃の軌跡Ⅱ",
+        "platformNo": 4,
+        "image": "./img/fOkSC79Qfl.webp",
+        "releaseDate": "2014-09-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 40
+    },
+    {
+        "title": "英雄伝説 閃の軌跡",
+        "platformNo": 4,
+        "image": "./img/40fSjpCtpi.webp",
+        "releaseDate": "2013-09-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 41
+    },
+    {
+        "title": "英雄伝説 閃の軌跡IV -THE END OF SAGA-",
+        "platformNo": 3,
+        "image": "./img/NIBrws4eMa.jpg",
+        "releaseDate": "2018-09-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 42
+    },
+    {
+        "title": "英雄伝説 創の軌跡",
+        "platformNo": 3,
+        "image": "./img/XD0xND9V55.jpg",
+        "releaseDate": "2020-08-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 43
+    },
+    {
+        "title": "英雄伝説 碧の軌跡",
+        "platformNo": 9,
+        "image": "./img/mU6qr4HAgl.webp",
+        "releaseDate": "2011-09-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 44
+    },
+    {
+        "title": "英雄伝説 零の軌跡",
+        "platformNo": 9,
+        "image": "./img/8BIUowK9Ig.webp",
+        "releaseDate": "2010-09-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 45
+    },
+    {
+        "title": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+        "platformNo": 2,
+        "image": "./img/wsYC1yMGQP.jpg",
+        "releaseDate": "2017-03-03",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 46
+    },
+    {
+        "title": "スーパーマリオ 3Dコレクション",
+        "platformNo": 2,
+        "image": "./img/QFQj2Sm2Tp.jpg",
+        "releaseDate": "2020-09-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 47
+    },
+    {
+        "title": "ポケットモンスター ブラック",
+        "platformNo": 10,
+        "image": "./img/jatjaUGJYB.webp",
+        "releaseDate": "2010-09-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 48
+    },
+    {
+        "title": "ポケットモンスター パール",
+        "platformNo": 10,
+        "image": "./img/sYHQSuRfs1.webp",
+        "releaseDate": "2006-09-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 49
+    },
+    {
+        "title": "ポケットモンスター サファイア",
+        "platformNo": 12,
+        "image": "./img/NgI0aKhxMx.webp",
+        "releaseDate": "2002-09-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 50
+    },
+    {
+        "title": "ポケットモンスター エメラルド",
+        "platformNo": 12,
+        "image": "./img/G4vxP7W200.webp",
+        "releaseDate": "2004-09-16",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 51
+    },
+    {
+        "title": "Marvels Spider-Man",
+        "platformNo": 3,
+        "image": "./img/bACV17xdxj.jpg",
+        "releaseDate": "2018-09-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 52
+    },
+    {
+        "title": "イースIX -Monstrum NOX-",
+        "platformNo": 3,
+        "image": "./img/19EspDFqFd.jpg",
+        "releaseDate": "2019-09-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 53
+    },
+    {
+        "title": "テイルズ オブ ヴェスペリア REMASTER",
+        "platformNo": 3,
+        "image": "./img/JvSm2WLs5p.jpg",
+        "releaseDate": "2019-01-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 54
+    },
+    {
+        "title": "P5S - ペルソナ5 スクランブル ザ ファントム ストライカーズ",
+        "platformNo": 3,
+        "image": "./img/7uVNVpEbJh.jpg",
+        "releaseDate": "2020-02-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 55
+    },
+    {
+        "title": "ポケットモンスター ファイアレッド",
+        "platformNo": 12,
+        "image": "./img/C7FbcaEyOJ.webp",
+        "releaseDate": "2004-01-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 56
+    },
+    {
+        "title": "ポケットモンスター ハートゴールド",
+        "platformNo": 10,
+        "image": "./img/8uH60kltkx.webp",
+        "releaseDate": "2009-09-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 57
+    },
+    {
+        "title": "ポケモンレンジャー 光の軌跡",
+        "platformNo": 10,
+        "image": "./img/fLPCpqepRX.webp",
+        "releaseDate": "2010-03-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 58
+    },
+    {
+        "title": "ポケモンコロシアム",
+        "platformNo": 11,
+        "image": "./img/qLnMEMX7QK.webp",
+        "releaseDate": "2003-11-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 59
+    },
+    {
+        "title": "KINGDOM HEARTS Melody of Memory",
+        "platformNo": 3,
+        "image": "./img/SiF0rYVAz6.jpg",
+        "releaseDate": "2021-03-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 60
+    },
+    {
+        "title": "KINGDOM HEARTS 3D Dream Drop Distance",
+        "platformNo": 5,
+        "image": "./img/XwgSCkv9xK.webp",
+        "releaseDate": "2012-03-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 61
+    },
+    {
+        "title": "KINGDOM HEARTS 358/2 Days",
+        "platformNo": 10,
+        "image": "./img/SClqIV0toK.webp",
+        "releaseDate": "2009-10-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 62
+    },
+    {
+        "title": "KINGDOM HEARTS Birth by Sleep",
+        "platformNo": 9,
+        "image": "./img/noapnk39lb.webp",
+        "releaseDate": "2010-01-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 63
+    },
+    {
+        "title": "KINGDOM HEARTS CHAIN OF MEMORIES",
+        "platformNo": 12,
+        "image": "./img/CbPIfnsEnQ.webp",
+        "releaseDate": "2004-11-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 64
+    },
+    {
+        "title": "KINGDOM HEARTS Re:coded",
+        "platformNo": 10,
+        "image": "./img/8V0hkfrhec.webp",
+        "releaseDate": "2008-11-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 65
+    },
+    {
+        "title": "KINGDOM HEARTS HD 1.5+2.5 ReMix",
+        "platformNo": 3,
+        "image": "./img/dqBawijArg.jpg",
+        "releaseDate": "2017-03-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 66
+    },
+    {
+        "title": "ファイアーエムブレム 封印の剣",
+        "platformNo": 12,
+        "image": "./img/FBKqp7SH3L.webp",
+        "releaseDate": "2002-03-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 67
+    },
+    {
+        "title": "ファイアーエムブレム 烈火の剣",
+        "platformNo": 12,
+        "image": "./img/9cX8Wwy9V6.webp",
+        "releaseDate": "2003-04-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 68
+    },
+    {
+        "title": "ファイアーエムブレム 聖魔の光石",
+        "platformNo": 12,
+        "image": "./img/nvAEeU6QFa.webp",
+        "releaseDate": "2004-10-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 69
+    },
+    {
+        "title": "ファイアーエムブレム 蒼炎の軌跡",
+        "platformNo": 11,
+        "image": "./img/NmlUnT44bN.webp",
+        "releaseDate": "2005-04-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 70
+    },
+    {
+        "title": "ファイアーエムブレム 暁の女神",
+        "platformNo": 7,
+        "image": "./img/izhO1s1yxA.webp",
+        "releaseDate": "2007-02-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 71
+    },
+    {
+        "title": "ファイアーエムブレム 風花雪月",
+        "platformNo": 2,
+        "image": "./img/MJt1Rr2fju.jpg",
+        "releaseDate": "2019-07-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 72
+    },
+    {
+        "title": "ファイアーエムブレム 新・暗黒竜と光の剣",
+        "platformNo": 10,
+        "image": "./img/fPk19UqOFO.webp",
+        "releaseDate": "2008-08-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 73
+    },
+    {
+        "title": "ファイアーエムブレム 新・紋章の謎 〜光と影の英雄〜",
+        "platformNo": 10,
+        "image": "./img/lpscGR0oOf.webp",
+        "releaseDate": "2010-07-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 74
+    },
+    {
+        "title": "ファイアーエムブレム 覚醒",
+        "platformNo": 5,
+        "image": "./img/ruJUmgMQdV.webp",
+        "releaseDate": "2012-04-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 75
+    },
+    {
+        "title": "ファイアーエムブレム if 暗夜王国",
+        "platformNo": 5,
+        "image": "./img/08Iq4aJ5KM.webp",
+        "releaseDate": "2015-06-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 76
+    },
+    {
+        "title": "ファイアーエムブレム Echoes もうひとりの英雄王",
+        "platformNo": 5,
+        "image": "./img/DOFTPyeLb8.webp",
+        "releaseDate": "2017-04-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 77
+    },
+    {
+        "title": "ドラゴンクエストIV 導かれし者たち",
+        "platformNo": 10,
+        "image": "./img/ibX0iUS3bG.jpg",
+        "releaseDate": "2007-11-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 78
+    },
+    {
+        "title": "ドラゴンクエストV 天空の花嫁",
+        "platformNo": 10,
+        "image": "x",
+        "releaseDate": "2008-07-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 79
+    },
+    {
+        "title": "ドラゴンクエストV 天空の花嫁",
+        "platformNo": 13,
+        "image": "x",
+        "releaseDate": "2004-03-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 80
+    },
+    {
+        "title": "ドラゴンクエストVI 幻の大地",
+        "platformNo": 10,
+        "image": "./img/asP2zB3JLy.jpg",
+        "releaseDate": "2010-01-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 81
+    },
+    {
+        "title": "ドラゴンクエストⅦ エデンの戦士たち",
+        "platformNo": 5,
+        "image": "./img/4I1rrMl7in.jpg",
+        "releaseDate": "2013-02-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 82
+    },
+    {
+        "title": "ドラゴンクエストⅦ エデンの戦士たち",
+        "platformNo": 13,
+        "image": "x",
+        "releaseDate": "2000-08-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 83
+    },
+    {
+        "title": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+        "platformNo": 13,
+        "image": "x",
+        "releaseDate": "2004-11-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 84
+    },
+    {
+        "title": "ドラゴンクエストIX 星空の守り人",
+        "platformNo": 10,
+        "image": "./img/52yBdL3EZN.webp",
+        "releaseDate": "2009-07-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 85
+    },
+    {
+        "title": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+        "platformNo": 3,
+        "image": "./img/WooIpwLFL7.jpg",
+        "releaseDate": "2017-07-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 86
+    },
+    {
+        "title": "FINAL FANTASY X",
+        "platformNo": 13,
+        "image": "x",
+        "releaseDate": "2001-07-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 87
+    },
+    {
+        "title": "FINAL FANTASY X-2",
+        "platformNo": 13,
+        "image": "./img/Dkek3LSczQ.webp",
+        "releaseDate": "2003-03-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 88
+    },
+    {
+        "title": "FINAL FANTASY XII",
+        "platformNo": 13,
+        "image": "./img/UsKpGLIYpi.webp",
+        "releaseDate": "2006-03-16",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 89
+    },
+    {
+        "title": "FINAL FANTASY XIII",
+        "platformNo": 6,
+        "image": "./img/mWbe8vdNxj.webp",
+        "releaseDate": "2009-12-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 90
+    },
+    {
+        "title": "FINAL FANTASY XV",
+        "platformNo": 3,
+        "image": "./img/FJjDDDZlkm.jpg",
+        "releaseDate": "2016-11-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 91
+    },
+    {
+        "title": "ニーア レプリカント ver.1.22474487139...",
+        "platformNo": 3,
+        "image": "./img/Z3MphPmtUi.webp",
+        "releaseDate": "2021-04-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 92
+    },
+    {
+        "title": "魔界戦記ディスガイア",
+        "platformNo": 9,
+        "image": "./img/QN6MNr3aes.webp",
+        "releaseDate": "2003-01-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 93
+    },
+    {
+        "title": "魔界戦記ディスガイア2",
+        "platformNo": 9,
+        "image": "./img/tdJHZgnaWS.webp",
+        "releaseDate": "2006-02-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 94
+    },
+    {
+        "title": "魔界戦記ディスガイア5",
+        "platformNo": 14,
+        "image": "./img/cMbuEfK3P2.png",
+        "releaseDate": "2015-03-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 95
+    },
+    {
+        "title": "ゼルダの伝説 風のタクト",
+        "platformNo": 11,
+        "image": "x",
+        "releaseDate": "2002-12-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 96
+    },
+    {
+        "title": "ゼルダの伝説 夢幻の砂時計",
+        "platformNo": 10,
+        "image": "./img/HqxXq4YIum.webp",
+        "releaseDate": "2007-06-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 97
+    },
+    {
+        "title": "ゼルダの伝説 大地の汽笛",
+        "platformNo": 10,
+        "image": "./img/UhG8Yl30Hc.webp",
+        "releaseDate": "2009-12-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 98
+    },
+    {
+        "title": "ゼルダの伝説 ふしぎのぼうし",
+        "platformNo": 12,
+        "image": "./img/WKy6Pws6Fc.webp",
+        "releaseDate": "2004-11-04",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 99
+    },
+    {
+        "title": "ゼルダの伝説 4つの剣+",
+        "platformNo": 11,
+        "image": "./img/iN9UtrgU3U.webp",
+        "releaseDate": "2004-03-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 100
+    },
+    {
+        "title": "サルゲッチュ2",
+        "platformNo": 13,
+        "image": "./img/aZLZkFyxWK.webp",
+        "releaseDate": "2002-07-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 101
+    },
+    {
+        "title": "ファミコン&スーパーファミコン ドラゴンクエストⅠ・Ⅱ・Ⅲ",
+        "platformNo": 7,
+        "image": "./img/zdcTBlysX4.webp",
+        "releaseDate": "2011-09-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 102
+    },
+    {
+        "title": "CRISIS CORE - FINAL FANTASY VII",
+        "platformNo": 9,
+        "image": "./img/hS5uyY32S7.webp",
+        "releaseDate": "2007-09-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 103
+    },
+    {
+        "title": "イナズマイレブン",
+        "platformNo": 10,
+        "image": "./img/rvgnLuDPFH.webp",
+        "releaseDate": "2008-08-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 104
+    },
+    {
+        "title": "イナズマイレブン2 脅威の侵略者 ブリザード",
+        "platformNo": 10,
+        "image": "./img/vKpo0iAqcS.webp",
+        "releaseDate": "2009-10-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 105
+    },
+    {
+        "title": "イナズマイレブン3 世界への挑戦!! スパーク",
+        "platformNo": 10,
+        "image": "./img/U6hgRnYLEO.webp",
+        "releaseDate": "2010-07-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 106
+    },
+    {
+        "title": "レイトン教授と不思議な町",
+        "platformNo": 10,
+        "image": "./img/NXvPmAM7L2.webp",
+        "releaseDate": "2007-02-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 107
+    },
+    {
+        "title": "DRAGON QUEST MONSTERS Joker2",
+        "platformNo": 10,
+        "image": "./img/25zyWFRgOJ.webp",
+        "releaseDate": "2010-04-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 108
+    },
+    {
+        "title": "DRAGON QUEST MONSTERS Joker2 PROFESSIONAL",
+        "platformNo": 10,
+        "image": "./img/X348Hzkgkm.webp",
+        "releaseDate": "2011-03-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 109
+    },
+    {
+        "title": "DRAGON QUEST MONSTERS Joker3 PROFESSIONAL",
+        "platformNo": 5,
+        "image": "./img/bfJncSuZmx.webp",
+        "releaseDate": "2016-03-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 110
+    },
+    {
+        "title": "DRAGON QUEST MONSTERS テリーのワンダーランド3D",
+        "platformNo": 5,
+        "image": "./img/DB8szR25Le.jpg",
+        "releaseDate": "2012-05-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 111
+    },
+    {
+        "title": "DRAGON QUEST MONSTERS 2 マルタのふしぎな鍵",
+        "platformNo": 5,
+        "image": "./img/vEaOZ0OV15.webp",
+        "releaseDate": "2014-02-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 112
+    },
+    {
+        "title": "New スーパーマリオブラザーズ Wii",
+        "platformNo": 7,
+        "image": "./img/s8aedWcEZH.webp",
+        "releaseDate": "2009-11-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 113
+    },
+    {
+        "title": "マリオカートWii",
+        "platformNo": 7,
+        "image": "./img/S79H5rmlOF.jpg",
+        "releaseDate": "2008-04-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 114
+    },
+    {
+        "title": "スーパーマリオギャラクシー",
+        "platformNo": 7,
+        "image": "./img/0gj72rKplk.webp",
+        "releaseDate": "2007-11-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 115
+    },
+    {
+        "title": "スーパーマリオギャラクシー2",
+        "platformNo": 7,
+        "image": "./img/i8ta3yikkX.webp",
+        "releaseDate": "2010-05-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 116
+    },
+    {
+        "title": "マリオスポーツミックス",
+        "platformNo": 7,
+        "image": "./img/IMy5BT3AgW.webp",
+        "releaseDate": "2010-11-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 117
+    },
+    {
+        "title": "マリオ&ソニック AT 北京オリンピック",
+        "platformNo": 7,
+        "image": "./img/7MrG22TZWY.webp",
+        "releaseDate": "2007-11-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 118
+    },
+    {
+        "title": "Wii Fit",
+        "platformNo": 7,
+        "image": "./img/v931DqyDYH.webp",
+        "releaseDate": "2007-12-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 119
+    },
+    {
+        "title": "Wii Sports",
+        "platformNo": 7,
+        "image": "./img/QwYwRPnaD6.webp",
+        "releaseDate": "2006-11-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 120
+    },
+    {
+        "title": "ドラゴンクエストソード 仮面の女王と鏡の塔",
+        "platformNo": 7,
+        "image": "./img/K3GSxWViO6.webp",
+        "releaseDate": "2007-07-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 121
+    },
+    {
+        "title": "New スーパーマリオブラザーズ",
+        "platformNo": 10,
+        "image": "./img/f5YghZCSFH.webp",
+        "releaseDate": "2006-05-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 122
+    },
+    {
+        "title": "マリオカートDS",
+        "platformNo": 10,
+        "image": "./img/FOCEL0xti3.webp",
+        "releaseDate": "2005-12-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 123
+    },
+    {
+        "title": "おいでよ どうぶつの森",
+        "platformNo": 10,
+        "image": "./img/IBp4hVNdHi.webp",
+        "releaseDate": "2005-11-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 124
+    },
+    {
+        "title": "とびだせ どうぶつの森",
+        "platformNo": 5,
+        "image": "./img/BRk8ihbRxH.png",
+        "releaseDate": "2016-11-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 125
+    },
+    {
+        "title": "あつまれ どうぶつの森",
+        "platformNo": 2,
+        "image": "./img/eJzwEmuixq.jpg",
+        "releaseDate": "2020-03-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 126
+    },
+    {
+        "title": "脳を鍛える大人のDSトレーニング",
+        "platformNo": 10,
+        "image": "./img/mcExZhZ8UF.webp",
+        "releaseDate": "2005-05-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 127
+    },
+    {
+        "title": "エターナルアルカディア レジェンド",
+        "platformNo": 11,
+        "image": "./img/ZR1k7dhAMC.webp",
+        "releaseDate": "2002-12-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 128
+    },
+    {
+        "title": "テイルズ オブ シンフォニア",
+        "platformNo": 11,
+        "image": "./img/9QBtUma3Kn.webp",
+        "releaseDate": "2003-08-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 129
+    },
+    {
+        "title": "テイルズ オブ ジアビス",
+        "platformNo": 13,
+        "image": "./img/LCD6OPAxvU.webp",
+        "releaseDate": "2005-12-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 130
+    },
+    {
+        "title": "ポケットモンスター プラチナ",
+        "platformNo": 10,
+        "image": "./img/CfLgEMbre1.webp",
+        "releaseDate": "2008-09-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 131
+    },
+    {
+        "title": "ポケットモンスター X",
+        "platformNo": 5,
+        "image": "./img/KUzzgD5J7k.webp",
+        "releaseDate": "2013-10-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 132
+    },
+    {
+        "title": "ポケットモンスター ムーン",
+        "platformNo": 5,
+        "image": "./img/8ZtdGxpxkN.webp",
+        "releaseDate": "2016-11-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 133
+    },
+    {
+        "title": "リングフィット アドベンチャー",
+        "platformNo": 2,
+        "image": "./img/J1xC87QuNR.jpg",
+        "releaseDate": "2019-10-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 134
+    },
+    {
+        "title": "ファイナルファンタジー・クリスタルクロニクル リマスター",
+        "platformNo": 2,
+        "image": "./img/qTUCuTh4CP.jpg",
+        "releaseDate": "2020-08-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 135
+    },
+    {
+        "title": "トルネコの大冒険3 ~不思議のダンジョン~",
+        "platformNo": 13,
+        "image": "./img/ytBtzUqyFJ.webp",
+        "releaseDate": "2002-10-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 136
+    },
+    {
+        "title": "二ノ国 漆黒の魔導士",
+        "platformNo": 10,
+        "image": "./img/jtIKxGHNtE.webp",
+        "releaseDate": "2018-03-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 137
+    },
+    {
+        "title": "スーパーマリオサンシャイン",
+        "platformNo": 11,
+        "image": "./img/Zdg9dyC7pX.jpg",
+        "releaseDate": "2007-07-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 138
+    },
+    {
+        "title": "天外魔境 第四の黙示録",
+        "platformNo": 9,
+        "image": "./img/ukQtH88fQ2.webp",
+        "releaseDate": "2006-07-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 139
+    },
+    {
+        "title": "サクラノート 〜いまにつながるみらい〜",
+        "platformNo": 10,
+        "image": "./img/DzL1J6f3eE.webp",
+        "releaseDate": "2009-11-05",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 140
+    },
+    {
+        "title": "財団法人日本漢字能力検定協会公認 漢検DS",
+        "platformNo": 10,
+        "image": "x",
+        "releaseDate": "2006-09-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 141
+    },
+    {
+        "title": "タッチ!カービィ",
+        "platformNo": 10,
+        "image": "./img/BqnAwVYbvW.webp",
+        "releaseDate": "2005-03-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 142
+    },
+    {
+        "title": "ジャンプスーパースターズ",
+        "platformNo": 10,
+        "image": "./img/huokRzlUov.webp",
+        "releaseDate": "2005-08-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 143
+    },
+    {
+        "title": "ドラゴンボールZ Sparking! NEO",
+        "platformNo": 7,
+        "image": "./img/3cS5dWm4dh.webp",
+        "releaseDate": "2006-10-05",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 144
+    },
+    {
+        "title": "金色のガッシュベル!! 友情タッグバトル",
+        "platformNo": 13,
+        "image": "./img/dmzCvYZA3O.webp",
+        "releaseDate": "2004-03-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 145
+    },
+    {
+        "title": "金色のガッシュベル!! うなれ!友情の電撃2 ",
+        "platformNo": 12,
+        "image": "./img/U5CoE6dO8R.webp",
+        "releaseDate": "2004-12-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 146
+    },
+    {
+        "title": "艦これ改",
+        "platformNo": 4,
+        "image": "./img/iCqrqkUXSy.webp",
+        "releaseDate": "2016-02-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 147
+    },
+    {
+        "title": "ひぐらしのなく頃に粋",
+        "platformNo": 4,
+        "image": "./img/yYNNtELBac.webp",
+        "releaseDate": "2017-04-03",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 148
+    },
+    {
+        "title": "ソードアート・オンライン ―ホロウ・フラグメント―",
+        "platformNo": 4,
+        "image": "./img/F2cA4sVnKx.webp",
+        "releaseDate": "2014-04-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 149
+    },
+    {
+        "title": "スーパーマリオ64DS",
+        "platformNo": 10,
+        "image": "./img/7iMfWArq6K.webp",
+        "releaseDate": "2004-12-02",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 150
+    },
+    {
+        "title": "ルーンファクトリー4",
+        "platformNo": 5,
+        "image": "./img/nOHJr4Q0Q3.jpg",
+        "releaseDate": "2012-07-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 151
+    },
+    {
+        "title": "マリオ&ルイージRPG3!!!",
+        "platformNo": 10,
+        "image": "./img/cSu5yMwV1t.webp",
+        "releaseDate": "2009-02-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 152
+    },
+    {
+        "title": "FINAL FANTASY XIII-2",
+        "platformNo": 6,
+        "image": "./img/KioyzUlWx1.jpg",
+        "releaseDate": "2011-12-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 153
+    },
+    {
+        "title": "ドラベース2 熱闘ウルトラスタジアム",
+        "platformNo": 10,
+        "image": "./img/xq2fQZSM8o.webp",
+        "releaseDate": "2009-11-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 154
+    },
+    {
+        "title": "大乱闘スマッシュブラザーズ SPECIAL",
+        "platformNo": 2,
+        "image": "./img/jAc2v4Ydkv.webp",
+        "releaseDate": "2018-12-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 155
+    },
+    {
+        "title": "JEANNE DARC",
+        "platformNo": 9,
+        "image": "./img/WOOARnYqbj.webp",
+        "releaseDate": "2006-11-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 156
+    },
+    {
+        "title": "俺の屍を越えてゆけ",
+        "platformNo": 9,
+        "image": "./img/QAO9BEMQVK.webp",
+        "releaseDate": "1999-06-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 157
+    },
+    {
+        "title": "モンスターハンター",
+        "platformNo": 9,
+        "image": "./img/zHXfpmZ6jE.webp",
+        "releaseDate": "2005-12-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 158
+    },
+    {
+        "title": "モンスターハンター3G",
+        "platformNo": 5,
+        "image": "./img/YedVpetjlr.webp",
+        "releaseDate": "2011-12-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 159
+    },
+    {
+        "title": "モンスターハンターダブルクロス",
+        "platformNo": 5,
+        "image": "./img/ovmU5fWiua.webp",
+        "releaseDate": "2015-11-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 160
+    },
+    {
+        "title": "那由多の軌跡:改",
+        "platformNo": 3,
+        "image": "./img/eWUQO9CS0M.jpg",
+        "releaseDate": "2012-07-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 161
+    },
+    {
+        "title": "英雄伝説V 海の檻歌",
+        "platformNo": 9,
+        "image": "./img/hipan0bNNM.webp",
+        "releaseDate": "2007-01-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 162
+    },
+    {
+        "title": "英雄伝説IV 朱紅い雫",
+        "platformNo": 9,
+        "image": "./img/V6eVpWnL31.webp",
+        "releaseDate": "2005-06-02",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 163
+    },
+    {
+        "title": "英雄伝説III 白き魔女",
+        "platformNo": 9,
+        "image": "./img/2S4fnvpwWT.webp",
+        "releaseDate": "2004-12-16",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 164
+    },
+    {
+        "title": "イース セルセタの樹海:改",
+        "platformNo": 3,
+        "image": "./img/TXaDf1sGsk.jpg",
+        "releaseDate": "2012-09-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 165
+    },
+    {
+        "title": "まわるメイドインワリオ",
+        "platformNo": 12,
+        "image": "./img/rGae77KBNg.webp",
+        "releaseDate": "2004-10-14",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 166
+    },
+    {
+        "title": "さわるメイド イン ワリオ",
+        "platformNo": 10,
+        "image": "./img/y8pUKUimXe.webp",
+        "releaseDate": "2004-12-02",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 167
+    },
+    {
+        "title": "進撃の巨人〜人類最後の翼〜",
+        "platformNo": 5,
+        "image": "./img/ILLPr5c6Rk.webp",
+        "releaseDate": "2013-12-05",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 168
+    },
+    {
+        "title": "FINAL FANTASY XII THE ZODIAC AGE",
+        "platformNo": 3,
+        "image": "./img/TFcCWMfQ1b.jpg",
+        "releaseDate": "2017-07-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 169
+    },
+    {
+        "title": "OCTOPATH TRAVELER",
+        "platformNo": 2,
+        "image": "./img/pWxtSOVHKn.webp",
+        "releaseDate": "2019-04-28",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 170
+    },
+    {
+        "title": "スーパーマリオ オデッセイ",
+        "platformNo": 2,
+        "image": "./img/mYj5AZJpxH.jpg",
+        "releaseDate": "2017-10-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 171
+    },
+    {
+        "title": "役満DS",
+        "platformNo": 10,
+        "image": "./img/niXsdETYs0.webp",
+        "releaseDate": "2005-03-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 172
+    },
+    {
+        "title": "ロストオデッセイ",
+        "platformNo": 8,
+        "image": "./img/uW2B9SJ5vH.webp",
+        "releaseDate": "2007-12-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 173
+    },
+    {
+        "title": "ブルードラゴン",
+        "platformNo": 8,
+        "image": "./img/QpQPamA5kC.webp",
+        "releaseDate": "2006-12-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 174
+    },
+    {
+        "title": "ラスト レムナント",
+        "platformNo": 8,
+        "image": "./img/ZbZIbdhDCe.webp",
+        "releaseDate": "2008-11-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 175
+    },
+    {
+        "title": "すばらしきこのせかい",
+        "platformNo": 10,
+        "image": "./img/UCNw5I2dp3.webp",
+        "releaseDate": "2007-07-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 176
+    },
+    {
+        "title": "不思議のダンジョン 風来のシレンDS",
+        "platformNo": 10,
+        "image": "./img/V2WkzRdyES.webp",
+        "releaseDate": "2006-12-14",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 177
+    },
+    {
+        "title": "ユニバーサル・スタジオ・ジャパン・アドベンチャー",
+        "platformNo": 11,
+        "image": "./img/QXsuopvKri.webp",
+        "releaseDate": "2001-12-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 178
+    },
+    {
+        "title": "ダーククロニクル",
+        "platformNo": 13,
+        "image": "./img/gyWduLHvq0.webp",
+        "releaseDate": "2002-11-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 179
+    },
+    {
+        "title": "バテン カイトスii 始まりの翼と神々の嗣子",
+        "platformNo": 11,
+        "image": "./img/IU64aXC9PO.webp",
+        "releaseDate": "2006-02-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 180
+    },
+    {
+        "title": "ポケットモンスター 赤",
+        "platformNo": 12,
+        "image": "./img/pDBfkdhct9.webp",
+        "releaseDate": "1996-02-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 181
+    },
+    {
+        "title": "ファミコンミニ スーパーマリオブラザーズ",
+        "platformNo": 12,
+        "image": "./img/2or8NfojQL.webp",
+        "releaseDate": "2005-09-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 182
+    },
+    {
+        "title": "ドラゴンボール アドバンスアドベンチャー",
+        "platformNo": 12,
+        "image": "./img/vB8r2nJ6eA.webp",
+        "releaseDate": "2004-11-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 183
+    },
+    {
+        "title": "ファントム・ブレイブ",
+        "platformNo": 9,
+        "image": "./img/mXbrFg3ZhO.webp",
+        "releaseDate": "2010-10-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 184
+    },
+    {
+        "title": "Fallout 3",
+        "platformNo": 14,
+        "image": "./img/ePpWBFvU45.jpg",
+        "releaseDate": "2008-10-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 185
+    },
+    {
+        "title": "Fallout 4",
+        "platformNo": 14,
+        "image": "./img/t8Qjk4ERPk.png",
+        "releaseDate": "2015-11-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 186
+    },
+    {
+        "title": "Fallout: New Vegas",
+        "platformNo": 14,
+        "image": "./img/Y9nGHNMSX7.jpg",
+        "releaseDate": "2010-10-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 187
+    },
+    {
+        "title": "Undertale",
+        "platformNo": 14,
+        "image": "./img/qd1JlTy5oP.png",
+        "releaseDate": "2015-09-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 188
+    },
+    {
+        "title": "Portal",
+        "platformNo": 14,
+        "image": "./img/l0L0Aob7SF.webp",
+        "releaseDate": "2007-10-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 189
+    },
+    {
+        "title": "Portal2",
+        "platformNo": 14,
+        "image": "./img/VC205X5xNj.jpg",
+        "releaseDate": "2007-10-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 190
+    },
+    {
+        "title": "アサシン クリード オリジンズ",
+        "platformNo": 14,
+        "image": "./img/P4ArnwwNNq.jpg",
+        "releaseDate": "2017-10-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 191
+    },
+    {
+        "title": "BIOSHOCK REMASTERED",
+        "platformNo": 14,
+        "image": "./img/4gd7jaiMf7.jpg",
+        "releaseDate": "2016-09-16",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 192
+    },
+    {
+        "title": "BIOSHOCK 2",
+        "platformNo": 14,
+        "image": "./img/rEF0UOuWRH.jpg",
+        "releaseDate": "2010-02-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 193
+    },
+    {
+        "title": "BIOSHOCK INFINLTE",
+        "platformNo": 14,
+        "image": "./img/EMWH6aMHFp.jpg",
+        "releaseDate": "2013-04-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 194
+    },
+    {
+        "title": "Batman: Arkham Asylum",
+        "platformNo": 14,
+        "image": "./img/HhmKL07TS8.jpg",
+        "releaseDate": "2010-03-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 195
+    },
+    {
+        "title": "Batman: Arkham City",
+        "platformNo": 14,
+        "image": "./img/UZbLbkgQcC.jpg",
+        "releaseDate": "2012-09-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 196
+    },
+    {
+        "title": "Just Cause 3",
+        "platformNo": 14,
+        "image": "./img/KqyYHvPXGo.jpg",
+        "releaseDate": "2015-12-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 197
+    },
+    {
+        "title": "NEEDY GIRL OVERDOSE",
+        "platformNo": 14,
+        "image": "./img/unngat5FsS.jpg",
+        "releaseDate": "2022-01-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 198
+    },
+    {
+        "title": "Papers, Please",
+        "platformNo": 14,
+        "image": "./img/MVe2A2BdGd.jpg",
+        "releaseDate": "2013-08-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 199
+    },
+    {
+        "title": "Mini Metro",
+        "platformNo": 14,
+        "image": "./img/OAwlgJGWJs.jpg",
+        "releaseDate": "2015-11-07",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 200
+    },
+    {
+        "title": "OneShot",
+        "platformNo": 14,
+        "image": "./img/ZrcRlwkOsA.jpg",
+        "releaseDate": "2022-10-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 201
+    },
+    {
+        "title": "Please, Dont Touch Anything",
+        "platformNo": 14,
+        "image": "./img/408ozzq8Ar.jpg",
+        "releaseDate": "2015-03-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 202
+    },
+    {
+        "title": "Minecraft",
+        "platformNo": 14,
+        "image": "./img/As0DXh6xAj.jpg",
+        "releaseDate": "2011-11-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 203
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "platformNo": 14,
+        "image": "./img/eYRm55w0v3.jpg",
+        "releaseDate": "2011-11-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 204
+    },
+    {
+        "title": "ドキドキ文芸部!",
+        "platformNo": 14,
+        "image": "./img/2BOTg5GSWW.jpg",
+        "releaseDate": "2017-09-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 205
+    },
+    {
+        "title": "Cuphead",
+        "platformNo": 14,
+        "image": "./img/ER0jryCCKW.png",
+        "releaseDate": "2017-09-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 206
+    },
+    {
+        "title": "Cities: Skylines",
+        "platformNo": 14,
+        "image": "./img/slKZOLu0ZX.jpg",
+        "releaseDate": "2015-03-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 207
+    },
+    {
+        "title": "Borderlands 2",
+        "platformNo": 14,
+        "image": "./img/FP49SlmzDF.jpg",
+        "releaseDate": "2012-10-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 208
+    },
+    {
+        "title": "Among Us",
+        "platformNo": 14,
+        "image": "./img/3QDSqRlG9z.jpg",
+        "releaseDate": "2018-11-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 209
+    },
+    {
+        "title": "UNO",
+        "platformNo": 14,
+        "image": "./img/RUmxuUd78t.jpg",
+        "releaseDate": "2016-12-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 210
+    },
+    {
+        "title": "Terraria",
+        "platformNo": 14,
+        "image": "./img/P7ciJhKoJi.jpg",
+        "releaseDate": "2011-05-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 211
+    },
+    {
+        "title": "Stardew Valley",
+        "platformNo": 14,
+        "image": "./img/Oinw01KuRl.jpg",
+        "releaseDate": "2016-02-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 212
+    },
+    {
+        "title": "PARQUET",
+        "platformNo": 14,
+        "image": "./img/0L6xGN8b6S.jpg",
+        "releaseDate": "2021-07-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 213
+    },
+    {
+        "title": "STEINS;GATE",
+        "platformNo": 14,
+        "image": "./img/qGUHc1qQdN.jpg",
+        "releaseDate": "2009-10-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 214
+    },
+    {
+        "title": "STEINS;GATE 0",
+        "platformNo": 14,
+        "image": "./img/yuAeB7C1iD.jpg",
+        "releaseDate": "2015-12-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 215
+    },
+    {
+        "title": "ASTRAL CHAIN",
+        "platformNo": 2,
+        "image": "./img/GGeRGHShTZ.jpg",
+        "releaseDate": "2019-08-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 216
+    },
+    {
+        "title": "龍が如く 極2",
+        "platformNo": 14,
+        "image": "./img/LAj1YRsZpW.webp",
+        "releaseDate": "2019-05-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 217
+    },
+    {
+        "title": "龍が如く 極",
+        "platformNo": 14,
+        "image": "./img/465WpQNnTz.webp",
+        "releaseDate": "2019-02-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 218
+    },
+    {
+        "title": "龍が如く0 誓いの場所",
+        "platformNo": 14,
+        "image": "./img/uVPyoyoc7d.webp",
+        "releaseDate": "2018-08-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 219
+    },
+    {
+        "title": "SpaceChem",
+        "platformNo": 14,
+        "image": "./img/lHyH50GcA7.jpg",
+        "releaseDate": "2011-03-03",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 220
+    },
+    {
+        "title": "Sid Meier's Civilization V",
+        "platformNo": 14,
+        "image": "./img/jhZvZQqy9w.jpg",
+        "releaseDate": "2011-07-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 221
+    },
+    {
+        "title": "Sid Meier’s Civilization VI",
+        "platformNo": 14,
+        "image": "./img/iB18RR69Rp.jpg",
+        "releaseDate": "2016-10-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 222
+    },
+    {
+        "title": "The Shrouded Isle",
+        "platformNo": 14,
+        "image": "./img/ytcdZlydr7.jpg",
+        "releaseDate": "2017-08-05",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 223
+    },
+    {
+        "title": "100%おれんじじゅ～すっ！",
+        "platformNo": 14,
+        "image": "./img/hkdw0ApYtq.jpg",
+        "releaseDate": "2013-09-10",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 224
+    },
+    {
+        "title": "ダンガンロンパ 希望の学園と絶望の高校生",
+        "platformNo": 14,
+        "image": "./img/fPEW1G8nxt.jpg",
+        "releaseDate": "2016-02-18",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 225
+    },
+    {
+        "title": "スーパーダンガンロンパ2 さよなら絶望学園",
+        "platformNo": 14,
+        "image": "./img/3bPc5DNwy8.jpg",
+        "releaseDate": "2016-04-19",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "SS",
+        "id": 226
+    },
+    {
+        "title": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+        "platformNo": 14,
+        "image": "./img/WZC2nsPvqg.png",
+        "releaseDate": "2017-09-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 227
+    },
+    {
+        "title": "ロストテクノロジー",
+        "platformNo": 14,
+        "image": "./img/r1QXZOFsFb.jpg",
+        "releaseDate": "2017-08-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 228
+    },
+    {
+        "title": "Dying Light",
+        "platformNo": 14,
+        "image": "./img/4ctTXXgkSz.webp",
+        "releaseDate": "2022-10-25",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 229
+    },
+    {
+        "title": "Dishonored",
+        "platformNo": 14,
+        "image": "./img/sNwsSS5ihW.jpg",
+        "releaseDate": "2012-10-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 230
+    },
+    {
+        "title": "Far Cry 3",
+        "platformNo": 14,
+        "image": "./img/yaMvD0IMA9.webp",
+        "releaseDate": "2012-11-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 231
+    },
+    {
+        "title": "Hacknet",
+        "platformNo": 14,
+        "image": "./img/Vq7yzXsteW.webp",
+        "releaseDate": "2015-08-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 232
+    },
+    {
+        "title": "ベヨネッタ",
+        "platformNo": 14,
+        "image": "./img/ijtvBScQGX.webp",
+        "releaseDate": "2017-04-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 233
+    },
+    {
+        "title": "Half-Life",
+        "platformNo": 14,
+        "image": "./img/5xokIwsT7r.jpg",
+        "releaseDate": "1998-11-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 234
+    },
+    {
+        "title": "Left 4 Dead 2",
+        "platformNo": 14,
+        "image": "./img/a4ybRY8fxM.webp",
+        "releaseDate": "2009-11-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 235
+    },
+    {
+        "title": "Life is Strange - Episode 1",
+        "platformNo": 14,
+        "image": "./img/FCOSZoof9x.jpg",
+        "releaseDate": "2015-01-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 236
+    },
+    {
+        "title": "LIMBO",
+        "platformNo": 14,
+        "image": "./img/MUS587Qyhg.webp",
+        "releaseDate": "2011-08-03",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 237
+    },
+    {
+        "title": "LISA: The Painful",
+        "platformNo": 14,
+        "image": "./img/kF2uXRLPCw.jpg",
+        "releaseDate": "2014-12-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 238
+    },
+    {
+        "title": "Little Witch Nobeta",
+        "platformNo": 14,
+        "image": "./img/kKqXOAjxX0.webp",
+        "releaseDate": "2022-09-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 239
+    },
+    {
+        "title": "Metro 2033 Redux",
+        "platformNo": 14,
+        "image": "./img/D4IVytzPT4.png",
+        "releaseDate": "2014-08-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 240
+    },
+    {
+        "title": "Metro: Last Light Redux",
+        "platformNo": 14,
+        "image": "./img/v19Ql1UESR.webp",
+        "releaseDate": "2014-08-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "",
+        "id": 241
+    },
+    {
+        "title": "Mount & Blade: Warband",
+        "platformNo": 14,
+        "image": "./img/wbeXLHIyZ9.jpg",
+        "releaseDate": "2010-03-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 242
+    },
+    {
+        "title": "Tom Clancy's Rainbow Six Siege",
+        "platformNo": 14,
+        "image": "./img/VqoVCIRc17.jpg",
+        "releaseDate": "2015-12-02",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "D",
+        "id": 243
+    },
+    {
+        "title": "Battlefield4",
+        "platformNo": 14,
+        "image": "./img/H8whzdMGfb.jpg",
+        "releaseDate": "2013-10-29",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 244
+    },
+    {
+        "title": "Battlefield1",
+        "platformNo": 14,
+        "image": "./img/YZ3HXgFDUR.jpg",
+        "releaseDate": "2016-10-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 245
+    },
+    {
+        "title": "BattlefieldV",
+        "platformNo": 14,
+        "image": "./img/9hRyDwJBer.jpg",
+        "releaseDate": "2018-11-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 246
+    },
+    {
+        "title": "うたわれるもの 散りゆく者への子守唄",
+        "platformNo": 14,
+        "image": "./img/Vl5JEuHOVV.jpg",
+        "releaseDate": "2021-01-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 247
+    },
+    {
+        "title": "うたわれるもの 二人の白皇",
+        "platformNo": 14,
+        "image": "./img/H3WHoxuIfG.jpg",
+        "releaseDate": "2020-01-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 248
+    },
+    {
+        "title": "うたわれるもの 偽りの仮面",
+        "platformNo": 14,
+        "image": "./img/eX4tYnYp8P.jpg",
+        "releaseDate": "2020-01-23",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 249
+    },
+    {
+        "title": "ファイアーエムブレム エンゲージ",
+        "platformNo": 2,
+        "image": "./img/uNypj3VabV.jpg",
+        "releaseDate": "2023-01-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 250
+    },
+    {
+        "title": "超探偵事件簿 レインコード",
+        "platformNo": 2,
+        "image": "./img/6RsvBDzDZo.png",
+        "releaseDate": "2023-06-30",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 251
+    },
+    {
+        "title": "イナズマイレブン 英雄たちのグレートロード",
+        "platformNo": 1,
+        "image": "./img/nVVaZ1Dzdc.webp",
+        "releaseDate": "2025-11-14",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 252
+    },
+    {
+        "title": "イースX -NORDICS-",
+        "platformNo": 1,
+        "image": "./img/p25fM4RaJc.webp",
+        "releaseDate": "2023-09-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 253
+    },
+    {
+        "title": "イース・メモワール -フェルガナの誓い-",
+        "platformNo": 2,
+        "image": "./img/MDeSg83I3K.jpg",
+        "releaseDate": "2023-04-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 254
+    },
+    {
+        "title": "いけにえと雪のセツナ",
+        "platformNo": 3,
+        "image": "./img/cxwuuVVMpG.png",
+        "releaseDate": "2016-02-08",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 255
+    },
+    {
+        "title": "OCTOPATH TRAVELERⅡ",
+        "platformNo": 1,
+        "image": "./img/nxPZdQaYV5.webp",
+        "releaseDate": "2023-02-24",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 256
+    },
+    {
+        "title": " デジモンサヴァイブ",
+        "platformNo": 2,
+        "image": "./img/lJSrODpUFh.jpg",
+        "releaseDate": "2022-07-28",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 257
+    },
+    {
+        "title": "タクティクスオウガ リボーン",
+        "platformNo": 3,
+        "image": "./img/zZ2z9s690i.jpg",
+        "releaseDate": "2022-11-11",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 258
+    },
+    {
+        "title": "バテン・カイトス I & II HD Remaster",
+        "platformNo": 2,
+        "image": "./img/n4R2Zrj5EX.webp",
+        "releaseDate": "2023-09-14",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 259
+    },
+    {
+        "title": "逆転裁判123 成歩堂セレクション",
+        "platformNo": 14,
+        "image": "./img/a0i53Vrk5X.jpg",
+        "releaseDate": "2014-04-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 260
+    },
+    {
+        "title": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
+        "platformNo": 14,
+        "image": "./img/Lf8YsGmb4V.webp",
+        "releaseDate": "2021-07-29",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 261
+    },
+    {
+        "title": "ガンダム オペレーショントロイ",
+        "platformNo": 8,
+        "image": "./img/9xhIIF4Q5d.webp",
+        "releaseDate": "2023-06-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 262
+    },
+    {
+        "title": "PRAGMATA",
+        "platformNo": 1,
+        "image": "./img/fkKjAds0ck.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 263
+    },
+    {
+        "title": "百英雄伝",
+        "platformNo": 1,
+        "image": "data:image/jpeg;base64,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",
+        "releaseDate": "2024-04-21",
+        "purchaseFlag": true,
+        "packageFlag": false,
+        "rank": "C",
+        "id": 264
+    },
+    {
+        "title": "FINAL FANTASY XVI",
+        "platformNo": 1,
+        "image": "./img/IrNKRuZeuU.jpg",
+        "releaseDate": "2023-06-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 265
+    },
+    {
+        "title": "スターオーシャン1 -First Departure R-",
+        "platformNo": 3,
+        "image": "./img/oTjHLHaI61.webp",
+        "releaseDate": "2019-12-05",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 266
+    },
+    {
+        "title": "スターオーシャン -THE SECOND STORY R-",
+        "platformNo": 1,
+        "image": "./img/1YA4xrmrEr.webp",
+        "releaseDate": "2023-11-02",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 267
+    },
+    {
+        "title": "うみねこのなく頃に",
+        "platformNo": 14,
+        "image": "./img/VWE9hqoL2i.webp",
+        "releaseDate": "2010-12-31",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 268
+    },
+    {
+        "title": "ひぐらしのなく頃に",
+        "platformNo": 14,
+        "image": "./img/qOV5nURSaN.webp",
+        "releaseDate": "2006-08-13",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 269
+    },
+    {
+        "title": "ポッ拳 POKKÉN TOURNAMENT DX",
+        "platformNo": 2,
+        "image": "./img/ixnOSv4duX.jpg",
+        "releaseDate": "2017-09-22",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 270
+    },
+    {
+        "title": "ユニコーンオーバーロード",
+        "platformNo": 1,
+        "image": "./img/3wWvKlfTMY.jpg",
+        "releaseDate": "2024-03-08",
+        "purchaseFlag": true,
+        "packageFlag": false,
+        "rank": "A",
+        "id": 271
+    },
+    {
+        "title": "逆転裁判456 王泥喜セレクション",
+        "platformNo": 14,
+        "image": "./img/qEnxB2ur5V.webp",
+        "releaseDate": "2024-01-25",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 272
+    },
+    {
+        "title": "P5T - ペルソナ5 タクティカ",
+        "platformNo": 3,
+        "image": "./img/x5MYBwaYqB.jpg",
+        "releaseDate": "2023-11-17",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 273
+    },
+    {
+        "title": "P3RE - ペルソナ3 リロード",
+        "platformNo": 1,
+        "image": "./img/u03PoGcGiS.webp",
+        "releaseDate": "2024-02-02",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 274
+    },
+    {
+        "title": "トライアングルストラテジー",
+        "platformNo": 2,
+        "image": "./img/1gcULdCPTM.jpg",
+        "releaseDate": "2022-03-04",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 275
+    },
+    {
+        "title": "ポケットモンスター ルビー",
+        "platformNo": 12,
+        "image": "./img/LFfNC1RVbj.webp",
+        "releaseDate": "2002-11-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 276
+    },
+    {
+        "title": "電車でGO!3 通勤編",
+        "platformNo": 13,
+        "image": "./img/k7LO49TKNH.webp",
+        "releaseDate": "2001-03-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 277
+    },
+    {
+        "title": "マリオカート7",
+        "platformNo": 5,
+        "image": "./img/kuwCeU3cHz.webp",
+        "releaseDate": "2012-12-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 278
+    },
+    {
+        "title": "ワンピース 夢のルフィ海賊団誕生！",
+        "platformNo": 12,
+        "image": "./img/WqQ72APpmA.webp",
+        "releaseDate": "2001-04-27",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "E",
+        "id": 279
+    },
+    {
+        "title": "428 〜封鎖された渋谷で〜",
+        "platformNo": 3,
+        "image": "./img/YXdRn8sM0t.jpg",
+        "releaseDate": "2008-12-04",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 280
+    },
+    {
+        "title": "Summer Pockets",
+        "platformNo": 14,
+        "image": "./img/9TB4P8VIBi.webp",
+        "releaseDate": "2018-06-29",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 281
+    },
+    {
+        "title": "大神 絶景版",
+        "platformNo": 2,
+        "image": "./img/cunfJbPOXw.jpg",
+        "releaseDate": "2018-08-09",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 282
+    },
+    {
+        "title": "ロマンシング サガ2",
+        "platformNo": 2,
+        "image": "./img/7IcgMfAZTS.jpg",
+        "releaseDate": "2017-12-15",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 283
+    },
+    {
+        "title": "イース・オリジン",
+        "platformNo": 2,
+        "image": "./img/fozPwE11FB.jpg",
+        "releaseDate": "2020-10-01",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 284
+    },
+    {
+        "title": "メタファー：リファンタジオ",
+        "platformNo": 1,
+        "image": "./img/xvnFrtHzk9.webp",
+        "releaseDate": "2024-10-11",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 285
+    },
+    {
+        "title": "ソウルハッカーズ2",
+        "platformNo": 3,
+        "image": "./img/ZBn96Jw596.jpg",
+        "releaseDate": "2022-08-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 286
+    },
+    {
+        "title": "ARMORED CORE VI FIRES OF RUBICON",
+        "platformNo": 1,
+        "image": "./img/8Y9TT26sdg.webp",
+        "releaseDate": "2023-08-25",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 287
+    },
+    {
+        "title": "FINAL FANTASY VIII Remastered",
+        "platformNo": 2,
+        "image": "./img/nlBaXwULR2.jpg",
+        "releaseDate": "2019-09-03",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "S",
+        "id": 288
+    },
+    {
+        "title": "FINAL FANTASY IX",
+        "platformNo": 2,
+        "image": "./img/pLo2gplV1O.webp",
+        "releaseDate": "2019-02-14",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 289
+    },
+    {
+        "title": "Battlefield 2042",
+        "platformNo": 14,
+        "image": "./img/qlVuKsgC1X.jpg",
+        "releaseDate": "2021-10-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 290
+    },
+    {
+        "title": "Frostpunk",
+        "platformNo": 14,
+        "image": "./img/ALwioVmpaF.jpg",
+        "releaseDate": "2018-04-24",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 291
+    },
+    {
+        "title": "真・女神転生V",
+        "platformNo": 2,
+        "image": "./img/mcwMiftBqV.jpg",
+        "releaseDate": "2024-06-21",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 292
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "platformNo": 14,
+        "image": "./img/cKCzJArK0E.webp",
+        "releaseDate": "2020-12-10",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 293
+    },
+    {
+        "title": "ドラゴンクエストI&II",
+        "platformNo": 1,
+        "image": "./img/YrNnMNyXzF.webp",
+        "releaseDate": "2025-10-25",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 294
+    },
+    {
+        "title": "かまいたちの夜x3",
+        "platformNo": 2,
+        "image": "./img/7qPzMDLZN9.webp",
+        "releaseDate": "2024-09-19",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 295
+    },
+    {
+        "title": "HUNDRED LINE -最終防衛学園-",
+        "platformNo": 2,
+        "image": "./img/GQCqWhFfzm.webp",
+        "releaseDate": "2025-04-24",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 296
+    },
+    {
+        "title": "逆転検事1&2 御剣セレクション",
+        "platformNo": 14,
+        "image": "./img/5ssQUPFH6D.webp",
+        "releaseDate": "2024-09-06",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 297
+    },
+    {
+        "title": "ユミアのアトリエ ～追憶の錬金術士と幻創の地～",
+        "platformNo": 1,
+        "image": "./img/5uFzzX7Brz.webp",
+        "releaseDate": "2025-03-21",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 298
+    },
+    {
+        "title": "英雄伝説 空の軌跡 the 1st",
+        "platformNo": 1,
+        "image": "./img/b3jwZJNkUk.webp",
+        "releaseDate": "2025-09-19",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 299
+    },
+    {
+        "title": "XenobladeX Definitive Edition",
+        "platformNo": 2,
+        "image": "./img/LF5CWkkcSi.webp",
+        "releaseDate": "2025-03-20",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 300
+    },
+    {
+        "title": "テイルズ オブ イノセンス",
+        "platformNo": 10,
+        "image": "./img/a9AnbvAWlW.webp",
+        "releaseDate": "2007-12-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 301
+    },
+    {
+        "title": "エストポリス",
+        "platformNo": 10,
+        "image": "./img/JOHSohpDhk.webp",
+        "releaseDate": "2007-12-06",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 302
+    },
+    {
+        "title": "ポケットモンスター Y",
+        "platformNo": 5,
+        "image": "./img/FzdOMqataQ.webp",
+        "releaseDate": "2013-10-12",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 303
+    },
+    {
+        "title": "ロマンシング サガ2 リベンジオブザセブン",
+        "platformNo": 1,
+        "image": "./img/HPa6I2ko2U.webp",
+        "releaseDate": "2024-10-24",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 304
+    },
+    {
+        "title": "英雄伝説 界の軌跡 -Farewell, O Zemuria-",
+        "platformNo": 1,
+        "image": "./img/mSu432g0W2.jpg",
+        "releaseDate": "2024-09-26",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "B",
+        "id": 305
+    },
+    {
+        "title": "魔法使いの夜",
+        "platformNo": 14,
+        "image": "./img/iuiCPPWT0I.webp",
+        "releaseDate": "2023-12-14",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 306
+    },
+    {
+        "title": "マリオカート ワールド",
+        "platformNo": 0,
+        "image": "./img/r30U4NcozX.webp",
+        "releaseDate": "2025-06-05",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 307
+    },
+    {
+        "title": "ブレイブリーデフォルト フライングフェアリー HDリマスター",
+        "platformNo": 0,
+        "image": "./img/DHZtE3hehX.webp",
+        "releaseDate": "2025-06-05",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 308
+    },
+    {
+        "title": "RAIDOU Remastered: 超力兵団奇譚",
+        "platformNo": 1,
+        "image": "./img/7wriNAIyuF.webp",
+        "releaseDate": "2025-06-19",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 309
+    },
+    {
+        "title": "MOTHER1+2",
+        "platformNo": 12,
+        "image": "./img/tBDc87yebK.webp",
+        "releaseDate": "2003-06-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 310
+    },
+    {
+        "title": "MOTHER3",
+        "platformNo": 12,
+        "image": "./img/srI9p66NAj.webp",
+        "releaseDate": "2006-04-20",
+        "purchaseFlag": true,
+        "packageFlag": true,
+        "rank": "A",
+        "id": 311
+    },
+    {
+        "title": "レイジングループ",
+        "platformNo": 14,
+        "image": "./img/aeQoHKL2vW.webp",
+        "releaseDate": "2017-08-24",
+        "purchaseFlag": false,
+        "packageFlag": false,
+        "rank": "",
+        "id": 312
+    },
+    {
+        "title": "グノーシア",
+        "platformNo": 2,
+        "image": "./img/CaYzePBEPN.webp",
+        "releaseDate": "2020-04-30",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 313
+    },
+    {
+        "title": "Marvel's Guardians of the Galaxy",
+        "platformNo": 14,
+        "image": "./img/EYwVI7goid.webp",
+        "releaseDate": "2021-10-26",
+        "purchaseFlag": true,
+        "packageFlag": false,
+        "rank": "",
+        "id": 314
+    },
+    {
+        "title": "終天教団",
+        "platformNo": 2,
+        "image": "./img/3ttAxdMzMf.webp",
+        "releaseDate": "2025-09-05",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 315
+    },
+    {
+        "title": "Marvel 1943: Rise of Hydra",
+        "platformNo": 14,
+        "image": "./img/rG9jqiCQkM.webp",
+        "releaseDate": "2026-01-01",
+        "purchaseFlag": false,
+        "packageFlag": false,
+        "rank": "",
+        "id": 316
+    },
+    {
+        "title": "冒険家エリオットの千年物語",
+        "platformNo": 0,
+        "image": "./img/gqzJnU05of.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 317
+    },
+    {
+        "title": "オクトパストラベラー0",
+        "platformNo": 1,
+        "image": "./img/7uSmb2Dmem.webp",
+        "releaseDate": "2025-12-04",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 318
+    },
+    {
+        "title": "ドラゴンクエストVII Reimagined",
+        "platformNo": 1,
+        "image": "./img/lTAStl4SCK.webp",
+        "releaseDate": "2026-02-05",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 319
+    },
+    {
+        "title": "スーパーダンガンロンパ２×２",
+        "platformNo": 1,
+        "image": "./img/NSrZgA20d4.webp",
+        "releaseDate": "",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 320
+    },
+    {
+        "title": "ファイアーエムブレム 万紫千紅",
+        "platformNo": 0,
+        "image": "./img/51GykehapW.webp",
+        "releaseDate": "9999-99-99",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 321
+    },
+    {
+        "title": "ファイナルファンタジータクティクス - イヴァリース クロニクルズ",
+        "platformNo": 1,
+        "image": "./img/nMrXIoFkNG.webp",
+        "releaseDate": "2025-09-30",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 322
+    },
+    {
+        "title": "シロナガス島への帰還",
+        "platformNo": 14,
+        "image": "./img/IptlI3bnZo.jpg",
+        "releaseDate": "2020-03-03",
+        "purchaseFlag": true,
+        "packageFlag": false,
+        "rank": "A",
+        "id": 323
+    },
+    {
+        "title": "魔法少女ノ魔女裁判",
+        "platformNo": 14,
+        "image": "./img/nilXS6PwoA.webp",
+        "releaseDate": "2025-07-18",
+        "purchaseFlag": false,
+        "packageFlag": false,
+        "rank": "",
+        "id": 324
+    },
+    {
+        "title": "Angel Beats! -1st beat-",
+        "platformNo": 14,
+        "image": "./img/AXjlkdSNry.webp",
+        "releaseDate": "2020-04-17",
+        "purchaseFlag": false,
+        "packageFlag": false,
+        "rank": "",
+        "id": 325
+    },
+    {
+        "title": "魔界戦記ディスガイア6",
+        "platformNo": 1,
+        "image": "./img/z590lHQCBk.jpg",
+        "releaseDate": "2022-06-16",
+        "purchaseFlag": true,
+        "packageFlag": false,
+        "rank": "D",
+        "id": 326
+    },
+    {
+        "title": "Pokémon LEGENDS Z-A",
+        "platformNo": 0,
+        "image": "./img/xX8ql4MpAa.webp",
+        "releaseDate": "2025-10-16",
+        "purchaseFlag": false,
+        "packageFlag": true,
+        "rank": "",
+        "id": 327
+    }
 ]

@@ -15,7 +15,7 @@ export const StatisticsPanel = ({
 }: StatisticsPanelProps) => {
   return (
     <div className="grid grid-cols-2 gap-4 mb-6">
-      <div className={`${ACCENT.bg} rounded-lg p-6 text-white shadow-lg`}>
+      <div className={`${ACCENT.bg} rounded-lg p-6 text-white`}>
         <div className="flex items-center gap-3">
           <Package className="w-8 h-8" />
           <div>
@@ -24,7 +24,7 @@ export const StatisticsPanel = ({
           </div>
         </div>
       </div>
-      <div className="bg-slate-500 rounded-lg p-6 text-white shadow-lg">
+      <div className="bg-slate-500 rounded-lg p-6 text-white ">
         <div className="flex items-center gap-3">
           <ShoppingCart className="w-8 h-8" />
           <div>

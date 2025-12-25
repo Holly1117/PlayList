@@ -7,17 +7,6 @@ export const RANK_LIST = ["SS", "S", "A", "B", "C", "D", "E"] as const;
  * ダーク/ライトモードの色定義
  */
 export const THEME = {
-  light: {
-    // ライトモード
-    bg: "bg-white",
-    text: "text-gray-900",
-    textSecondary: "text-purple-700",
-    textMuted: "text-gray-600",
-    card: "bg-white",
-    cardHover: "hover:bg-gray-50",
-    input: "bg-white border-gray-300 text-gray-900 placeholder-gray-500",
-    button: "bg-gray-200 text-gray-900 hover:bg-gray-300",
-  },
   dark: {
     // ダークモード
     bg: "bg-slate-900",

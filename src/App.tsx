@@ -1,10 +1,9 @@
 import { useState, useEffect } from "react";
-import { Moon, Sun, ArrowUp } from "lucide-react";
+import { ArrowUp } from "lucide-react";
 import type { Game, Platform } from "./types";
 import gamesData from "./data/games.json";
 import platformsData from "./data/platforms.json";
-import { ACCENT } from "./constants";
-import { useTheme } from "./hooks/useTheme";
+import { ACCENT, THEME } from "./constants";
 import { useGameFilters } from "./hooks/useGameFilters";
 import { FilterPanel } from "./components/FilterPanel";
 import { StatisticsPanel } from "./components/StatisticsPanel";
@@ -15,8 +14,9 @@ const games = gamesData as Game[];
 const platforms = platformsData as Platform[];
 
 function App() {
-  // モード切替を useTheme フックで管理
-  const { isDarkMode, theme, toggleTheme } = useTheme();
+  // ダークモード固定
+  const isDarkMode = true;
+  const theme = THEME.dark;
   const {
     searchQuery,
     setSearchQuery,
@@ -77,20 +77,12 @@ function App() {
     <div className={`min-h-screen ${theme.bg} transition-colors duration-300`}>
       <div className="max-w-7xl mx-auto p-6">
         {/* ヘッダー */}
-        <header className="mb-8 flex justify-between items-center">
-          <div />
+        <header className="mb-8 flex justify-center items-center">
           <h1
             className={`text-5xl md:text-6xl font-bold ${theme.text} mb-2 text-center`}
           >
             PlayList
           </h1>
-          <button onClick={toggleTheme} className="p-3 rounded-lg transition ">
-            {isDarkMode ? (
-              <Sun className="w-6 h-6 fill-yellow-400 stroke-yellow-400" />
-            ) : (
-              <Moon className="w-6 h-6 fill-slate-600 stroke-slate-600" />
-            )}
-          </button>
         </header>
 
         {/* 購入済/未購入数 */}
@@ -127,7 +119,7 @@ function App() {
                     ({gamesByPlatform[Number(platformNo)].length})
                   </span>
                 </h2>
-                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <div className="game-grid">
                   {[...gamesByPlatform[Number(platformNo)]]
                     .sort(
                       (a, b) =>

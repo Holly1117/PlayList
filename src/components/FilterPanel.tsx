@@ -1,6 +1,6 @@
 import { Search } from "lucide-react";
 import type { PurchaseFilter, Rank } from "../types";
-import { ACCENT } from "../constants";
+import { ACCENT, RANK_COLORS } from "../constants";
 
 interface FilterPanelProps {
   theme: {
@@ -35,7 +35,7 @@ export const FilterPanel = ({
   rankList,
 }: FilterPanelProps) => {
   void isDarkMode;
-  const panelClass = `${theme.card} backdrop-blur-md rounded-lg p-6 mb-6`;
+  const panelClass = `${theme.card} rounded-lg p-6 mb-6`;
   return (
     <div className={panelClass}>
       {/* 検索ボックス */}
@@ -62,7 +62,7 @@ export const FilterPanel = ({
         <div className="flex gap-2">
           <button
             onClick={() => onPurchaseFilterToggle("purchased")}
-            className={`flex-1 py-2 px-4 rounded-lg font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
+            className={`flex-1 py-4 px-4 rounded-lg font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
               purchaseFilter.includes("purchased")
                 ? `${ACCENT.bg} ${ACCENT.textOnAccent}`
                 : theme.button
@@ -73,7 +73,7 @@ export const FilterPanel = ({
           </button>
           <button
             onClick={() => onPurchaseFilterToggle("unpurchased")}
-            className={`flex-1 py-2 px-4 rounded-lg font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
+            className={`flex-1 py-4 px-4 rounded-lg font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
               purchaseFilter.includes("unpurchased")
                 ? `${ACCENT.bg} ${ACCENT.textOnAccent}`
                 : theme.button
@@ -95,9 +95,9 @@ export const FilterPanel = ({
             <button
               key={rank}
               onClick={() => onRankToggle(rank)}
-              className={`py-1.5 px-4 rounded-lg text-sm font-medium transition focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
+              className={`w-12 h-12 rounded-lg font-medium transition flex items-center justify-center focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 focus-visible:ring-slate-300 ${
                 selectedRanks.includes(rank)
-                  ? `${ACCENT.bg} ${ACCENT.textOnAccent}`
+                  ? `${RANK_COLORS[rank as keyof typeof RANK_COLORS]}`
                   : theme.button
               }`}
               aria-pressed={selectedRanks.includes(rank)}

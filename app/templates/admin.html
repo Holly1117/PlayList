@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <title>PlayList</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./static/css/admin.css">
+    <script src="https://code.jquery.com/jquery-3.6.1.js"
+        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <Form class="Form" method="post">
+        <h1>PlayListの登録</h1>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-True-Color">必須</span>タイトル</p>
+            <input type="text" name="game_title" class="Form-Item-Input" placeholder="例）P5R - ペルソナ5 ザ・ロイヤル" required>
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-True-Color">必須</span>プラットフォーム</p>
+            <select class="Form-Item-Input" name="game_platform" required>
+                {% for platform in platforms %}
+                <option value="{{ platform.platformNo }}">{{ platform.platformName }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-True-Color">必須</span>画像URL</p>
+            <input type="text" name="game_image" class="Form-Item-Input" required>
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-False-Color">任意</span>発売日</p>
+            <input type="date" name="game_date" class="Form-Item-Input">
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-True-Color">必須</span>発売形式</p>
+            <select class="Form-Item-Input" name="game_format">
+                <option>パッケージ版</option>
+                <option>ダウンロード版</option>
+            </select>
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-True-Color">必須</span>ステータス</p>
+            <select class="Form-Item-Input" name="game_status">
+                <option>未購入</option>
+                <option>購入済</option>
+            </select>
+        </div>
+        <div class="Form-Item">
+            <p class="Form-Item-Label"><span class="Form-Item-Label-Required Required-False-Color">任意</span>評価</p>
+            <select class="Form-Item-Input" name="game_rank">
+                <option></option>
+                <option>SS</option>
+                <option>S</option>
+                <option>A</option>
+                <option>B</option>
+                <option>C</option>
+                <option>D</option>    
+                <option>E</option>
+                <option>F</option>
+            </select>
+        </div>
+        <input type="submit" class="Form-Btn" value="追加">
+        </div>
+    </Form>
+</body>
+
+</html>
